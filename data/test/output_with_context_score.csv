@@ -3,7 +3,7 @@ title,context_score
 Battle of Santa Clara (1927),{'battle': 1.0}
 Siege of Pondicherry (1793),{'siege': 1.0}
 Battle of Leuthen,{'battle': 1.0}
-Glasgow St Enoch rail accident,"{'rail': 1.0, 'accident': 0.7565370481203059}"
+Glasgow St Enoch rail accident,"{'rail': 1.0, 'accident': 0.7565370481203058}"
 Murder of Lee Rigby,{'murder': 1.0}
 Siege of Bayonne,{'siege': 1.0}
 Air Florida Flight 90,{'flight': 1.0}
@@ -55,7 +55,7 @@ Yemenia Flight 448,{'flight': 1.0}
 Operation Stinger,{'operation': 1.0}
 1985 Rajneeshee assassination plot,{'assassination': 1.0}
 Glina massacres,"{'glina': 0.6393401683683237, 'massacres': 1.0}"
-Pope John Paul II assassination attempt,"{'john': 0.8129885900358821, 'ii': 1.0, 'assassination': 0.9840114351801799}"
+Pope John Paul II assassination attempt,"{'john': 0.8129885900358819, 'ii': 1.0, 'assassination': 0.9840114351801799}"
 Anglo-Turkish War (1807–09),{'war': 1.0}
 Death of Tina Watson,{'death': 1.0}
 Mau Mau Uprising,{'uprising': 1.0}
@@ -123,9 +123,9 @@ Battle of San Juan (1595),{'battle': 1.0}
 Inqilab March,{'march': 1.0}
 2011 London anti-cuts protest,"{'london': 0.6750906259119519, 'protest': 1.0}"
 2011 Tel Aviv nightclub attack,{'attack': 1.0}
-Xenophobia in South Africa,"{'south': 0.8357204928641129, 'africa': 1.0}"
+Xenophobia in South Africa,"{'south': 0.8357204928641128, 'africa': 1.0}"
 Cadereyta Jiménez massacre,{'massacre': 1.0}
-2011 Chinese pro-democracy protests,"{'pro': 0.6146212058433442, 'protests': 1.0}"
+2011 Chinese pro-democracy protests,"{'pro': 0.6146212058433441, 'protests': 1.0}"
 Battle of San Jacinto,{'battle': 1.0}
 Más Para Dar,{'para': 1.0}
 Quasi-War,{'war': 1.0}
@@ -154,16 +154,16 @@ Eyes Open Tour,{'tour': 1.0}
 Corfu Channel incident,{'incident': 1.0}
 Conscription Crisis of 1917,{'crisis': 1.0}
 Hundred Years' War (1415–53),{'war': 1.0}
-1982 British Army Gazelle friendly fire incident,"{'british': 0.599914703257417, 'fire': 0.6214646550964505, 'incident': 1.0}"
+1982 British Army Gazelle friendly fire incident,"{'british': 0.5999147032574171, 'fire': 0.6214646550964507, 'incident': 1.0}"
 Miss Macao,"{'miss': 1.0, 'macao': 0.5257385590216312}"
 Death of Tom Simpson,{'death': 1.0}
 Rendez-vous Houston,"{'rendez': 1.0, 'vous': 1.0, 'houston': 1.0}"
 Operation Arbead II,{'operation': 1.0}
-2010 Northumbria Police manhunt,"{'police': 1.0, 'manhunt': 0.7378158910463957}"
+2010 Northumbria Police manhunt,"{'police': 1.0, 'manhunt': 0.7378158910463958}"
 1993 Bombay bombings,{'bombings': 1.0}
 Široka Kula massacre,{'massacre': 1.0}
 Influenza A virus subtype H7N9,"{'virus': 1.0, 'subtype': 1.0}"
-Assassination of John F. Kennedy,"{'assassination': 1.0, 'john': 0.826198315354961}"
+Assassination of John F. Kennedy,"{'assassination': 1.0, 'john': 0.8261983153549609}"
 Manili massacre,{'massacre': 1.0}
 Islamabad Marriott Hotel bombing,{'bombing': 1.0}
 McMahon killings,{'killings': 1.0}
@@ -187,7 +187,7 @@ Deng Yujiao incident,{'incident': 1.0}
 Bayern Munich v Norwich City,{'city': 1.0}
 Fourth Macedonian War,{'war': 1.0}
 Haitian Revolution,{'revolution': 1.0}
-Iran hostage crisis,"{'iran': 0.7628778280178221, 'crisis': 1.0}"
+Iran hostage crisis,"{'iran': 0.762877828017822, 'crisis': 1.0}"
 CMLL Reyes del Aire,"{'cmll': 0.7087748627873494, 'reyes': 0.7207039513931638, 'del': 1.0, 'aire': 0.7207039513931638}"
 Triangle Shirtwaist Factory fire,{'fire': 1.0}
 Sexual assault of Savannah Dietrich,"{'assault': 0.7474887844937647, 'savannah': 1.0}"
@@ -242,7 +242,7 @@ Hurricane Connie,{'hurricane': 1.0}
 Cyclone Thelma,{'cyclone': 1.0}
 (You Drive Me) Crazy Tour,{'tour': 1.0}
 Dynasty Tour,{'tour': 1.0}
-Bombing of Tan Son Nhut Air Base,"{'bombing': 1.0, 'air': 0.7140679803922989}"
+Bombing of Tan Son Nhut Air Base,"{'bombing': 1.0, 'air': 0.714067980392299}"
 Campaign against Dong Zhuo,{'campaign': 1.0}
 Hurricane Ernesto (2006),{'hurricane': 1.0}
 Hurricane Dean (1989),{'hurricane': 1.0}
@@ -255,7 +255,7 @@ St. Joseph Secondary School (Mississauga),"{'st': 1.0, 'school': 0.9828934947210
 Question Time British National Party controversy,{'national': 1.0}
 Eastern Front (World War II),"{'world': 0.5422257885702634, 'war': 1.0}"
 Operation Northern Watch,{'operation': 1.0}
-Nazi crimes against the Polish nation,"{'polish': 1.0, 'nation': 0.7950191912410288}"
+Nazi crimes against the Polish nation,"{'polish': 1.0, 'nation': 0.7950191912410286}"
 Musket Wars,{'wars': 1.0}
 1950–51 Baghdad bombings,{'bombings': 1.0}
 AWB oil-for-wheat scandal,"{'oil': 1.0, 'scandal': 0.9896558359207182}"
@@ -280,7 +280,7 @@ Techkriti,{'techkriti': 1.0}
 Capital Airlines Flight 75,{'flight': 1.0}
 Soviet–Afghan War,{'war': 1.0}
 2001 Ealing bombing,{'bombing': 1.0}
-Wushu at the 2005 Southeast Asian Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}"
+Wushu at the 2005 Southeast Asian Games,"{'southeast': 0.7395659650622353, 'asian': 1.0}"
 Sinking of the RMS Titanic,{'sinking': 1.0}
 Devotional Tour,{'tour': 1.0}
 Better Out Than In,{'out': 1.0}
@@ -289,7 +289,7 @@ Times Square Ball,"{'square': 1.0, 'ball': 0.9923450863428565}"
 Voodoo Lounge Tour,{'tour': 1.0}
 Edinburgh Festival Fringe,{'festival': 1.0}
 London Craft Week,"{'london': 1.0, 'week': 0.5816004496046056}"
-Indian Civil Aviation Airshow,"{'indian': 0.6555436893966223, 'civil': 1.0}"
+Indian Civil Aviation Airshow,"{'indian': 0.6555436893966222, 'civil': 1.0}"
 Cygnet Folk Festival,{'festival': 1.0}
 2009 in World Victory Road,{'world': 1.0}
 Pullman Strike,{'strike': 1.0}
@@ -376,7 +376,7 @@ Combat Skyspot,"{'combat': 1.0, 'skyspot': 0.54634997674215}"
 Oregon Country Fair,{'fair': 1.0}
 1949 Exhall mid-air collision,{'air': 1.0}
 Battle of Santa Cruz de Tenerife (1797),{'battle': 1.0}
-Three Mile Island accident,"{'island': 0.6792255851947332, 'accident': 1.0}"
+Three Mile Island accident,"{'island': 0.6792255851947333, 'accident': 1.0}"
 Bombardment of Algiers (1816),"{'bombardment': 1.0, 'algiers': 0.5329675334522381}"
 Declaratio Ferdinandei,"{'declaratio': 1.0, 'ferdinandei': 1.0}"
 4 Intimate Nights with Beyoncé,"{'intimate': 1.0, 'beyoncé': 1.0}"
@@ -395,7 +395,7 @@ Cologne War,{'war': 1.0}
 Operation Redwing,{'operation': 1.0}
 Battle of Moerbrugge,{'battle': 1.0}
 Operation Blowdown,{'operation': 1.0}
-1998 ICC KnockOut Trophy,"{'icc': 1.0, 'trophy': 0.9131572368868742}"
+1998 ICC KnockOut Trophy,"{'icc': 1.0, 'trophy': 0.913157236886874}"
 Thallium poisoning case of Zhu Ling,{'case': 1.0}
 Operation Grapple,{'operation': 1.0}
 Operation Wigwam,{'operation': 1.0}
@@ -465,7 +465,7 @@ Hurricane Bonnie (1986),{'hurricane': 1.0}
 Commonwealth Heads of Government Meeting 2002,{'commonwealth': 1.0}
 Battle of Quiberon Bay,{'battle': 1.0}
 Britney_ Piece of Me,{'piece': 1.0}
-2011 Census of India,"{'census': 0.750429954245148, 'india': 1.0}"
+2011 Census of India,"{'census': 0.7504299542451481, 'india': 1.0}"
 War in Donbass,{'war': 1.0}
 ArtRave,{'artrave': 1.0}
 2012 Summer Olympics closing ceremony,{'summer': 1.0}
@@ -504,14 +504,14 @@ St Nazaire Raid,{'raid': 1.0}
 1986 Men's Hockey World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}"
 Operation Diesel,{'operation': 1.0}
 Houla massacre,{'massacre': 1.0}
-1998–99 Asian Test Championship,"{'asian': 0.6155841595644506, 'championship': 1.0}"
+1998–99 Asian Test Championship,"{'asian': 0.6155841595644505, 'championship': 1.0}"
 December 2013 Spuyten Duyvil derailment,{'december': 1.0}
 Battle of Ramadi (2006),{'battle': 1.0}
 Red Annihilation,{'red': 1.0}
 Rock Werchter,{'rock': 1.0}
 1998 Coimbatore bombings,{'bombings': 1.0}
 1995 Football League Cup Final,"{'league': 0.5183001118016044, 'cup': 1.0, 'final': 0.7179775196363803}"
-2001–02 Asian Test Championship,"{'asian': 0.6155841595644506, 'championship': 1.0}"
+2001–02 Asian Test Championship,"{'asian': 0.6155841595644505, 'championship': 1.0}"
 2012 Krasnodar Krai floods,{'floods': 1.0}
 Head of the Fish,"{'head': 1.0, 'fish': 0.5676815125782866}"
 Raid at Cabanatuan,{'raid': 1.0}
@@ -551,7 +551,7 @@ Adele Live,{'live': 1.0}
 Battle of Kondaoui,{'battle': 1.0}
 Operation Retribution (1943),{'operation': 1.0}
 Murder of Leanne Tiernan,{'murder': 1.0}
-Funeral of Pope John Paul II,"{'john': 0.8129885900358821, 'ii': 1.0}"
+Funeral of Pope John Paul II,"{'john': 0.8129885900358819, 'ii': 1.0}"
 Gas attacks at Wulverghem,{'attacks': 1.0}
 Burning of the Parliament Buildings in Montreal,{'burning': 1.0}
 Ravinia Festival,{'festival': 1.0}
@@ -567,7 +567,7 @@ Operation Mistral 2,{'operation': 1.0}
 Occupy Dame Street,{'occupy': 1.0}
 Death of Freddie Gray,{'death': 1.0}
 Pan Am Flight 103,{'flight': 1.0}
-1977 Southeast Asian Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}"
+1977 Southeast Asian Games,"{'southeast': 0.7395659650622353, 'asian': 1.0}"
 Tuscarora War,{'war': 1.0}
 Battle of the Danube,{'battle': 1.0}
 Assassination of Abraham Lincoln,{'assassination': 1.0}
@@ -586,7 +586,7 @@ Argo 16,{'argo': 1.0}
 English Civil War,{'war': 1.0}
 Death and state funeral of Leonid Brezhnev,"{'death': 1.0, 'state': 0.5401561008993547}"
 2005 Erbil bombing,{'bombing': 1.0}
-6th Airborne Division advance to the River Seine,"{'division': 1.0, 'river': 0.9320072235303805}"
+6th Airborne Division advance to the River Seine,"{'division': 1.0, 'river': 0.9320072235303803}"
 1959 Okinawa F-100 crash,{'crash': 1.0}
 2015 Greek football scandal,{'football': 1.0}
 2010 Baghdad church massacre,{'massacre': 1.0}
@@ -624,7 +624,7 @@ Battle of the Ancre,{'battle': 1.0}
 Oklahoma City bombing,{'bombing': 1.0}
 Second Chechen War,{'war': 1.0}
 One-Two-GO Airlines Flight 269,{'flight': 1.0}
-British airborne operations in North Africa,"{'british': 0.5545536514982378, 'north': 1.0, 'africa': 0.6239667131436731}"
+British airborne operations in North Africa,"{'british': 0.5545536514982378, 'north': 1.0, 'africa': 0.6239667131436732}"
 Siege of Adrianople (813),{'siege': 1.0}
 Battle of Changsha (1944),{'battle': 1.0}
 "February 25–27, 2010 North American blizzard","{'north': 0.7322412973305078, 'american': 1.0}"
@@ -652,14 +652,14 @@ Second Battle of Passchendaele,{'battle': 1.0}
 1975 Spring Offensive,{'offensive': 1.0}
 Western Sahara War,{'war': 1.0}
 4 Deserts,{'deserts': 1.0}
-2000 ICC KnockOut Trophy,"{'icc': 1.0, 'trophy': 0.9131572368868742}"
+2000 ICC KnockOut Trophy,"{'icc': 1.0, 'trophy': 0.913157236886874}"
 Glorious Revolution,{'revolution': 1.0}
 2006 Tri Nations Series,"{'nations': 1.0, 'series': 0.6807476949225938}"
 2013–14 Ashes series,{'series': 1.0}
 Brigham–Kanner Property Rights Conference,{'conference': 1.0}
 1950–51 Ashes series,{'series': 1.0}
 Capture of Savannah,{'capture': 1.0}
-2011 Asian Men's Hockey Champions Trophy,"{'asian': 1.0, 'men': 0.7305422047446358, 'hockey': 0.687280810123067, 'trophy': 0.7488105702799246}"
+2011 Asian Men's Hockey Champions Trophy,"{'asian': 1.0, 'men': 0.7305422047446359, 'hockey': 0.6872808101230672, 'trophy': 0.7488105702799245}"
 Aleppo University bombings,{'bombings': 1.0}
 2011 Guerrero earthquake,{'earthquake': 1.0}
 2015 AFC Asian Cup,{'cup': 1.0}
@@ -669,7 +669,7 @@ Souled Out,{'souled': 1.0}
 2007 Tri Nations Series,"{'nations': 1.0, 'series': 0.6807476949225938}"
 Sinking of the Rainbow Warrior,{'sinking': 1.0}
 Tropical Storm Fern (1996),"{'tropical': 0.9191684661959865, 'storm': 1.0}"
-Census in Australia,"{'census': 1.0, 'australia': 0.6814754711150313}"
+Census in Australia,"{'census': 1.0, 'australia': 0.6814754711150312}"
 1946 Australian National Airways DC-3 crash,"{'national': 0.7608479802622491, 'crash': 1.0}"
 2006–07 ICC Intercontinental Cup,{'cup': 1.0}
 2007 Samjhauta Express bombings,{'bombings': 1.0}
@@ -685,7 +685,7 @@ Typhoon Conson (2010),{'typhoon': 1.0}
 Boxing at the 2004 Summer Olympics,{'summer': 1.0}
 2010 Catalan autonomy protest,{'protest': 1.0}
 Operation Dominic,{'operation': 1.0}
-Skeleton at the 2010 Winter Olympics – Women's,"{'winter': 0.7086694071746669, 'women': 1.0}"
+Skeleton at the 2010 Winter Olympics – Women's,"{'winter': 0.7086694071746668, 'women': 1.0}"
 ShoXC,{'shoxc': 1.0}
 Adam Air Flight 574,{'flight': 1.0}
 Third Crusade,{'crusade': 1.0}
@@ -754,7 +754,7 @@ United Airlines Flight 93,{'flight': 1.0}
 Coastal Road massacre,{'massacre': 1.0}
 2014 Israel–Gaza conflict,{'conflict': 1.0}
 In Amenas hostage crisis,{'crisis': 1.0}
-October Crisis,"{'october': 1.0, 'crisis': 0.9640957115759508}"
+October Crisis,"{'october': 1.0, 'crisis': 0.9640957115759509}"
 Maersk Alabama hijacking,"{'alabama': 0.6922639648799237, 'hijacking': 1.0}"
 Operation Entebbe,{'operation': 1.0}
 Death of Caylee Anthony,{'death': 1.0}
@@ -799,10 +799,10 @@ Calgary Stampede,"{'calgary': 1.0, 'stampede': 0.5467144618905505}"
 2011 Chișinău explosion,{'explosion': 1.0}
 Epitaph World Tour,"{'world': 0.7046801950787563, 'tour': 1.0}"
 North Dakota State Fair,"{'north': 1.0, 'state': 0.7280992972460374, 'fair': 0.7719630714247802}"
-Football at the 2012 Summer Olympics,"{'football': 0.9526462477724175, 'summer': 1.0}"
+Football at the 2012 Summer Olympics,"{'football': 0.9526462477724172, 'summer': 1.0}"
 Expect No Quarter Tour,{'tour': 1.0}
 Glastonbury Festival,{'festival': 1.0}
-List of Avril Lavigne concert tours,"{'list': 0.9593205238028907, 'concert': 1.0, 'tours': 0.8188450494687592}"
+List of Avril Lavigne concert tours,"{'list': 0.9593205238028907, 'concert': 1.0, 'tours': 0.818845049468759}"
 Death of Aaliyah,{'death': 1.0}
 Life in Color,"{'life': 1.0, 'color': 1.0}"
 Wonder World Tour (Miley Cyrus),"{'world': 0.7046801950787563, 'tour': 1.0}"
@@ -840,7 +840,7 @@ Battle of Rodosto,{'battle': 1.0}
 Battle of Staszów,{'battle': 1.0}
 Third Siege of Gibraltar,{'siege': 1.0}
 Torreón massacre,{'massacre': 1.0}
-Chicago race riot of 1919,"{'race': 1.0, 'riot': 0.5979745265943155}"
+Chicago race riot of 1919,"{'race': 1.0, 'riot': 0.5979745265943154}"
 New York City draft riots,"{'new': 0.9510707625718219, 'city': 0.5452938612195027, 'riots': 1.0}"
 Capture of Grenada (1779),{'capture': 1.0}
 Gwangju Uprising,{'uprising': 1.0}
@@ -850,7 +850,7 @@ Great Train Robbery (1963),"{'great': 0.8263189389247981, 'train': 1.0}"
 Battle of Mokra (July 1462),{'battle': 1.0}
 Wounded Knee incident,{'incident': 1.0}
 Slammiversary (2005),{'slammiversary': 1.0}
-Seljuq campaigns in the Aegean,"{'seljuq': 0.5449562275530361, 'campaigns': 1.0, 'aegean': 0.5449562275530361}"
+Seljuq campaigns in the Aegean,"{'seljuq': 0.544956227553036, 'campaigns': 1.0, 'aegean': 0.544956227553036}"
 Court Line Flight 95,{'flight': 1.0}
 Project Rulison,"{'project': 1.0, 'rulison': 0.5257385590216312}"
 Hurricane Francelia,{'hurricane': 1.0}
@@ -911,13 +911,13 @@ Melbourne Jazz Co-operative,"{'melbourne': 0.8511211685594959, 'jazz': 1.0}"
 Avioimpex Flight 110,{'flight': 1.0}
 Winter Jam Tour Spectacular,{'tour': 1.0}
 Kalinga War,{'war': 1.0}
-2017 Southeast Asian Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}"
+2017 Southeast Asian Games,"{'southeast': 0.7395659650622353, 'asian': 1.0}"
 2012 Guinea-Bissau coup d'état,{'coup': 1.0}
 Scripps National Spelling Bee,{'national': 1.0}
 Eelam War III,{'war': 1.0}
-Rock in Rio,"{'rock': 1.0, 'rio': 0.5145761272360415}"
+Rock in Rio,"{'rock': 1.0, 'rio': 0.5145761272360414}"
 Lunacon,{'lunacon': 1.0}
-Chelford rail accident,"{'rail': 1.0, 'accident': 0.7565370481203059}"
+Chelford rail accident,"{'rail': 1.0, 'accident': 0.7565370481203058}"
 Boardmasters Festival,{'festival': 1.0}
 Aviaco Flight 118,{'flight': 1.0}
 Inauguration of Gerald Ford,{'inauguration': 1.0}
@@ -967,7 +967,7 @@ Pontypridd railway accident,{'accident': 1.0}
 1898 Open Championship,"{'open': 0.5398644858774538, 'championship': 1.0}"
 Action of 10 February 1809,{'action': 1.0}
 Health Services Union expenses affair,"{'union': 0.5214869230586918, 'affair': 1.0}"
-Canadian drug charges and trial of Jimi Hendrix,"{'canadian': 0.8098295227191626, 'jimi': 1.0, 'hendrix': 1.0}"
+Canadian drug charges and trial of Jimi Hendrix,"{'canadian': 0.8098295227191625, 'jimi': 1.0, 'hendrix': 1.0}"
 Merpati Nusantara Airlines Flight 8968,{'flight': 1.0}
 Hurricane Cindy (2005),{'hurricane': 1.0}
 Occupy St. Louis,{'occupy': 1.0}
@@ -1009,7 +1009,7 @@ Iran–Iraq War,{'war': 1.0}
 Gallic Wars,{'wars': 1.0}
 Bad Blood (2004),"{'bad': 0.6855624318678019, 'blood': 1.0}"
 The Anarchy,{'anarchy': 1.0}
-2006 ICC Champions Trophy,"{'icc': 1.0, 'trophy': 0.9131572368868742}"
+2006 ICC Champions Trophy,"{'icc': 1.0, 'trophy': 0.913157236886874}"
 Climatic Research Unit email controversy,{'controversy': 1.0}
 Italian invasion of France,{'invasion': 1.0}
 Action of 13 September 1810,{'action': 1.0}
@@ -1044,7 +1044,7 @@ Hurricane Beatriz (2011),{'hurricane': 1.0}
 Aster Revolution,{'revolution': 1.0}
 Hurricane Ignacio (1985),{'hurricane': 1.0}
 Maramon Convention,"{'maramon': 1.0, 'convention': 1.0}"
-1964 race riots in Singapore,"{'race': 0.6482967142577714, 'riots': 1.0}"
+1964 race riots in Singapore,"{'race': 0.6482967142577715, 'riots': 1.0}"
 TNA Genesis,{'genesis': 1.0}
 Western Sahara conflict,{'conflict': 1.0}
 "2014 Conference of Western Balkan States, Berlin","{'conference': 1.0, 'western': 0.5843641148440982}"
@@ -1099,7 +1099,7 @@ Operation Deadstick,{'operation': 1.0}
 2012 Grand National,"{'grand': 0.9695007515860058, 'national': 1.0}"
 Atari video game burial,{'game': 1.0}
 Battle of Pakchon,{'battle': 1.0}
-Swimming at the 2015 Southeast Asian Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}"
+Swimming at the 2015 Southeast Asian Games,"{'southeast': 0.7395659650622353, 'asian': 1.0}"
 Free State of Galveston,{'state': 1.0}
 2004 Madrid train bombings,"{'train': 0.8063687480838666, 'bombings': 1.0}"
 Mahon Tribunal,"{'mahon': 1.0, 'tribunal': 1.0}"
@@ -1147,7 +1147,7 @@ Philippine resistance against Japan,"{'philippine': 1.0, 'resistance': 0.7062705
 Cambodian–Vietnamese War,{'war': 1.0}
 Hatfield rail crash,"{'rail': 0.5719598380277843, 'crash': 1.0}"
 Bersih 2.0 rally,"{'bersih': 0.7932218534860485, 'rally': 1.0}"
-Occupation of the Ottoman Bank,"{'occupation': 0.945153241080526, 'ottoman': 0.9752956415761437, 'bank': 1.0}"
+Occupation of the Ottoman Bank,"{'occupation': 0.945153241080526, 'ottoman': 0.9752956415761438, 'bank': 1.0}"
 2006 Conference National play-off Final,"{'national': 0.5156833146807355, 'final': 1.0}"
 Insurgency in Jammu and Kashmir,{'insurgency': 1.0}
 Second Fitna,{'fitna': 1.0}
@@ -1294,7 +1294,7 @@ Action of 9 July 1806,{'action': 1.0}
 Tropical Storm Aere (2011),"{'tropical': 0.9191684661959865, 'storm': 1.0}"
 Occupy Portland,{'occupy': 1.0}
 The Pennsylvania Society,"{'pennsylvania': 1.0, 'society': 1.0}"
-State Fair of West Virginia,"{'state': 0.9431789216318531, 'fair': 1.0, 'west': 0.5649562917735549}"
+State Fair of West Virginia,"{'state': 0.9431789216318531, 'fair': 1.0, 'west': 0.5649562917735548}"
 Capture of Geertruidenberg (1589),{'capture': 1.0}
 2011 Slave Lake wildfire,{'lake': 1.0}
 Uzbek invasion of Khorasan (1578),{'invasion': 1.0}
@@ -1303,7 +1303,7 @@ First Barbary War,{'war': 1.0}
 Aberfan disaster,{'disaster': 1.0}
 Parkenfestivalen,{'parkenfestivalen': 1.0}
 Spanish conquest of Chiapas,"{'spanish': 0.5396402367043343, 'conquest': 1.0}"
-2015 Southeast Asian Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}"
+2015 Southeast Asian Games,"{'southeast': 0.7395659650622353, 'asian': 1.0}"
 Away from Home Tour,{'tour': 1.0}
 First inauguration of Barack Obama,"{'inauguration': 1.0, 'barack': 0.5183260646704602, 'obama': 0.5183260646704602}"
 2008 Kazan gas explosion,"{'gas': 0.5153339813585857, 'explosion': 1.0}"
@@ -1381,7 +1381,7 @@ Mohawk Airlines Flight 121,{'flight': 1.0}
 Pitchfork Music Festival,{'festival': 1.0}
 The Reflection Tour,{'tour': 1.0}
 Jonestown,{'jonestown': 1.0}
-Insurgency in Northeast India,"{'insurgency': 1.0, 'india': 0.931135812502724}"
+Insurgency in Northeast India,"{'insurgency': 1.0, 'india': 0.9311358125027238}"
 Melodifestivalen,{'melodifestivalen': 1.0}
 2013 Camp Ashraf massacre,{'massacre': 1.0}
 October 2012 Beirut bombing,{'bombing': 1.0}
@@ -1462,7 +1462,7 @@ Wisconsin gubernatorial recall election,"{'wisconsin': 0.723129028954769, 'elect
 War of Attrition,{'war': 1.0}
 Cyclone Magda,{'cyclone': 1.0}
 Maryland Toleration Act,"{'maryland': 1.0, 'toleration': 0.5203945238076219, 'act': 0.5203945238076219}"
-John Brown's raid on Harpers Ferry,"{'john': 0.5393904060740741, 'raid': 1.0}"
+John Brown's raid on Harpers Ferry,"{'john': 0.539390406074074, 'raid': 1.0}"
 15 October 2011 global protests,"{'october': 0.7549119654431514, 'protests': 1.0}"
 Rabbis' march (1943),{'march': 1.0}
 Australian Made,{'australian': 1.0}
@@ -1520,7 +1520,7 @@ Brazilian Revolution of 1930,{'revolution': 1.0}
 Mahmud Barzanji revolts,"{'mahmud': 1.0, 'barzanji': 1.0, 'revolts': 1.0}"
 Battle of Chalai,{'battle': 1.0}
 Patriot War,{'war': 1.0}
-Insurgency in the North Caucasus,"{'insurgency': 0.5534486442416321, 'north': 1.0}"
+Insurgency in the North Caucasus,"{'insurgency': 0.5534486442416322, 'north': 1.0}"
 2010 Israel–Lebanon border clash,"{'israel': 1.0, 'lebanon': 0.8610314857837853, 'border': 0.753813892583146}"
 November Uprising,"{'november': 0.5171208059315018, 'uprising': 1.0}"
 Bannock War,{'war': 1.0}
@@ -1595,7 +1595,7 @@ Bodo League massacre,"{'league': 0.5934368434378979, 'massacre': 1.0}"
 Operation Alfa,{'operation': 1.0}
 White House FBI files controversy,"{'white': 0.8901318469177644, 'house': 1.0, 'controversy': 0.7173033047007278}"
 Siege of Aleppo (1260),{'siege': 1.0}
-1999 Pro Bowl,"{'pro': 0.7126161043351634, 'bowl': 1.0}"
+1999 Pro Bowl,"{'pro': 0.7126161043351633, 'bowl': 1.0}"
 2012 Lamma Island ferry collision,"{'island': 1.0, 'ferry': 0.5289315761221193, 'collision': 0.8376417754520338}"
 Kosovo Operation (1944),{'operation': 1.0}
 Kandahar massacre,{'massacre': 1.0}
@@ -1639,7 +1639,7 @@ Malaysia Airlines Flight 17,{'flight': 1.0}
 2009 Hong Kong Cricket Sixes,{'cricket': 1.0}
 January 2011 Rio de Janeiro floods and mudslides,"{'january': 0.5384184841312533, 'de': 0.6860846511615739, 'floods': 1.0}"
 First conflict in the Goryeo–Khitan War,{'war': 1.0}
-Al-Qaeda insurgency in Yemen,"{'al': 0.830360837501026, 'insurgency': 1.0}"
+Al-Qaeda insurgency in Yemen,"{'al': 0.8303608375010257, 'insurgency': 1.0}"
 2015–16 Ranji Trophy,{'trophy': 1.0}
 Safra massacre,{'massacre': 1.0}
 Southwest Cay,{'southwest': 1.0}
@@ -1803,7 +1803,7 @@ Action of Elouges,{'action': 1.0}
 Task Force Baum,{'force': 1.0}
 "Damage, Inc. Tour",{'tour': 1.0}
 Hurricane Diane,{'hurricane': 1.0}
-Unfinished Business (Jay-Z and R. Kelly album),"{'kelly': 0.8085237013872375, 'album': 1.0}"
+Unfinished Business (Jay-Z and R. Kelly album),"{'kelly': 0.8085237013872373, 'album': 1.0}"
 British Airways Flight 38,{'flight': 1.0}
 2011 Thailand floods,{'floods': 1.0}
 Hurricane Martha,{'hurricane': 1.0}
@@ -1870,7 +1870,7 @@ Operation Flavius,{'operation': 1.0}
 Bombing of Würzburg in World War II,"{'world': 0.5422257885702634, 'war': 1.0}"
 Living Proof_ The Farewell Tour,{'tour': 1.0}
 Arthur's Day,{'day': 1.0}
-Red Power movement,"{'red': 1.0, 'movement': 0.9143140727099923}"
+Red Power movement,"{'red': 1.0, 'movement': 0.9143140727099921}"
 Under the Hood,{'hood': 1.0}
 Thames Diamond Jubilee Pageant,{'pageant': 1.0}
 Viña del Mar International Song Festival,{'festival': 1.0}
@@ -1884,7 +1884,7 @@ Yokozuna Memorial Show,"{'memorial': 0.9096721755818321, 'show': 1.0}"
 Operation Menu,{'operation': 1.0}
 2005 ACC Under-19 Cup,{'cup': 1.0}
 1933 Grand National,"{'grand': 0.9695007515860058, 'national': 1.0}"
-2000 Pro Bowl,"{'pro': 0.7126161043351634, 'bowl': 1.0}"
+2000 Pro Bowl,"{'pro': 0.7126161043351633, 'bowl': 1.0}"
 1950 Grand National,"{'grand': 0.9695007515860058, 'national': 1.0}"
 Operation Dawn 3,{'operation': 1.0}
 1982 Hama massacre,{'massacre': 1.0}
@@ -1901,8 +1901,8 @@ Military history of Canada during World War II,"{'world': 0.5422257885702634, 'w
 1921 Grand National,"{'grand': 0.9695007515860058, 'national': 1.0}"
 Day of Thirst,{'day': 1.0}
 2011–13 Chilean student protests,{'protests': 1.0}
-2015 Pro Bowl,"{'pro': 0.7126161043351634, 'bowl': 1.0}"
-2012 Pro Bowl,"{'pro': 0.7126161043351634, 'bowl': 1.0}"
+2015 Pro Bowl,"{'pro': 0.7126161043351633, 'bowl': 1.0}"
+2012 Pro Bowl,"{'pro': 0.7126161043351633, 'bowl': 1.0}"
 Battle of Sanluri,{'battle': 1.0}
 2009 Grand National,"{'grand': 0.9695007515860058, 'national': 1.0}"
 Capitol Hill Pride Festival,{'festival': 1.0}
@@ -1917,13 +1917,13 @@ Hurricane Diana,{'hurricane': 1.0}
 Anglo-Zulu War,{'war': 1.0}
 Jiang Wei's Northern Expeditions,{'northern': 1.0}
 Operation Albion,{'operation': 1.0}
-Atherstone rail accident,"{'rail': 1.0, 'accident': 0.7565370481203059}"
+Atherstone rail accident,"{'rail': 1.0, 'accident': 0.7565370481203058}"
 Tallinn Offensive,{'offensive': 1.0}
 West Loch disaster,{'disaster': 1.0}
 Tropical Storm Julio (2002),"{'tropical': 0.9191684661959865, 'storm': 1.0}"
 Armand Cesari Stadium disaster,{'disaster': 1.0}
 Typhoon Choi-wan (2009),{'typhoon': 1.0}
-Hull Paragon rail accident,"{'rail': 1.0, 'accident': 0.7565370481203059}"
+Hull Paragon rail accident,"{'rail': 1.0, 'accident': 0.7565370481203058}"
 Black Saturday (Lebanon),"{'black': 1.0, 'lebanon': 0.5966187157843776}"
 Halloway massacre,{'massacre': 1.0}
 Battle of Blanchetaque,{'battle': 1.0}
@@ -1983,13 +1983,13 @@ O_ The 2nd Asia Tour,{'tour': 1.0}
 Live at the Marquee (festival),{'festival': 1.0}
 Empezar desde Cero Tour 2008,{'tour': 1.0}
 Hydra World Tour,"{'world': 0.7046801950787563, 'tour': 1.0}"
-List of TVXQ concert tours in Japan,"{'list': 0.9593205238028907, 'concert': 1.0, 'tours': 0.8188450494687592, 'japan': 0.583140102216396}"
+List of TVXQ concert tours in Japan,"{'list': 0.9593205238028907, 'concert': 1.0, 'tours': 0.818845049468759, 'japan': 0.583140102216396}"
 2012 Bangladesh Premier League,{'league': 1.0}
 Typhoon Maemi,{'typhoon': 1.0}
 The Tour That Doesn't Tour Tour...Now On Tour,{'tour': 1.0}
 California Dreams Tour,{'tour': 1.0}
 Comair Flight 5191,{'flight': 1.0}
-Big Day Out,"{'big': 0.5735722055136253, 'day': 1.0, 'out': 0.5422669375748582}"
+Big Day Out,"{'big': 0.5735722055136253, 'day': 1.0, 'out': 0.5422669375748583}"
 Battle of Ostrołęka (1831),{'battle': 1.0}
 1948 Bermuda–Newfoundland hurricane,{'hurricane': 1.0}
 Battle of Chełm,{'battle': 1.0}
@@ -2037,7 +2037,7 @@ Battle of Leskovac,{'battle': 1.0}
 Joe Miller (Alaska politician),"{'joe': 1.0, 'miller': 1.0, 'alaska': 1.0, 'politician': 1.0}"
 The Beatles Winter 1963 Helen Shapiro Tour,{'tour': 1.0}
 Battle of Hamel,{'battle': 1.0}
-Linda McMahon,"{'linda': 0.9234721349322464, 'mcmahon': 1.0}"
+Linda McMahon,"{'linda': 0.9234721349322466, 'mcmahon': 1.0}"
 1961 Yuba City B-52 crash,{'crash': 1.0}
 First Massacre of Machecoul,{'massacre': 1.0}
 TransAsia Airways Flight 235,{'flight': 1.0}
@@ -2070,7 +2070,7 @@ Polish–Lithuanian–Teutonic War,{'war': 1.0}
 Central African Republic Bush War,{'war': 1.0}
 Samland Offensive,{'offensive': 1.0}
 EAS Airlines Flight 4226,{'flight': 1.0}
-Saint Silvester Road Race,"{'road': 0.9002924900864728, 'race': 1.0}"
+Saint Silvester Road Race,"{'road': 0.9002924900864726, 'race': 1.0}"
 Shamrock Bowl XXV,{'bowl': 1.0}
 Battle of Mariazell,{'battle': 1.0}
 Born This Way Ball,"{'way': 1.0, 'ball': 0.8816994781434635}"
@@ -2099,7 +2099,7 @@ Survival Tour,{'tour': 1.0}
 Hurricane Barbara (2013),{'hurricane': 1.0}
 Argentina v England (1986 FIFA World Cup),"{'world': 1.0, 'cup': 0.8880773864247816}"
 Siege of Golconda,{'siege': 1.0}
-Wellingborough rail accident,"{'rail': 1.0, 'accident': 0.7565370481203059}"
+Wellingborough rail accident,"{'rail': 1.0, 'accident': 0.7565370481203058}"
 2002 Immanuel bus attack,{'attack': 1.0}
 Tropical Storm Hermine (1980),"{'tropical': 0.9191684661959865, 'storm': 1.0}"
 1998–99 UEFA Champions League,{'league': 1.0}
@@ -2132,7 +2132,7 @@ M23 rebellion,{'rebellion': 1.0}
 2010 Pune bombing,{'bombing': 1.0}
 Last Girl on Earth,"{'girl': 0.5156793261302577, 'earth': 1.0}"
 Songs from the West Coast Tour,{'tour': 1.0}
-List of TVXQ concert tours,"{'list': 0.9593205238028907, 'concert': 1.0, 'tours': 0.8188450494687592}"
+List of TVXQ concert tours,"{'list': 0.9593205238028907, 'concert': 1.0, 'tours': 0.818845049468759}"
 Parachutes Tour,{'tour': 1.0}
 2016 FA Trophy Final,{'final': 1.0}
 Liebe ist für alle da Tour,{'tour': 1.0}
@@ -2157,7 +2157,7 @@ That Bass Tour,{'tour': 1.0}
 Medusa Tour,{'tour': 1.0}
 Aphrodite_ Les Folies Tour,{'tour': 1.0}
 Girls of Summer Tour,{'tour': 1.0}
-2002 ICC Champions Trophy,"{'icc': 1.0, 'trophy': 0.9131572368868742}"
+2002 ICC Champions Trophy,"{'icc': 1.0, 'trophy': 0.913157236886874}"
 1999 Tour (Robbie Williams),{'tour': 1.0}
 Wisconsin Sikh temple shooting,{'shooting': 1.0}
 Cumbria shootings,{'shootings': 1.0}
@@ -2194,7 +2194,7 @@ Greek Civil War,{'war': 1.0}
 Siege of Brussels,{'siege': 1.0}
 2007 Iraqi Parliament bombing,{'bombing': 1.0}
 Operation Anaconda,{'operation': 1.0}
-1969 Southeast Asian Peninsular Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}"
+1969 Southeast Asian Peninsular Games,"{'southeast': 0.7395659650622353, 'asian': 1.0}"
 HalloWeekends,{'halloweekends': 1.0}
 École Polytechnique massacre,{'massacre': 1.0}
 Landing at Anzac Cove,"{'landing': 1.0, 'anzac': 0.9183212591829335, 'cove': 0.9183212591829335}"
@@ -2265,7 +2265,7 @@ Battle of Chaeronea (86 BC),{'battle': 1.0}
 Battle of Lugdunum,{'battle': 1.0}
 Mussel Slough Tragedy,{'tragedy': 1.0}
 Battle of Blair Mountain,{'battle': 1.0}
-Cochise County in the Old West,"{'county': 0.8217130638108779, 'west': 1.0}"
+Cochise County in the Old West,"{'county': 0.821713063810878, 'west': 1.0}"
 1989 FA Charity Shield,"{'fa': 1.0, 'shield': 0.959918306411993}"
 Paraguayan War,{'war': 1.0}
 Independence Centenary Games,{'independence': 1.0}
@@ -2288,7 +2288,7 @@ Revolution of 1934,{'revolution': 1.0}
 2010 Caribbean Cup,{'cup': 1.0}
 2007–08 Ford Ranger One Day Cup season,{'cup': 1.0}
 The Fame Ball Tour,{'tour': 1.0}
-1965 Southeast Asian Peninsular Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}"
+1965 Southeast Asian Peninsular Games,"{'southeast': 0.7395659650622353, 'asian': 1.0}"
 Redneck Games,{'games': 1.0}
 Typhoon Imbudo,{'typhoon': 1.0}
 The Game Tour,{'tour': 1.0}
@@ -2296,7 +2296,7 @@ The Game Tour,{'tour': 1.0}
 KaZantip,{'kazantip': 1.0}
 2014 New York City Marathon,"{'new': 0.7559906593502494, 'marathon': 1.0}"
 Jay-Z &amp; Ciara Live,"{'amp': 0.5252037747675147, 'live': 1.0}"
-2013 Southeast Asian Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}"
+2013 Southeast Asian Games,"{'southeast': 0.7395659650622353, 'asian': 1.0}"
 New York City Marathon,"{'new': 0.7559906593502494, 'marathon': 1.0}"
 Alpine skiing at the 2010 Winter Paralympics,{'winter': 1.0}
 2009 Great Britain and Ireland floods,"{'great': 0.7712947502066981, 'floods': 1.0}"
@@ -2315,7 +2315,7 @@ Allied invasion of Sicily,{'invasion': 1.0}
 1993 Women's Cricket World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}"
 Cromwellian conquest of Ireland,{'conquest': 1.0}
 Woman suffrage parade of 1913,{'parade': 1.0}
-Political violence in Germany (1918–33),"{'political': 0.5244202701651381, 'violence': 0.5662283368977987, 'germany': 1.0}"
+Political violence in Germany (1918–33),"{'political': 0.524420270165138, 'violence': 0.5662283368977987, 'germany': 1.0}"
 Polish–Czechoslovak War,{'war': 1.0}
 1972 Puerto Rico DC-7 crash,{'crash': 1.0}
 Boston Fashion Week,{'boston': 1.0}
@@ -2390,7 +2390,7 @@ Kengir uprising,{'uprising': 1.0}
 Battle of the Bowling Alley,{'battle': 1.0}
 Blues Train,{'train': 1.0}
 2005 Bolivarian Games,{'bolivarian': 1.0}
-Dhamara Ghat train accident,"{'train': 1.0, 'accident': 0.6697180492040937}"
+Dhamara Ghat train accident,"{'train': 1.0, 'accident': 0.6697180492040936}"
 Action of 10 April 1795,{'action': 1.0}
 Peloponnesian War,{'war': 1.0}
 Sonderbund War,{'war': 1.0}
@@ -2402,10 +2402,10 @@ Siege of Astorga (1812),{'siege': 1.0}
 Invasion of Buka and Bougainville,{'invasion': 1.0}
 French and Indian War,{'war': 1.0}
 2011 Albanian opposition demonstrations,{'albanian': 1.0}
-2015 ICC Europe Division One,"{'icc': 1.0, 'division': 0.7457215591540274}"
+2015 ICC Europe Division One,"{'icc': 1.0, 'division': 0.7457215591540275}"
 Abbasid Revolution,{'revolution': 1.0}
-Ice hockey at the 2014 Winter Olympics,"{'ice': 0.8047717029048006, 'hockey': 1.0, 'winter': 0.839057831740874}"
-Black Sea campaigns (1941–44),"{'black': 1.0, 'sea': 0.5699735850452315}"
+Ice hockey at the 2014 Winter Olympics,"{'ice': 0.8047717029048007, 'hockey': 1.0, 'winter': 0.8390578317408739}"
+Black Sea campaigns (1941–44),"{'black': 1.0, 'sea': 0.5699735850452317}"
 1906 San Francisco earthquake,{'earthquake': 1.0}
 Tropical Storm Matthew (2010),"{'tropical': 0.9191684661959865, 'storm': 1.0}"
 2004 Indoor Cricket World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}"
@@ -2462,7 +2462,7 @@ United States Air Force Marathon,"{'air': 1.0, 'marathon': 0.6282813087852137}"
 Tropical Storm Laura (1971),"{'tropical': 0.9191684661959865, 'storm': 1.0}"
 Hurricane John (1994),{'hurricane': 1.0}
 Maharashtra floods of 2005,{'floods': 1.0}
-2006–07 Southeast Asian floods,"{'southeast': 0.7341292708508999, 'asian': 0.9926488042065622, 'floods': 1.0}"
+2006–07 Southeast Asian floods,"{'southeast': 0.7341292708508999, 'asian': 0.992648804206562, 'floods': 1.0}"
 Hurricane Abby (1960),{'hurricane': 1.0}
 1942 Matagorda hurricane,{'hurricane': 1.0}
 2013 Alberta floods,{'floods': 1.0}
@@ -2484,7 +2484,7 @@ Gospić massacre,{'massacre': 1.0}
 Lake Bodom murders,"{'lake': 0.8150229215186858, 'murders': 1.0}"
 2009 Coupe de la Ligue Final,{'final': 1.0}
 Battle of Columbus (1865),{'battle': 1.0}
-1975 Southeast Asian Peninsular Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}"
+1975 Southeast Asian Peninsular Games,"{'southeast': 0.7395659650622353, 'asian': 1.0}"
 2001 Germany v England football match,{'football': 1.0}
 Downing Street mortar attack,{'attack': 1.0}
 Brazil v Germany (2014 FIFA World Cup),"{'world': 1.0, 'cup': 0.8880773864247816}"
@@ -2506,7 +2506,7 @@ Million Man March,{'march': 1.0}
 1961 Football League Cup Final,"{'league': 0.5183001118016044, 'cup': 1.0, 'final': 0.7179775196363803}"
 Hurricane Nora (2003),{'hurricane': 1.0}
 Bear River Massacre,{'massacre': 1.0}
-Cricket at the 1900 Summer Olympics,"{'cricket': 0.9447622787492086, 'summer': 1.0}"
+Cricket at the 1900 Summer Olympics,"{'cricket': 0.9447622787492084, 'summer': 1.0}"
 Shamrock Bowl I,{'bowl': 1.0}
 2015 Pan American Games,{'american': 1.0}
 2017 Africa Cup of Nations,{'cup': 1.0}
@@ -2515,8 +2515,8 @@ Hurricane Helene (1958),{'hurricane': 1.0}
 Horecava 2010,{'horecava': 1.0}
 An Evening with Olivia Newton-John,{'john': 1.0}
 International Sabancı Theater Festival,{'festival': 1.0}
-2012 ASEAN University Games,"{'asean': 1.0, 'university': 0.8348048691583587}"
-Rock Island 2002,"{'rock': 1.0, 'island': 0.8451003301583895}"
+2012 ASEAN University Games,"{'asean': 1.0, 'university': 0.8348048691583586}"
+Rock Island 2002,"{'rock': 1.0, 'island': 0.8451003301583893}"
 Port of Dartmouth Royal Regatta,"{'port': 0.7899614170643435, 'royal': 1.0, 'regatta': 0.6773679811661513}"
 Women of Krusha e Madhe,{'women': 1.0}
 Lilac Festival (Calgary),{'festival': 1.0}
@@ -2572,7 +2572,7 @@ Tropical Storm Lee (2011),"{'tropical': 0.9191684661959865, 'storm': 1.0}"
 Baltimore Marathon,{'marathon': 1.0}
 Mayhem Festival,{'festival': 1.0}
 Hurricane Barry (1983),{'hurricane': 1.0}
-List of Kelly Clarkson concert tours,"{'list': 0.9593205238028907, 'kelly': 0.7683403873023841, 'concert': 1.0, 'tours': 0.8188450494687592}"
+List of Kelly Clarkson concert tours,"{'list': 0.9593205238028907, 'kelly': 0.7683403873023839, 'concert': 1.0, 'tours': 0.818845049468759}"
 The Resistance Tour,{'tour': 1.0}
 Wherever We May Roam Tour,{'tour': 1.0}
 Golden Heart Tour,{'tour': 1.0}
@@ -2604,10 +2604,10 @@ World Tour of the Century,"{'world': 0.7046801950787563, 'tour': 1.0}"
 Monbar Hotel attack,{'attack': 1.0}
 Tulle massacre,{'massacre': 1.0}
 U Thant funeral crisis,{'crisis': 1.0}
-2013 Indian Premier League,"{'indian': 0.5887190461083561, 'league': 1.0}"
+2013 Indian Premier League,"{'indian': 0.588719046108356, 'league': 1.0}"
 Operation Augurs of Prosperity,{'operation': 1.0}
 Raid on Málaga (1656),{'raid': 1.0}
-Sjursøya train accident,"{'train': 1.0, 'accident': 0.6697180492040937}"
+Sjursøya train accident,"{'train': 1.0, 'accident': 0.6697180492040936}"
 Tropical Storm Morakot (2003),"{'tropical': 0.9191684661959865, 'storm': 1.0}"
 May 1998 riots of Indonesia,{'riots': 1.0}
 2008 Bangalore serial blasts,"{'bangalore': 1.0, 'serial': 1.0, 'blasts': 1.0}"
@@ -2675,7 +2675,7 @@ Live on the Green Music Festival,{'festival': 1.0}
 Operation Serval,{'operation': 1.0}
 St. John River Campaign,{'campaign': 1.0}
 Hurricane Epsilon,{'hurricane': 1.0}
-Western States Endurance Run,"{'western': 0.8829666660553658, 'states': 1.0, 'run': 0.5783700606962949}"
+Western States Endurance Run,"{'western': 0.8829666660553658, 'states': 1.0, 'run': 0.578370060696295}"
 Hurricane Juan (1985),{'hurricane': 1.0}
 Tropical Storm Candy,"{'tropical': 0.9191684661959865, 'storm': 1.0}"
 1945 Homestead hurricane,{'hurricane': 1.0}
@@ -2693,7 +2693,7 @@ Hurricane Hilda (1955),{'hurricane': 1.0}
 East Turkestan independence movement,"{'east': 0.6027921648093636, 'independence': 0.9019468773093002, 'movement': 1.0}"
 Hurricane Barbara (1953),{'hurricane': 1.0}
 FIS Nordic Combined World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}"
-2008 Asian Five Nations division tournaments,"{'asian': 1.0, 'nations': 0.666249314587543, 'division': 0.6115093473757786}"
+2008 Asian Five Nations division tournaments,"{'asian': 1.0, 'nations': 0.6662493145875432, 'division': 0.6115093473757788}"
 Hurricane Emily (2005),{'hurricane': 1.0}
 Fall of Saigon,"{'fall': 1.0, 'saigon': 0.9846495594478284}"
 Capture of Schwaben Redoubt,{'capture': 1.0}
@@ -2747,7 +2747,7 @@ Cyclone Ron,{'cyclone': 1.0}
 Tropical Storm Omeka,"{'tropical': 0.9191684661959865, 'storm': 1.0}"
 Catalan Way,"{'catalan': 0.7644529985742724, 'way': 1.0}"
 2015 IIHF World Championship Division III,{'world': 1.0}
-2005 ICC Trophy,"{'icc': 1.0, 'trophy': 0.9131572368868742}"
+2005 ICC Trophy,"{'icc': 1.0, 'trophy': 0.913157236886874}"
 Tropical Storm Debra (1978),"{'tropical': 0.9191684661959865, 'storm': 1.0}"
 2010 Champions League Twenty20,{'league': 1.0}
 Pequeño Reyes del Aire,"{'reyes': 0.7207039513931638, 'del': 1.0, 'aire': 0.7207039513931638}"
@@ -2788,11 +2788,11 @@ Hurricane Tomas,{'hurricane': 1.0}
 Hurricane King,{'hurricane': 1.0}
 Hurricane Felix,{'hurricane': 1.0}
 1821 Norfolk and Long Island hurricane,{'hurricane': 1.0}
-1995 Pro Bowl,"{'pro': 0.7126161043351634, 'bowl': 1.0}"
+1995 Pro Bowl,"{'pro': 0.7126161043351633, 'bowl': 1.0}"
 Tropical Storm Talas (2011),"{'tropical': 0.9191684661959865, 'storm': 1.0}"
 1979 FA Charity Shield,"{'fa': 1.0, 'shield': 0.959918306411993}"
 2015 Super Rugby Final,{'final': 1.0}
-2010 Asian Five Nations division tournaments,"{'asian': 1.0, 'nations': 0.666249314587543, 'division': 0.6115093473757786}"
+2010 Asian Five Nations division tournaments,"{'asian': 1.0, 'nations': 0.6662493145875432, 'division': 0.6115093473757788}"
 Sabotage at the General Post Office in Zagreb,"{'general': 1.0, 'post': 0.6509103661911331, 'zagreb': 0.7809479340591504}"
 2010 Baja California earthquake,{'earthquake': 1.0}
 Second Italo-Ethiopian War,{'war': 1.0}
@@ -2803,7 +2803,7 @@ La Copa Junior,"{'la': 0.7451083066731117, 'copa': 1.0, 'junior': 0.741185520902
 2010–11 Regional Four Day Competition,{'day': 1.0}
 2014 OFC U-20 Championship,{'championship': 1.0}
 Great Lakes Storm of 1913,{'storm': 1.0}
-2009 Asian Five Nations division tournaments,"{'asian': 1.0, 'nations': 0.666249314587543, 'division': 0.6115093473757786}"
+2009 Asian Five Nations division tournaments,"{'asian': 1.0, 'nations': 0.6662493145875432, 'division': 0.6115093473757788}"
 Second Battle of Amman,{'battle': 1.0}
 First battle of Öland (1564),{'battle': 1.0}
 Battle of Buggenhout,{'battle': 1.0}
@@ -2835,15 +2835,15 @@ Ispah rebellion,{'rebellion': 1.0}
 2014 Winter Olympics opening ceremony,{'winter': 1.0}
 2008 World University Cycling Championship,{'world': 1.0}
 Battle of Riyadh (1902),{'battle': 1.0}
-1998 Pro Bowl,"{'pro': 0.7126161043351634, 'bowl': 1.0}"
+1998 Pro Bowl,"{'pro': 0.7126161043351633, 'bowl': 1.0}"
 Case White,"{'case': 0.7561442359987839, 'white': 1.0}"
 Operation Crusader,{'operation': 1.0}
 Agape Music Festival,{'festival': 1.0}
-The Boat Race 2011,"{'boat': 0.6427741548238052, 'race': 1.0}"
+The Boat Race 2011,"{'boat': 0.6427741548238051, 'race': 1.0}"
 2013 Northeastern China smog,{'china': 1.0}
 UK Centre for Carnival Arts,"{'centre': 1.0, 'arts': 0.6938557892791849}"
 2014 Nepal Premier League,{'league': 1.0}
-Fresh 15 Road Race,"{'road': 0.9002924900864728, 'race': 1.0}"
+Fresh 15 Road Race,"{'road': 0.9002924900864726, 'race': 1.0}"
 2007 FA Community Shield,"{'fa': 1.0, 'shield': 0.959918306411993}"
 Operation Jacana,{'operation': 1.0}
 Langerado,{'langerado': 1.0}
@@ -2851,7 +2851,7 @@ Langerado,{'langerado': 1.0}
 Occupy Sydney,{'occupy': 1.0}
 2012 Champions League Twenty20,{'league': 1.0}
 Salamaua–Lae campaign,{'campaign': 1.0}
-Football at the 2003 Afro-Asian Games,"{'football': 0.8954426335916722, 'asian': 1.0}"
+Football at the 2003 Afro-Asian Games,"{'football': 0.8954426335916723, 'asian': 1.0}"
 II Mundialito de Seniors,{'ii': 1.0}
 2014 Berlin Marathon,{'marathon': 1.0}
 The Fest,{'fest': 1.0}
@@ -2869,10 +2869,10 @@ Grdelica train bombing,{'bombing': 1.0}
 Tropical Storm Hazel (1965),"{'tropical': 0.9191684661959865, 'storm': 1.0}"
 2012 Masters Tournament,"{'masters': 1.0, 'tournament': 0.7901545107660135}"
 UEFA Euro 1968,{'uefa': 1.0}
-1999 Southeast Asian Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}"
-The Boat Race 1994,"{'boat': 0.6427741548238052, 'race': 1.0}"
+1999 Southeast Asian Games,"{'southeast': 0.7395659650622353, 'asian': 1.0}"
+The Boat Race 1994,"{'boat': 0.6427741548238051, 'race': 1.0}"
 Rawa Blues Festival,{'festival': 1.0}
-Basketball at the 2013 Southeast Asian Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}"
+Basketball at the 2013 Southeast Asian Games,"{'southeast': 0.7395659650622353, 'asian': 1.0}"
 2008 Coupe de France Final,{'final': 1.0}
 Midburn,{'midburn': 1.0}
 Get Loaded in the Park,{'park': 1.0}
@@ -2883,7 +2883,7 @@ Reunion Tour (The Stone Roses),{'tour': 1.0}
 2009 Peace Cup,{'cup': 1.0}
 2016 Asia Cup,{'cup': 1.0}
 2014 International Champions Cup,{'cup': 1.0}
-1989 Southeast Asian Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}"
+1989 Southeast Asian Games,"{'southeast': 0.7395659650622353, 'asian': 1.0}"
 2003 ASEAN Para Games,{'games': 1.0}
 2014 Women's Hockey World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}"
 2016 ICC World Twenty20,{'world': 1.0}
@@ -2898,7 +2898,7 @@ Diving at the 2012 Summer Olympics,{'summer': 1.0}
 1998 U.S. Open Cup Final,"{'cup': 1.0, 'final': 0.7179775196363803}"
 1981 World Ice Hockey Championships,{'world': 1.0}
 2010 FA Community Shield,"{'fa': 1.0, 'shield': 0.959918306411993}"
-1997 Pro Bowl,"{'pro': 0.7126161043351634, 'bowl': 1.0}"
+1997 Pro Bowl,"{'pro': 0.7126161043351633, 'bowl': 1.0}"
 1994 Men's World Ice Hockey Championships,{'world': 1.0}
 1979 Football League Cup Final,"{'league': 0.5183001118016044, 'cup': 1.0, 'final': 0.7179775196363803}"
 K-1 Premium Dynamite!!,"{'premium': 1.0, 'dynamite': 1.0}"
