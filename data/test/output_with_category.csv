@@ -1,0 +1,2907 @@
+title,context_score,category
+2006 Pangandaran earthquake and tsunami,{'earthquake': 1.0},geological_phenomenon
+Battle of Santa Clara (1927),{'battle': 1.0},military_action
+Siege of Pondicherry (1793),{'siege': 1.0},military_action
+Battle of Leuthen,{'battle': 1.0},military_action
+Glasgow St Enoch rail accident,"{'rail': 1.0, 'accident': 0.7565370481203059}",bar
+Murder of Lee Rigby,{'murder': 1.0},homicide
+Siege of Bayonne,{'siege': 1.0},military_action
+Air Florida Flight 90,{'flight': 1.0},geological_phenomenon
+2015 ASEAN Para Games,{'games': 1.0},military_action
+Lufthansa CityLine Flight 5634,{'flight': 1.0},geological_phenomenon
+First Taiwan Strait Crisis,{'crisis': 1.0},situation
+Kursk submarine disaster,{'disaster': 1.0},homicide
+Death of Christopher Alder,{'death': 1.0},geological_phenomenon
+Death of Eric Garner,{'death': 1.0},geological_phenomenon
+Gas attacks at Hulluch,{'attacks': 1.0},homicide
+Crazy Nights World Tour,"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+Death of Michael Jackson,{'death': 1.0},geological_phenomenon
+Battle of Saint-Mihiel,{'battle': 1.0},military_action
+2011 Sri Lanka Premier League,{'league': 1.0},bar
+Chappaquiddick incident,{'incident': 1.0},happening
+2012–15 unrest in Romania,{'unrest': 1.0},turbulence
+2016 Masters Tournament,"{'masters': 1.0, 'tournament': 0.7901545107660135}",bar
+Operation Nasr,{'operation': 1.0},military_action
+Thanh Hóa Bridge,{'bridge': 1.0},bar
+Birmingham campaign,{'campaign': 1.0},situation
+West Caribbean Airways Flight 708,{'flight': 1.0},geological_phenomenon
+Bulgarian–Ottoman wars,{'wars': 1.0},military_action
+Siege of Padua,{'siege': 1.0},military_action
+Soul to Soul Tour,{'tour': 1.0},journey
+Iraq War,{'war': 1.0},military_action
+Russo-Japanese War,{'war': 1.0},military_action
+Battle of Largs,{'battle': 1.0},military_action
+Fourth Fitna,{'fitna': 1.0},
+Battle of Chancellorsville,{'battle': 1.0},military_action
+Over the Limit (2010),{'limit': 1.0},indefinite_quantity
+California Gold Rush,"{'california': 1.0, 'gold': 0.9860623606869265}",precious_metal
+2012 Belgian Super Cup,{'cup': 1.0},bar
+Disco Demolition Night,{'disco': 1.0},bar
+Air engagements of the Gulf War,{'war': 1.0},military_action
+Virginia Tech shooting,{'shooting': 1.0},military_action
+Samut Prakan radiation accident,{'accident': 1.0},happening
+Spantax Flight 995,{'flight': 1.0},geological_phenomenon
+Chernobyl disaster,{'disaster': 1.0},homicide
+Black Power movement,"{'black': 0.8577646635512055, 'movement': 1.0}",bar
+Western Air Express Flight 7,{'flight': 1.0},geological_phenomenon
+Chardon High School shooting,"{'school': 0.5024453937504496, 'shooting': 1.0}",military_action
+Decembrist revolt,{'revolt': 1.0},conflict
+2006 New York City plane crash,{'crash': 1.0},happening
+Slovak National Uprising,"{'national': 1.0, 'uprising': 0.896470147706292}",conflict
+2008 invasion of Anjouan,{'invasion': 1.0},happening
+Operation Retribution (1941),{'operation': 1.0},military_action
+Yemenia Flight 448,{'flight': 1.0},geological_phenomenon
+1948 Los Gatos DC-3 crash,{'crash': 1.0},happening
+Operation Stinger,{'operation': 1.0},military_action
+1985 Rajneeshee assassination plot,{'assassination': 1.0},homicide
+Glina massacres,"{'glina': 0.6393401683683237, 'massacres': 1.0}",homicide
+Pope John Paul II assassination attempt,"{'john': 0.8129885900358821, 'ii': 1.0, 'assassination': 0.9840114351801799}",bar
+Anglo-Turkish War (1807–09),{'war': 1.0},military_action
+Death of Tina Watson,{'death': 1.0},geological_phenomenon
+Mau Mau Uprising,{'uprising': 1.0},conflict
+2012 Romanian floods,{'floods': 1.0},geological_phenomenon
+2013 Colorado floods,{'floods': 1.0},geological_phenomenon
+Fasci Siciliani,"{'fasci': 1.0, 'siciliani': 1.0}",
+Hurricane Katrina,{'hurricane': 1.0},cyclone
+Black Sunday bushfires,"{'black': 1.0, 'sunday': 0.877980469718395}",achromatic_color
+Bound for Glory (2005),"{'bound': 1.0, 'glory': 1.0}",bar
+2014 kidnapping and murder of Israeli teenagers,{'murder': 1.0},homicide
+1978 Balkan Bulgarian Tupolev Tu-134 crash,{'crash': 1.0},happening
+2013 Lampedusa migrant shipwreck,"{'lampedusa': 1.0, 'migrant': 1.0, 'shipwreck': 1.0}",happening
+February 2009 Great Britain and Ireland snowfall,"{'february': 0.640829082018385, 'great': 1.0, 'britain': 0.5223029036816121}",Gregorian_calendar_month
+Siege of Senonae,{'siege': 1.0},military_action
+Scotland in the Wars of the Three Kingdoms,{'scotland': 1.0},
+Operation Jericho,{'operation': 1.0},military_action
+Battle of Cirta,{'battle': 1.0},military_action
+2014 Masters Tournament,"{'masters': 1.0, 'tournament': 0.7901545107660135}",bar
+Isle of Wight Festival 2005,{'festival': 1.0},situation
+Smilkovci lake killings,"{'lake': 0.7999222917456668, 'killings': 1.0}",homicide
+Bali Strait Incident,{'incident': 1.0},happening
+Rothbury riot,{'riot': 1.0},situation
+Battle of Kressenbrunn,{'battle': 1.0},military_action
+Afropunk Festival,{'festival': 1.0},situation
+Attack on Mers-el-Kébir,{'attack': 1.0},homicide
+Battle of Rocquencourt,{'battle': 1.0},military_action
+Baltic Way,{'way': 1.0},military_action
+War of the Three Henrys,{'war': 1.0},military_action
+Action of 9 September 1796,{'action': 1.0},military_action
+Kristallnacht,{'kristallnacht': 1.0},
+World War II in Yugoslavia,"{'world': 0.5422257885702634, 'war': 1.0}",military_action
+Raid on Genoa,{'raid': 1.0},penetration
+Operation Summer Rains,{'operation': 1.0},military_action
+Thirty Years' War,{'war': 1.0},military_action
+Libyan Civil War (2014–present),{'war': 1.0},military_action
+Indonesia–Malaysia confrontation,"{'indonesia': 0.7783762349075946, 'malaysia': 1.0}",
+Indian Rebellion of 1857,"{'indian': 1.0, 'rebellion': 0.9888940602771511}",conflict
+Mariana and Palau Islands campaign,{'campaign': 1.0},situation
+Battle of Krasnoi,{'battle': 1.0},military_action
+Cyclone Trina,{'cyclone': 1.0},turbulence
+1987 Sino-Indian skirmish,{'indian': 1.0},Amerindian
+Skanderbeg's Macedonian campaign,{'campaign': 1.0},situation
+Siege of Hull (1642),{'siege': 1.0},military_action
+March 2012 Gaza–Israel clashes,{'march': 1.0},journey
+Operation Peppermint,{'operation': 1.0},military_action
+Jameson Raid,{'raid': 1.0},penetration
+Hurricane Ophelia (2011),{'hurricane': 1.0},cyclone
+Mäntsälä rebellion,{'rebellion': 1.0},conflict
+El Al Flight 432 attack,{'flight': 1.0},geological_phenomenon
+Nikopol–Krivoi Rog Offensive,{'offensive': 1.0},situation
+Eelam War I,{'war': 1.0},military_action
+Iran–Israel proxy conflict,"{'iran': 0.5548208459525549, 'conflict': 1.0}",military_action
+Invasion of Poland,{'invasion': 1.0},happening
+2012 LinkedIn hack,"{'linkedin': 0.5742542279489005, 'hack': 1.0}",bar
+Junker mutiny,"{'junker': 0.5926747461649498, 'mutiny': 1.0}",conflict
+2012 Yahoo! Voices hack,{'hack': 1.0},bar
+Siege of Kijevo (1991),{'siege': 1.0},military_action
+Deluge (history),{'history': 1.0},penetration
+Fry's Army,{'army': 1.0},military_service
+Itamar attack,{'attack': 1.0},homicide
+Assassination of Mahmoud Al-Mabhouh,"{'assassination': 1.0, 'al': 0.5730636997210424}",homicide
+August 2012 Sinai attack,{'attack': 1.0},homicide
+Battle of San Juan (1595),{'battle': 1.0},military_action
+1942 KNILM Douglas DC-3 shootdown,"{'knilm': 1.0, 'douglas': 1.0, 'shootdown': 1.0}",
+Inqilab March,{'march': 1.0},journey
+2011 London anti-cuts protest,"{'london': 0.6750906259119519, 'protest': 1.0}",conflict
+2011 Tel Aviv nightclub attack,{'attack': 1.0},homicide
+Xenophobia in South Africa,"{'south': 0.8357204928641129, 'africa': 1.0}",cardinal_compass_point
+Cadereyta Jiménez massacre,{'massacre': 1.0},homicide
+2011 Chinese pro-democracy protests,"{'pro': 0.6146212058433442, 'protests': 1.0}",conflict
+Battle of San Jacinto,{'battle': 1.0},military_action
+Más Para Dar,{'para': 1.0},situation
+Quasi-War,{'war': 1.0},military_action
+2011 Israeli social justice protests,{'protests': 1.0},conflict
+Michael Jackson memorial service,"{'michael': 1.0, 'memorial': 0.9845632403952675, 'service': 0.5856222902394458}",military_action
+Libertad World Tour,"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+Rock &amp; Roll Over Tour,{'tour': 1.0},journey
+Collingwood Manor Massacre,{'massacre': 1.0},homicide
+Keat Hwa Centennial Celebrations,"{'keat': 1.0, 'hwa': 1.0, 'centennial': 1.0}",anniversary
+Acid Tests,"{'acid': 1.0, 'tests': 1.0}",military_action
+Turkish War of Independence,{'war': 1.0},military_action
+Bahrain Bloody Thursday,{'bloody': 1.0},cover
+1912 Lawrence textile strike,{'strike': 1.0},situation
+Pre-Images and Words Shows,{'pre': 1.0},
+October Rebellion,"{'october': 0.724327103616535, 'rebellion': 1.0}",conflict
+Battle of Tennōji,{'battle': 1.0},military_action
+Dublin and Monaghan bombings,{'bombings': 1.0},homicide
+Attack on Pearl Harbor,{'attack': 1.0},homicide
+Action of 20 October 1793,{'action': 1.0},military_action
+Stratford tube crash,{'crash': 1.0},happening
+Hurricane Debby (2000),{'hurricane': 1.0},cyclone
+Bath School disaster,{'disaster': 1.0},homicide
+Eyes Open Tour,{'tour': 1.0},journey
+2012 European Men's Handball Championship,{'championship': 1.0},high_status
+2011 Waltham triple murder,{'murder': 1.0},homicide
+Corfu Channel incident,{'incident': 1.0},happening
+Conscription Crisis of 1917,{'crisis': 1.0},situation
+Hundred Years' War (1415–53),{'war': 1.0},military_action
+1982 British Army Gazelle friendly fire incident,"{'british': 0.599914703257417, 'fire': 0.6214646550964505, 'incident': 1.0}",situation
+Miss Macao,"{'miss': 1.0, 'macao': 0.5257385590216312}",happening
+Death of Tom Simpson,{'death': 1.0},geological_phenomenon
+Rendez-vous Houston,"{'rendez': 1.0, 'vous': 1.0, 'houston': 1.0}",
+Operation Arbead II,{'operation': 1.0},military_action
+2010 Northumbria Police manhunt,"{'police': 1.0, 'manhunt': 0.7378158910463957}",situation
+1993 Bombay bombings,{'bombings': 1.0},homicide
+Široka Kula massacre,{'massacre': 1.0},homicide
+Influenza A virus subtype H7N9,"{'virus': 1.0, 'subtype': 1.0}",situation
+Assassination of John F. Kennedy,"{'assassination': 1.0, 'john': 0.826198315354961}",bar
+Manili massacre,{'massacre': 1.0},homicide
+Islamabad Marriott Hotel bombing,{'bombing': 1.0},homicide
+McMahon killings,{'killings': 1.0},homicide
+Operation Together Forward,{'operation': 1.0},military_action
+2012 Pune bombings,{'bombings': 1.0},homicide
+1933 Cuba–Bahamas hurricane,{'hurricane': 1.0},cyclone
+August 2013 Tripoli bombing,{'bombing': 1.0},homicide
+TWA Flight 847,{'flight': 1.0},geological_phenomenon
+Second Battle of Algeciras,{'battle': 1.0},military_action
+Siege of Roxburgh Castle,{'siege': 1.0},military_action
+Grey's raid,{'raid': 1.0},penetration
+Cyclone Lua,{'cyclone': 1.0},turbulence
+Country Jam USA,"{'country': 0.6526493632670143, 'jam': 1.0}",military_action
+1999 FA Charity Shield,"{'fa': 1.0, 'shield': 0.959918306411993}",cover
+Siege of Roses (1794–95),{'siege': 1.0},military_action
+Big Dance UK,{'big': 1.0},
+Suez Crisis,{'crisis': 1.0},situation
+Second Battle of Artois,{'battle': 1.0},military_action
+Battle of Remagen,{'battle': 1.0},military_action
+Deng Yujiao incident,{'incident': 1.0},happening
+Bayern Munich v Norwich City,{'city': 1.0},municipality
+Fourth Macedonian War,{'war': 1.0},military_action
+Haitian Revolution,{'revolution': 1.0},military_action
+Iran hostage crisis,"{'iran': 0.7628778280178221, 'crisis': 1.0}",situation
+CMLL Reyes del Aire,"{'cmll': 0.7087748627873494, 'reyes': 0.7207039513931638, 'del': 1.0, 'aire': 0.7207039513931638}",
+Triangle Shirtwaist Factory fire,{'fire': 1.0},situation
+Sexual assault of Savannah Dietrich,"{'assault': 0.7474887844937647, 'savannah': 1.0}",military_action
+Rock 'n Roll Fantasy Camp,{'rock': 1.0},bar
+Death and funeral of Margaret Thatcher,{'death': 1.0},geological_phenomenon
+Come Together Music Festival,{'festival': 1.0},situation
+2015 Kharkiv bombing,{'bombing': 1.0},homicide
+Battle of Hampton Roads,{'battle': 1.0},military_action
+Disco in Dream,"{'disco': 0.7982704846774352, 'dream': 1.0}",bar
+Head of the Charles Regatta,"{'head': 0.6908626305179499, 'regatta': 1.0}",geological_phenomenon
+Siege of Philippsburg (1734),{'siege': 1.0},military_action
+Murder of Leigh Leigh,{'murder': 1.0},homicide
+Dream Within a Dream Tour,{'tour': 1.0},journey
+Oxegen,{'oxegen': 1.0},
+2015 U.S. Open (golf),{'open': 1.0},area
+M-1 Grand Prix,{'grand': 1.0},large_integer
+Third Battle of Panipat,{'battle': 1.0},military_action
+Braniff Flight 542,{'braniff': 1.0},
+International Mother Earth Day,"{'international': 0.7127170620647392, 'day': 1.0}",Gregorian_calendar_month
+Numantine War,{'war': 1.0},military_action
+2012 Delhi gang rape,"{'delhi': 1.0, 'gang': 0.5334552131594993, 'rape': 0.5334552131594993}",bar
+5 October 1910 revolution,{'revolution': 1.0},military_action
+Tulip Revolution,{'revolution': 1.0},military_action
+Korean War,{'war': 1.0},military_action
+1894 Colonial Conference,{'conference': 1.0},military_service
+Expedition of the Thousand,{'expedition': 1.0},situation
+Second Barbary War,{'war': 1.0},military_action
+London Naval Conference,{'conference': 1.0},military_service
+1954 Guatemalan coup d'état,{'guatemalan': 1.0},Central_American
+Super Art Fight,{'super': 1.0},caretaker
+2011 Boston Marathon,{'marathon': 1.0},military_action
+Second Battle of Fallujah,{'battle': 1.0},military_action
+2006 Lebanon War,{'war': 1.0},military_action
+Sunflower Student Movement,{'movement': 1.0},bar
+1961 Commonwealth Prime Ministers' Conference,{'conference': 1.0},military_service
+Bahrain Tamarod,"{'bahrain': 1.0, 'tamarod': 0.5693929717234808}",municipality
+2010 Hong Kong electoral reform,"{'hong': 1.0, 'kong': 1.0}",
+War of 1812,{'war': 1.0},military_action
+Kargil War,{'war': 1.0},military_action
+"1867 Manhattan, Kansas earthquake",{'earthquake': 1.0},geological_phenomenon
+Bloody Sunday (1972),"{'bloody': 0.8379175536801533, 'sunday': 1.0}",anniversary
+Space Shuttle Challenger disaster,{'disaster': 1.0},homicide
+Hurricane Felix (1995),{'hurricane': 1.0},cyclone
+Cyclone Susan,{'cyclone': 1.0},turbulence
+Anglo-Spanish War (1762–63),{'war': 1.0},military_action
+Operation Dark Winter,{'operation': 1.0},military_action
+Qin's campaign against the Xiongnu,{'campaign': 1.0},situation
+December 2010 Bajaur bombing,{'bombing': 1.0},homicide
+Internment of Japanese Americans,{'japanese': 1.0},Asian
+Hurricane Connie,{'hurricane': 1.0},cyclone
+2011–12 Stanbic Bank 20 Series,"{'bank': 0.5304848691157684, 'series': 1.0}",bar
+Cyclone Thelma,{'cyclone': 1.0},turbulence
+(You Drive Me) Crazy Tour,{'tour': 1.0},journey
+Dynasty Tour,{'tour': 1.0},journey
+Bombing of Tan Son Nhut Air Base,"{'bombing': 1.0, 'air': 0.7140679803922989}",homicide
+Campaign against Dong Zhuo,{'campaign': 1.0},situation
+Hurricane Ernesto (2006),{'hurricane': 1.0},cyclone
+Hurricane Dean (1989),{'hurricane': 1.0},cyclone
+Bird's invasion of Kentucky,{'invasion': 1.0},happening
+Peace of Augsburg,{'peace': 1.0},situation
+Battle of Rossbach,{'battle': 1.0},military_action
+1923 Imperial Conference,{'conference': 1.0},military_service
+Kosovo War,{'war': 1.0},military_action
+St. Joseph Secondary School (Mississauga),"{'st': 1.0, 'school': 0.9828934947210796}",bar
+Question Time British National Party controversy,{'national': 1.0},Amerindian
+Eastern Front (World War II),"{'world': 0.5422257885702634, 'war': 1.0}",military_action
+Operation Northern Watch,{'operation': 1.0},military_action
+Nazi crimes against the Polish nation,"{'polish': 1.0, 'nation': 0.7950191912410288}",situation
+Musket Wars,{'wars': 1.0},military_action
+1950–51 Baghdad bombings,{'bombings': 1.0},homicide
+AWB oil-for-wheat scandal,"{'oil': 1.0, 'scandal': 0.9896558359207182}",happening
+Battle of Koronowo,{'battle': 1.0},military_action
+2003 invasion of Iraq,{'invasion': 1.0},happening
+Kidnapping and murder of Mohammed Abu Khdeir,{'murder': 1.0},homicide
+1989 attack on La Tablada barracks,{'attack': 1.0},homicide
+2011 Norway attacks,{'attacks': 1.0},homicide
+Iran–Contra affair,{'iran': 1.0},municipality
+The Bamboozle,{'bamboozle': 1.0},deceive
+Operation Praying Mantis,{'operation': 1.0},military_action
+2001 Harehills riot,{'riot': 1.0},situation
+January 2012 al-Midan bombing,{'bombing': 1.0},homicide
+14 On Fire,{'fire': 1.0},situation
+Rollercoaster Tour,{'tour': 1.0},journey
+U2 360° Tour,{'tour': 1.0},journey
+Essence Music Festival,{'festival': 1.0},situation
+North Sea flood of 1953,"{'north': 1.0, 'flood': 0.5176583025980099}",geological_phenomenon
+Laugharne Weekend,"{'laugharne': 1.0, 'weekend': 1.0}",Gregorian_calendar_month
+One Tour,{'tour': 1.0},journey
+Techkriti,{'techkriti': 1.0},
+Capital Airlines Flight 75,{'flight': 1.0},geological_phenomenon
+Soviet–Afghan War,{'war': 1.0},military_action
+2001 Ealing bombing,{'bombing': 1.0},homicide
+Wushu at the 2005 Southeast Asian Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}",Amerindian
+Sinking of the RMS Titanic,{'sinking': 1.0},happening
+Devotional Tour,{'tour': 1.0},journey
+Better Out Than In,{'out': 1.0},unwrap
+New Jack Reunion Tour,{'tour': 1.0},journey
+Times Square Ball,"{'square': 1.0, 'ball': 0.9923450863428565}",bar
+Voodoo Lounge Tour,{'tour': 1.0},journey
+Edinburgh Festival Fringe,{'festival': 1.0},situation
+London Craft Week,"{'london': 1.0, 'week': 0.5816004496046056}",Gregorian_calendar_month
+Indian Civil Aviation Airshow,"{'indian': 0.6555436893966223, 'civil': 1.0}",Amerindian
+Cygnet Folk Festival,{'festival': 1.0},situation
+2009 in World Victory Road,{'world': 1.0},bar
+Pullman Strike,{'strike': 1.0},situation
+Western Allied invasion of Germany,{'invasion': 1.0},happening
+Gold Beach,"{'gold': 0.5655728944015441, 'beach': 1.0}",precious_metal
+Tropical Storm Bill (2015),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Smyrniote crusades,"{'smyrniote': 1.0, 'crusades': 1.0}",penetration
+Pan Am Flight 7,{'flight': 1.0},geological_phenomenon
+Hurricane Elena,{'hurricane': 1.0},cyclone
+Action of 27 June 1798,{'action': 1.0},military_action
+1933 United Airlines Boeing 247 mid-air explosion,{'air': 1.0},turbulence
+Operation Marne Torch,{'operation': 1.0},military_action
+Cyclone Wasa–Arthur,{'cyclone': 1.0},turbulence
+2013 Thane building collapse,"{'thane': 0.5385334144891926, 'building': 1.0, 'collapse': 0.5385334144891926}",bar
+Tropical Storm Alma,"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Fishing Creek Confederacy,{'creek': 1.0},stream
+Hurricane Lili (1996),{'hurricane': 1.0},cyclone
+Operation Gisela,{'operation': 1.0},military_action
+1927 Nova Scotia hurricane,{'hurricane': 1.0},cyclone
+Battle of Antietam,{'battle': 1.0},military_action
+Hurricane Nina (1957),{'hurricane': 1.0},cyclone
+Hurricane Sandy,{'hurricane': 1.0},cyclone
+Battle of Konna,{'battle': 1.0},military_action
+Hurricane Ismael (1983),{'hurricane': 1.0},cyclone
+Huon Peninsula campaign,{'campaign': 1.0},situation
+Battle of Mars-la-Tour,"{'battle': 1.0, 'tour': 0.6211793821703468}",military_action
+Battle of the Counts,{'battle': 1.0},military_action
+Sudanese nomadic conflicts,{'sudanese': 1.0},Amerindian
+The Station nightclub fire,{'fire': 1.0},situation
+Subtropical Storm Andrea (2007),{'storm': 1.0},geological_phenomenon
+1941 Texas hurricane,{'hurricane': 1.0},cyclone
+Tropical Storm Wukong (2006),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Capture of Combles,{'capture': 1.0},military_action
+TWA Flight 513,{'flight': 1.0},geological_phenomenon
+Operation Barbarossa,{'operation': 1.0},military_action
+Hurricane Jerry (1989),{'hurricane': 1.0},cyclone
+Believe Tour,{'tour': 1.0},journey
+Cyclone Bola,{'cyclone': 1.0},turbulence
+Samashki massacre,{'massacre': 1.0},homicide
+2011 White House shooting,{'shooting': 1.0},military_action
+2005 Azores subtropical storm,{'storm': 1.0},geological_phenomenon
+Battle of Cixi,{'battle': 1.0},military_action
+Hurricane Tico,{'hurricane': 1.0},cyclone
+Typhoon Zeb,{'zeb': 1.0},
+Kegworth air disaster,"{'air': 1.0, 'disaster': 0.7536424088533396}",homicide
+Braathens SAFE Flight 139,{'flight': 1.0},geological_phenomenon
+Hurricane Bob (1979),{'hurricane': 1.0},cyclone
+Loss of the Kink Salient,"{'loss': 1.0, 'kink': 1.0, 'salient': 1.0}",happening
+Battle of Orgreave,{'battle': 1.0},military_action
+Hurricane Gladys (1968),{'hurricane': 1.0},cyclone
+Cyclone Alby,{'cyclone': 1.0},turbulence
+Leyenda de Plata,"{'leyenda': 1.0, 'plata': 1.0}",
+Alligator Festival,{'festival': 1.0},situation
+Moondyne Festival,{'festival': 1.0},situation
+American frontier,{'american': 1.0},Amerindian
+Xhosa Wars,{'wars': 1.0},military_action
+Action of 24 June 1801,{'action': 1.0},military_action
+Operation Bribie,{'operation': 1.0},military_action
+Met Gala,"{'met': 0.5721466147623521, 'gala': 1.0}",situation
+Hurricane Gladys (1975),{'hurricane': 1.0},cyclone
+Hurricane Irene (2005),{'hurricane': 1.0},cyclone
+December 2013 Volgograd bombings,{'bombings': 1.0},homicide
+Battle of the Coral Sea,{'battle': 1.0},military_action
+Tropical Storm Linda (1997),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Operation Flax,{'operation': 1.0},military_action
+Typhoon Dianmu (2004),{'dianmu': 1.0},
+Cyclone Ita,{'cyclone': 1.0},turbulence
+1848 Grand National,"{'grand': 0.9695007515860058, 'national': 1.0}",Amerindian
+Meteorological history of Hurricane Gustav,{'hurricane': 1.0},cyclone
+Shankill Road bombing,{'bombing': 1.0},homicide
+December 1992 nor'easter,{'december': 1.0},Gregorian_calendar_month
+Actions along the Matanikau,{'actions': 1.0},military_action
+Outpost Snipe,"{'outpost': 1.0, 'snipe': 0.5189759307229129}",situation
+Annexation of Crimea by the Russian Federation,{'russian': 1.0},Amerindian
+1815 North Carolina hurricane,{'hurricane': 1.0},cyclone
+2008 Heineken Cup Final,"{'cup': 1.0, 'final': 0.7179775196363803}",bar
+The Virgin Tour,{'tour': 1.0},journey
+Hurricane Carrie,{'hurricane': 1.0},cyclone
+The Wall Live (2010–13),{'live': 1.0},be
+Hussite Wars,{'wars': 1.0},military_action
+Action of 11 January 1944,{'action': 1.0},military_action
+Combat Skyspot,"{'combat': 1.0, 'skyspot': 0.54634997674215}",military_action
+1984 PKK attacks,{'attacks': 1.0},homicide
+Oregon Country Fair,{'fair': 1.0},municipality
+1949 Exhall mid-air collision,{'air': 1.0},turbulence
+Battle of Santa Cruz de Tenerife (1797),{'battle': 1.0},military_action
+Three Mile Island accident,"{'island': 0.6792255851947332, 'accident': 1.0}",happening
+Bombardment of Algiers (1816),"{'bombardment': 1.0, 'algiers': 0.5329675334522381}",situation
+Declaratio Ferdinandei,"{'declaratio': 1.0, 'ferdinandei': 1.0}",
+4 Intimate Nights with Beyoncé,"{'intimate': 1.0, 'beyoncé': 1.0}",Amerindian
+Capture of Wurst Farm,{'capture': 1.0},military_action
+Ferguson unrest,{'unrest': 1.0},turbulence
+Battle of Route Coloniale 4,{'battle': 1.0},military_action
+Archery at the 1900 Summer Olympics,{'summer': 1.0},Gregorian_calendar_month
+Alraigo incident,{'incident': 1.0},happening
+1960 Masters Tournament,"{'masters': 1.0, 'tournament': 0.7901545107660135}",bar
+Morning Gloryville,"{'morning': 1.0, 'gloryville': 1.0}",happening
+2010 IAF Sikorsky CH-53 crash,{'crash': 1.0},happening
+Super Bowl XXXVI,"{'super': 0.5420515336556104, 'bowl': 1.0}",military_action
+Siberia Airlines Flight 1812,{'flight': 1.0},geological_phenomenon
+Burning Man,"{'burning': 1.0, 'man': 0.5814919211609418}",bar
+Cologne War,{'war': 1.0},military_action
+Operation Redwing,{'operation': 1.0},military_action
+Battle of Moerbrugge,{'battle': 1.0},military_action
+Operation Blowdown,{'operation': 1.0},military_action
+1998 ICC KnockOut Trophy,"{'icc': 1.0, 'trophy': 0.9131572368868742}",award
+Thallium poisoning case of Zhu Ling,{'case': 1.0},bar
+Operation Grapple,{'operation': 1.0},military_action
+Operation Wigwam,{'operation': 1.0},military_action
+Shooting of Oscar Grant,{'shooting': 1.0},military_action
+Korean Air Flight 858,{'flight': 1.0},geological_phenomenon
+Bijeljina massacre,{'massacre': 1.0},homicide
+Castle Bravo,{'castle': 1.0},bar
+2015–16 Sheffield Shield season,"{'shield': 1.0, 'season': 0.7639821530177932}",Gregorian_calendar_month
+2000s energy crisis,{'crisis': 1.0},situation
+April 2013 ricin letters,{'april': 1.0},Gregorian_calendar_month
+Pokhran-II,{'ii': 1.0},large_integer
+Turkish Airlines Flight 981,{'flight': 1.0},geological_phenomenon
+2012 ICC Women's World Twenty20,{'world': 1.0},bar
+Operation Hurricane,"{'operation': 0.7981808027606709, 'hurricane': 1.0}",military_action
+Australian cricket team in England in 1975,"{'australian': 0.5630629214363463, 'cricket': 1.0}",Amerindian
+Murder of Selena,{'murder': 1.0},homicide
+Chagai-I,{'chagai': 1.0},
+Operation Crossroads,{'operation': 1.0},military_action
+2013 IIHF World U18 Championships,{'world': 1.0},bar
+2012 Carterton hot air balloon crash,"{'air': 0.999227882247993, 'crash': 1.0}",happening
+Enlighten Canberra,"{'enlighten': 1.0, 'canberra': 1.0}",cover
+Happiness Tour,{'tour': 1.0},journey
+Alitalia Flight 404,{'flight': 1.0},geological_phenomenon
+Mozambican Civil War,{'war': 1.0},military_action
+Hurricane Debra (1959),{'hurricane': 1.0},cyclone
+Huế chemical attacks,{'attacks': 1.0},homicide
+Hurricane Alma (1970),{'hurricane': 1.0},cyclone
+TWA Flight 800 (1964),{'flight': 1.0},geological_phenomenon
+Lovas killings,{'killings': 1.0},homicide
+Hawes Junction rail crash,"{'rail': 0.5719598380277843, 'crash': 1.0}",bar
+Vandalic War,{'war': 1.0},military_action
+2014 Washington wildfires,"{'washington': 1.0, 'wildfires': 0.6731674015452217}",happening
+North American blizzard of 2005,"{'north': 0.7322412973305078, 'american': 1.0}",Amerindian
+Thai Airways International Flight 261,{'flight': 1.0},geological_phenomenon
+Bouhalouane train crash,"{'train': 0.6461059366985077, 'crash': 1.0}",bar
+Hurricane Fran,{'hurricane': 1.0},cyclone
+2014 Tehran dust storm,{'storm': 1.0},geological_phenomenon
+Siege of Pensacola (1707),{'siege': 1.0},military_action
+Tropical Storm Katrina (1999),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+BottleRock Napa Valley,{'valley': 1.0},natural_depression
+May 2014 San Diego County wildfires,"{'san': 1.0, 'county': 0.5320170983749631}",municipality
+Caspian Airlines Flight 7908,{'flight': 1.0},geological_phenomenon
+Operation Hailstone,{'operation': 1.0},military_action
+2011 Dar es Salaam explosions,"{'dar': 1.0, 'explosions': 0.9899633176633577}",homicide
+2015 Burundian coup d'état attempt,{'coup': 1.0},military_action
+1987 Gulf Coast tropical storm,"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Nivelle Offensive,{'offensive': 1.0},situation
+Second Taranaki War,{'war': 1.0},military_action
+The Hump,{'hump': 1.0},cover
+Members of the 31st Dáil,{'members': 1.0},military_service
+Black Hawk War,{'war': 1.0},military_action
+Battle of Anzen,{'battle': 1.0},military_action
+2010–11 Stanbic Bank 20 Series,"{'bank': 0.5304848691157684, 'series': 1.0}",bar
+FIS Alpine World Ski Championships 1982,{'world': 1.0},bar
+El Calabozo massacre,{'massacre': 1.0},homicide
+2011 Lake Champlain and Richelieu River floods,"{'river': 0.5657414536924426, 'floods': 1.0}",geological_phenomenon
+Uprising of Ivaylo,{'uprising': 1.0},conflict
+Action of 4 August 1800,{'action': 1.0},military_action
+Action of 6 November 1794,{'action': 1.0},military_action
+2014 FA Community Shield,"{'fa': 1.0, 'shield': 0.959918306411993}",cover
+Spanish conquest of the Aztec Empire,"{'spanish': 0.5396402367043343, 'conquest': 1.0}",success
+2015 Southeast Africa floods,"{'southeast': 0.7341292708508999, 'floods': 1.0}",geological_phenomenon
+Battle of Fulford,{'battle': 1.0},military_action
+2015 Players Championship,{'championship': 1.0},high_status
+Hurricane Ella (1958),{'hurricane': 1.0},cyclone
+Hurricane Bonnie (1986),{'hurricane': 1.0},cyclone
+Commonwealth Heads of Government Meeting 2002,{'commonwealth': 1.0},municipality
+Battle of Quiberon Bay,{'battle': 1.0},military_action
+Britney_ Piece of Me,{'piece': 1.0},bar
+2011 Census of India,"{'census': 0.750429954245148, 'india': 1.0}",municipality
+War in Donbass,{'war': 1.0},military_action
+ArtRave,{'artrave': 1.0},
+2012 Summer Olympics closing ceremony,{'summer': 1.0},Gregorian_calendar_month
+2008 attack on Omdurman and Khartoum,{'attack': 1.0},homicide
+2009 Iranian presidential election protests,{'protests': 1.0},conflict
+Boston Massacre,{'massacre': 1.0},homicide
+WrestleMania 21,{'wrestlemania': 1.0},
+Saudi Arabian-led intervention in Yemen,"{'led': 0.5690750917056729, 'yemen': 1.0}",cover
+Battle of the Chinese Farm,{'battle': 1.0},military_action
+Welcome to the Universe Tour,{'tour': 1.0},journey
+December 2013 Mansoura bombing,{'bombing': 1.0},homicide
+"2011 Fuzhou, Jiangxi bombings",{'bombings': 1.0},homicide
+2013 Egyptian coup d'état,{'coup': 1.0},military_action
+Mighty Men Conference,{'conference': 1.0},military_service
+The Great American Bash,"{'great': 0.7309293725630559, 'american': 1.0}",Amerindian
+Bangerz Tour,{'tour': 1.0},journey
+First Battle of Bud Dajo,{'battle': 1.0},military_action
+Blockade of Africa,{'africa': 1.0},
+Volnovakha bus attack,{'attack': 1.0},homicide
+Cropped Out,{'cropped': 1.0},cut
+Armageddon (2002),{'armageddon': 1.0},military_action
+Conquest of the Desert,{'conquest': 1.0},success
+Maguindanao massacre,{'massacre': 1.0},homicide
+1979 Kurdish rebellion in Iran,"{'rebellion': 1.0, 'iran': 0.5327333440695313}",conflict
+The Great American Bash (2008),"{'great': 0.7309293725630559, 'american': 1.0}",Amerindian
+NXT TakeOver,{'takeover': 1.0},military_action
+1989 Newcastle earthquake,{'earthquake': 1.0},geological_phenomenon
+Bataan Memorial Death March,"{'death': 1.0, 'march': 0.7267537183526106}",geological_phenomenon
+Manfalut railway accident,{'accident': 1.0},happening
+Hyde Park and Regent's Park bombings,{'bombings': 1.0},homicide
+List of Kelly Rowland live performances,{'live': 1.0},be
+Trans Australia Airlines Flight 408,{'flight': 1.0},geological_phenomenon
+1955 PGA Championship,{'championship': 1.0},high_status
+2012–14 European Nations Cup First Division,{'cup': 1.0},bar
+St Nazaire Raid,{'raid': 1.0},penetration
+1986 Men's Hockey World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}",bar
+Operation Diesel,{'operation': 1.0},military_action
+Houla massacre,{'massacre': 1.0},homicide
+1998–99 Asian Test Championship,"{'asian': 0.6155841595644506, 'championship': 1.0}",Amerindian
+December 2013 Spuyten Duyvil derailment,{'december': 1.0},Gregorian_calendar_month
+Battle of Ramadi (2006),{'battle': 1.0},military_action
+Red Annihilation,{'red': 1.0},achromatic_color
+Rock Werchter,{'rock': 1.0},bar
+1998 Coimbatore bombings,{'bombings': 1.0},homicide
+1995 Football League Cup Final,"{'league': 0.5183001118016044, 'cup': 1.0, 'final': 0.7179775196363803}",bar
+2001–02 Asian Test Championship,"{'asian': 0.6155841595644506, 'championship': 1.0}",Amerindian
+2012 Krasnodar Krai floods,{'floods': 1.0},geological_phenomenon
+Head of the Fish,"{'head': 1.0, 'fish': 0.5676815125782866}",geological_phenomenon
+Raid at Cabanatuan,{'raid': 1.0},penetration
+Mysore (1789–91),{'mysore': 1.0},municipality
+1996 Docklands bombing,{'bombing': 1.0},homicide
+Assassination of Waruhiu,{'assassination': 1.0},homicide
+Unnamed Planet,"{'unnamed': 1.0, 'planet': 1.0}",Amerindian
+Oblation Run,{'run': 1.0},situation
+1948 FA Cup Final,"{'cup': 1.0, 'final': 0.7179775196363803}",bar
+Let's Get to It Tour,{'tour': 1.0},journey
+Confessions Tour,{'tour': 1.0},journey
+Athens Ohio Halloween Block Party,{'party': 1.0},Amerindian
+1849 Grand National,"{'grand': 0.9695007515860058, 'national': 1.0}",Amerindian
+Albert Guay,"{'albert': 1.0, 'guay': 1.0}",
+Escape from the Studio Tour (Korn),{'tour': 1.0},journey
+Graffiti on the Train Tour,{'tour': 1.0},journey
+Yellow Turban Rebellion,{'rebellion': 1.0},conflict
+Rock the Nation World Tour,"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+Alive! Tour,{'tour': 1.0},journey
+Rainbow Serpent Festival,{'festival': 1.0},situation
+Algiers putsch of 1961,"{'algiers': 1.0, 'putsch': 0.6999047924622984}",military_action
+Operation Red Dagger,{'operation': 1.0},military_action
+North Hollywood shootout,{'north': 1.0},cardinal_compass_point
+1995 Rugby World Cup Final,"{'world': 1.0, 'cup': 0.8880773864247816, 'final': 0.637619599150424}",bar
+The Sun Comes Out World Tour,"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+Spanish Civil War,{'war': 1.0},military_action
+Stripped (tour),{'tour': 1.0},journey
+Malaysia's Post General Election rally 2013,"{'malaysia': 1.0, 'general': 0.6160236615837825, 'election': 0.6591869161540432, 'rally': 0.8627552809024586}",military_action
+Drowned World Tour,"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+Clackamas Town Center shooting,{'shooting': 1.0},military_action
+Portrait of an American Family (tour),{'tour': 1.0},journey
+Judgment Day (2002),{'day': 1.0},Gregorian_calendar_month
+Second Northern War,{'war': 1.0},military_action
+Ghouta chemical attack,{'attack': 1.0},homicide
+Battle of Saigon (1955),{'battle': 1.0},military_action
+Adele Live,{'live': 1.0},be
+Battle of Kondaoui,{'battle': 1.0},military_action
+Operation Retribution (1943),{'operation': 1.0},military_action
+Murder of Leanne Tiernan,{'murder': 1.0},homicide
+Funeral of Pope John Paul II,"{'john': 0.8129885900358821, 'ii': 1.0}",bar
+Gas attacks at Wulverghem,{'attacks': 1.0},homicide
+Burning of the Parliament Buildings in Montreal,{'burning': 1.0},journey
+Ravinia Festival,{'festival': 1.0},situation
+Operation Swarmer,{'operation': 1.0},military_action
+Capture of La Boisselle,{'capture': 1.0},military_action
+Southport Airshow,{'airshow': 1.0},
+Texas oil boom,{'texas': 1.0},municipality
+Battle of Cockpit Point,{'battle': 1.0},military_action
+Operation Vigilant Sentinel,{'operation': 1.0},military_action
+2011 Minsk Metro bombing,{'bombing': 1.0},homicide
+Bombardment of Papeete,{'bombardment': 1.0},situation
+Operation Mistral 2,{'operation': 1.0},military_action
+Occupy Dame Street,{'occupy': 1.0},be
+Death of Freddie Gray,{'death': 1.0},geological_phenomenon
+Pan Am Flight 103,{'flight': 1.0},geological_phenomenon
+1977 Southeast Asian Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}",Amerindian
+Tuscarora War,{'war': 1.0},military_action
+Battle of the Danube,{'battle': 1.0},military_action
+Assassination of Abraham Lincoln,{'assassination': 1.0},homicide
+Battle of Maldon,{'battle': 1.0},military_action
+Durham Miners' Gala,"{'durham': 1.0, 'miners': 0.7846024695672908, 'gala': 0.9761162580913519}",situation
+1971 Indian Airlines hijacking,{'indian': 1.0},Amerindian
+Assassination of Robert F. Kennedy,{'assassination': 1.0},homicide
+Battle of Rullion Green,{'battle': 1.0},military_action
+Granada War,{'war': 1.0},military_action
+Irk Valley Junction rail crash,"{'rail': 0.5719598380277843, 'crash': 1.0}",bar
+19 April 2010 Peshawar bombing,{'bombing': 1.0},homicide
+Saxon Wars,{'wars': 1.0},military_action
+Yemeni Revolution,{'revolution': 1.0},military_action
+Hindenburg Line,"{'hindenburg': 0.5817875693537137, 'line': 1.0}",military_action
+Argo 16,{'argo': 1.0},cover
+English Civil War,{'war': 1.0},military_action
+Death and state funeral of Leonid Brezhnev,"{'death': 1.0, 'state': 0.5401561008993547}",geological_phenomenon
+2005 Erbil bombing,{'bombing': 1.0},homicide
+6th Airborne Division advance to the River Seine,"{'division': 1.0, 'river': 0.9320072235303805}",conflict
+1959 Okinawa F-100 crash,{'crash': 1.0},happening
+2015 Greek football scandal,{'football': 1.0},contact_sport
+2010 Baghdad church massacre,{'massacre': 1.0},homicide
+Assassination of George Tiller,{'assassination': 1.0},homicide
+Assassination of Mahatma Gandhi,{'assassination': 1.0},homicide
+Iberia Airlines Flight 401,{'flight': 1.0},geological_phenomenon
+Antony's Parthian War,{'war': 1.0},military_action
+Battle of Champaubert,{'battle': 1.0},military_action
+Siege of Sarajevo,{'siege': 1.0},military_action
+Bangladesh Rifles revolt,"{'bangladesh': 0.7367263481556091, 'revolt': 1.0}",conflict
+Farmville murders,{'murders': 1.0},homicide
+Bodh Gaya bombings,{'bombings': 1.0},homicide
+Birmingham pub bombings,{'bombings': 1.0},homicide
+2014 White House intrusion,"{'white': 0.8901318469177644, 'house': 1.0}",bar
+2004 Arkhangelsk explosion,{'explosion': 1.0},homicide
+Shepherd's Bush murders,"{'bush': 0.5438010066628425, 'murders': 1.0}",homicide
+Battle of the Beanfield,{'battle': 1.0},military_action
+Battle of Koziatyn,{'battle': 1.0},military_action
+2013 Shahbag protests,{'protests': 1.0},conflict
+Battle of Lubrze,{'battle': 1.0},military_action
+Moscone–Milk assassinations,"{'moscone': 1.0, 'milk': 1.0, 'assassinations': 1.0}",homicide
+2009 Boko Haram uprising,{'uprising': 1.0},conflict
+1953 Iranian coup d'état,"{'iranian': 0.5756371623517241, 'coup': 1.0}",military_action
+2011 Kashgar attacks,{'attacks': 1.0},homicide
+Action of 28 February 1799,{'action': 1.0},military_action
+2014 Jinnah International Airport attack,"{'international': 0.5009299136518844, 'attack': 1.0}",homicide
+Battle of Komsomolskoye,{'battle': 1.0},military_action
+Croatian War of Independence,{'war': 1.0},military_action
+2015 Washington wildfires,"{'washington': 1.0, 'wildfires': 0.6731674015452217}",happening
+Beslan school siege,{'siege': 1.0},military_action
+2009 Richmond High School gang rape,{'school': 1.0},bar
+Haymarket affair,{'affair': 1.0},happening
+Death of Henry Glover,{'death': 1.0},geological_phenomenon
+Battle of the Ancre,{'battle': 1.0},military_action
+Oklahoma City bombing,{'bombing': 1.0},homicide
+Second Chechen War,{'war': 1.0},military_action
+One-Two-GO Airlines Flight 269,{'flight': 1.0},geological_phenomenon
+British airborne operations in North Africa,"{'british': 0.5545536514982378, 'north': 1.0, 'africa': 0.6239667131436731}",cardinal_compass_point
+Siege of Adrianople (813),{'siege': 1.0},military_action
+Battle of Changsha (1944),{'battle': 1.0},military_action
+"February 25–27, 2010 North American blizzard","{'north': 0.7322412973305078, 'american': 1.0}",Amerindian
+Dark Season Blues,{'season': 1.0},Gregorian_calendar_month
+Uman–Botoșani Offensive,{'offensive': 1.0},situation
+Operation Undergo,{'operation': 1.0},military_action
+Wars of the Roses,{'wars': 1.0},military_action
+Fall of Constantinople,"{'fall': 0.9846473646129063, 'constantinople': 1.0}",military_action
+Byzantine conquest of Bulgaria,{'conquest': 1.0},success
+Operation Condor,{'operation': 1.0},military_action
+ADC Airlines Flight 53,{'flight': 1.0},geological_phenomenon
+Nagorno-Karabakh conflict,{'conflict': 1.0},military_action
+1981 Pakistan International Airlines hijacking,{'airlines': 1.0},hose
+Sixth Siege of Gibraltar,{'siege': 1.0},military_action
+Dawson's Field hijackings,"{'dawson': 1.0, 'field': 1.0, 'hijackings': 1.0}",geological_phenomenon
+Democratic development in Hong Kong,"{'hong': 1.0, 'kong': 1.0}",
+Operation Winter '94,{'operation': 1.0},military_action
+Spotlight Singapore,{'singapore': 1.0},municipality
+Dnieper–Carpathian Offensive,{'offensive': 1.0},situation
+Varig Flight 797,{'flight': 1.0},geological_phenomenon
+2009 Malagasy political crisis,{'crisis': 1.0},situation
+South Lebanon conflict (1985–2000),{'conflict': 1.0},military_action
+Capture of Oppy Wood,{'capture': 1.0},military_action
+Second Battle of Passchendaele,{'battle': 1.0},military_action
+1975 Spring Offensive,{'offensive': 1.0},situation
+Western Sahara War,{'war': 1.0},military_action
+4 Deserts,{'deserts': 1.0},happening
+2000 ICC KnockOut Trophy,"{'icc': 1.0, 'trophy': 0.9131572368868742}",award
+Glorious Revolution,{'revolution': 1.0},military_action
+2006 Tri Nations Series,"{'nations': 1.0, 'series': 0.6807476949225938}",stream
+2013–14 Ashes series,{'series': 1.0},stream
+Brigham–Kanner Property Rights Conference,{'conference': 1.0},military_service
+1950–51 Ashes series,{'series': 1.0},stream
+Capture of Savannah,{'capture': 1.0},military_action
+2011 Asian Men's Hockey Champions Trophy,"{'asian': 1.0, 'men': 0.7305422047446358, 'hockey': 0.687280810123067, 'trophy': 0.7488105702799246}",bar
+Aleppo University bombings,{'bombings': 1.0},homicide
+2011 Guerrero earthquake,{'earthquake': 1.0},geological_phenomenon
+2015 AFC Asian Cup,{'cup': 1.0},bar
+"Iran student protests, July 1999","{'iran': 0.5552281197550535, 'protests': 1.0, 'july': 0.6969023324326098}",conflict
+Souled Out,{'souled': 1.0},
+1997 Qayen earthquake,{'earthquake': 1.0},geological_phenomenon
+2007 Tri Nations Series,"{'nations': 1.0, 'series': 0.6807476949225938}",stream
+Sinking of the Rainbow Warrior,{'sinking': 1.0},happening
+Tropical Storm Fern (1996),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Census in Australia,"{'census': 1.0, 'australia': 0.6814754711150313}",municipality
+1946 Australian National Airways DC-3 crash,"{'national': 0.7608479802622491, 'crash': 1.0}",happening
+2006–07 ICC Intercontinental Cup,{'cup': 1.0},bar
+2007 Samjhauta Express bombings,{'bombings': 1.0},homicide
+2012 Assam violence,"{'assam': 0.6245112576179407, 'violence': 1.0}",turbulence
+Mehmed II's first Albanian campaign,"{'ii': 0.5459346717716536, 'campaign': 1.0}",situation
+1996 Andhra Pradesh cyclone,{'cyclone': 1.0},turbulence
+KLM Flight 607-E,{'flight': 1.0},geological_phenomenon
+1987 Maryland train collision,{'train': 1.0},bar
+Hurricane Gonzalo,{'hurricane': 1.0},cyclone
+Australian cricket team in England in 1956,"{'australian': 0.5630629214363463, 'cricket': 1.0}",Amerindian
+Typhoon Conson (2010),{'typhoon': 1.0},cyclone
+1990 Men's World Ice Hockey Championships,{'world': 1.0},bar
+Boxing at the 2004 Summer Olympics,{'summer': 1.0},Gregorian_calendar_month
+2010 Catalan autonomy protest,{'protest': 1.0},conflict
+Operation Dominic,{'operation': 1.0},military_action
+Skeleton at the 2010 Winter Olympics – Women's,"{'winter': 0.7086694071746669, 'women': 1.0}",Gregorian_calendar_month
+ShoXC,{'shoxc': 1.0},
+Adam Air Flight 574,{'flight': 1.0},geological_phenomenon
+Third Crusade,{'crusade': 1.0},penetration
+The Beyoncé Experience,{'experience': 1.0},happening
+2001 anthrax attacks,{'attacks': 1.0},homicide
+Operation Halyard,{'operation': 1.0},military_action
+Survivor Series (2006),{'series': 1.0},stream
+1902 Colonial Conference,{'conference': 1.0},military_service
+2007 America's Cup,{'cup': 1.0},bar
+Shooting of Trayvon Martin,{'shooting': 1.0},military_action
+Best of Both Worlds Tour,{'tour': 1.0},journey
+Show Us Yours Tour,{'tour': 1.0},journey
+Curtis Culwell Center attack,{'attack': 1.0},homicide
+Siege of Inabayama Castle,{'siege': 1.0},military_action
+Battle of the Barracks,{'battle': 1.0},military_action
+Schenecker double homicide,"{'schenecker': 0.557605717105452, 'double': 0.557605717105452, 'homicide': 1.0}",homicide
+2008 Georgia sugar refinery explosion,{'explosion': 1.0},homicide
+2012 Benghazi attack,{'attack': 1.0},homicide
+Insomnia Summer Show,{'summer': 1.0},Gregorian_calendar_month
+2010–11 Faysal Bank T20 Cup,{'cup': 1.0},bar
+Cybersonica,{'cybersonica': 1.0},
+2009 Fort Hood shooting,"{'fort': 0.5727157784804341, 'shooting': 1.0}",military_action
+2014 Isla Vista killings,{'killings': 1.0},homicide
+Operation Tannenberg,{'operation': 1.0},military_action
+AMIA bombing,{'bombing': 1.0},homicide
+Typhoon Saomai,{'typhoon': 1.0},cyclone
+Death of Kendrick Johnson,{'death': 1.0},geological_phenomenon
+Wukan protests,{'protests': 1.0},conflict
+Bersih 3.0 rally,"{'bersih': 0.7932218534860485, 'rally': 1.0}",military_action
+Operation Harpoon (1942),{'operation': 1.0},military_action
+Basque conflict,{'conflict': 1.0},military_action
+Persian Constitutional Revolution,{'revolution': 1.0},military_action
+Movement conservatism,{'movement': 1.0},bar
+Summadayze,{'summadayze': 1.0},
+Liverpool F.C. 0–2 Arsenal F.C. (26 May 1989),{'may': 1.0},Gregorian_calendar_month
+Khaibalikend massacre,{'massacre': 1.0},homicide
+Bratislava Chamber Guitar,{'chamber': 1.0},bar
+Battle of Buna–Gona,{'battle': 1.0},military_action
+2014–15 Australian bushfire season,"{'australian': 1.0, 'season': 0.9876299334647456}",Gregorian_calendar_month
+Iranian Embassy siege,{'siege': 1.0},military_action
+2005 Football League Two play-off Final,"{'league': 0.7218890531058653, 'final': 1.0}",bar
+Battle of Mogadishu (2009),{'battle': 1.0},military_action
+2012–13 Australian bushfire season,"{'australian': 1.0, 'season': 0.9876299334647456}",Gregorian_calendar_month
+2015 World Men's Handball Championship,{'world': 1.0},bar
+Freaky Styley Tour,{'tour': 1.0},journey
+National Protection War,{'war': 1.0},military_action
+São Paulo Fashion Week,"{'fashion': 0.6746931622493211, 'week': 1.0}",situation
+2016 Summer Paralympics,{'summer': 1.0},Gregorian_calendar_month
+History of Derby County F.C. (1967–present),"{'history': 1.0, 'county': 0.7480716341370968}",penetration
+Columbus Marathon,{'marathon': 1.0},military_action
+Hundred Days,{'days': 1.0},Gregorian_calendar_month
+Final Straw Tour,{'tour': 1.0},journey
+Operation Ostra Brama,{'operation': 1.0},military_action
+Sydney New Year's Eve,{'new': 1.0},
+Australian Wooden Boat Festival,{'festival': 1.0},situation
+Hong Kong Book Fair,{'fair': 1.0},municipality
+On Every Street Tour,{'tour': 1.0},journey
+Myponga Pop Festival,{'festival': 1.0},situation
+United Airlines Flight 175,{'flight': 1.0},geological_phenomenon
+Malaysian Airline System Flight 653,{'flight': 1.0},geological_phenomenon
+Malaysia Airlines Flight 370,{'flight': 1.0},geological_phenomenon
+2011 San Fernando massacre,{'massacre': 1.0},homicide
+2013 Annaberg shooting,{'shooting': 1.0},military_action
+2012 Afar region tourist attack,{'attack': 1.0},homicide
+United Airlines Flight 93,{'flight': 1.0},geological_phenomenon
+Coastal Road massacre,{'massacre': 1.0},homicide
+2014 Israel–Gaza conflict,{'conflict': 1.0},military_action
+In Amenas hostage crisis,{'crisis': 1.0},situation
+October Crisis,"{'october': 1.0, 'crisis': 0.9640957115759508}",situation
+Maersk Alabama hijacking,"{'alabama': 0.6922639648799237, 'hijacking': 1.0}",municipality
+Operation Entebbe,{'operation': 1.0},military_action
+Death of Caylee Anthony,{'death': 1.0},geological_phenomenon
+Sinai insurgency,{'insurgency': 1.0},conflict
+2014 Iguala mass kidnapping,{'kidnapping': 1.0},capture
+Lufthansa Flight 181,{'flight': 1.0},geological_phenomenon
+Pan Am Flight 281,{'flight': 1.0},geological_phenomenon
+Siege of Sloviansk,{'siege': 1.0},military_action
+Indian Airlines Flight 814,{'flight': 1.0},geological_phenomenon
+Bus 300 affair,"{'bus': 1.0, 'affair': 0.8347088054849409}",bar
+Bombardment of Yeonpyeong,{'bombardment': 1.0},situation
+Attack on Camp Holloway,{'attack': 1.0},homicide
+2013 India–Pakistan border skirmishes,"{'india': 1.0, 'border': 0.5136416389997441}",municipality
+Estadio Nacional disaster,{'disaster': 1.0},homicide
+Warsaw Uprising,{'uprising': 1.0},conflict
+King Philip's War,{'war': 1.0},military_action
+2015 Gothenburg pub shooting,{'shooting': 1.0},military_action
+Christopher Dorner shootings and manhunt,{'shootings': 1.0},military_action
+Siege of Akragas (406 BC),{'siege': 1.0},military_action
+Sack of Amorium,"{'sack': 1.0, 'amorium': 0.5788240876672464}",bar
+25 August 2003 Mumbai bombings,{'bombings': 1.0},homicide
+2000 UEFA Cup Final riots,"{'cup': 1.0, 'final': 0.7179775196363803}",bar
+Battle of the Dalmatian Channels,{'battle': 1.0},military_action
+Eastern Theater of Eelam War IV,{'war': 1.0},military_action
+1997 Empire State Building shooting,"{'state': 0.7451330102897349, 'shooting': 1.0}",geological_phenomenon
+Inter-Services Intelligence activities in India,{'india': 1.0},municipality
+Battle of Kosovo (1448),{'battle': 1.0},military_action
+Nat Turner's slave rebellion,{'rebellion': 1.0},conflict
+August 2013 Rabaa massacre,{'massacre': 1.0},homicide
+2002 Bali bombings,{'bombings': 1.0},homicide
+Deir Yassin massacre,{'massacre': 1.0},homicide
+ROKS Cheonan sinking,{'sinking': 1.0},happening
+Loughinisland massacre,{'massacre': 1.0},homicide
+Teebane bombing,{'bombing': 1.0},homicide
+Zagreb rocket attacks,{'attacks': 1.0},homicide
+2 November 2010 Baghdad bombings,{'bombings': 1.0},homicide
+Bloody Sunday (1921),"{'bloody': 0.8379175536801533, 'sunday': 1.0}",anniversary
+Burning of Washington,"{'burning': 1.0, 'washington': 0.754350945170148}",journey
+Dungan Revolt (1862–77),{'revolt': 1.0},conflict
+Alternative Nation festival,{'festival': 1.0},situation
+Calgary Stampede,"{'calgary': 1.0, 'stampede': 0.5467144618905505}",military_action
+2011 Chișinău explosion,{'explosion': 1.0},homicide
+Epitaph World Tour,"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+North Dakota State Fair,"{'north': 1.0, 'state': 0.7280992972460374, 'fair': 0.7719630714247802}",geological_phenomenon
+Football at the 2012 Summer Olympics,"{'football': 0.9526462477724175, 'summer': 1.0}",Gregorian_calendar_month
+Expect No Quarter Tour,{'tour': 1.0},journey
+Glastonbury Festival,{'festival': 1.0},situation
+List of Avril Lavigne concert tours,"{'list': 0.9593205238028907, 'concert': 1.0, 'tours': 0.8188450494687592}",journey
+Death of Aaliyah,{'death': 1.0},geological_phenomenon
+Life in Color,"{'life': 1.0, 'color': 1.0}",geological_phenomenon
+Wonder World Tour (Miley Cyrus),"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+A Trick of the Tail Tour,{'tour': 1.0},journey
+I Mundialito de Seniors,{'mundialito': 1.0},
+Payback (2014),{'payback': 1.0},return
+WrestleMania 32,{'wrestlemania': 1.0},
+Penang State Legislative Assembly,{'state': 1.0},geological_phenomenon
+Shays' Rebellion,{'rebellion': 1.0},conflict
+Midsumma Festival,{'festival': 1.0},situation
+My Lai Massacre,{'massacre': 1.0},homicide
+Milltown Cemetery attack,{'attack': 1.0},homicide
+Dark Side of the Moon Tour,{'tour': 1.0},journey
+Siege of Paris (845),{'siege': 1.0},military_action
+2011 England riots,"{'england': 0.5377759910134545, 'riots': 1.0}",situation
+Battle of Tawahin,{'battle': 1.0},military_action
+Battle of Krosno,{'battle': 1.0},military_action
+Armenian–Tatar massacres of 1905–07,{'armenian': 1.0},Asian
+Peasants' revolt in Palestine,{'revolt': 1.0},conflict
+Falls Curfew,"{'falls': 1.0, 'curfew': 1.0}",military_action
+Battle of Chaldiran,{'battle': 1.0},military_action
+Burning of Norfolk,{'burning': 1.0},journey
+Sierra Leone Civil War,{'war': 1.0},military_action
+Battle of Lysimachia,{'battle': 1.0},military_action
+Battle of Salé,{'battle': 1.0},military_action
+Noakhali riots,{'riots': 1.0},situation
+1992 Los Angeles riots,{'riots': 1.0},situation
+Hurricane Manuel,{'hurricane': 1.0},cyclone
+Action of 18 August 1798,{'action': 1.0},military_action
+Mount Hope Bay raids,"{'mount': 1.0, 'hope': 0.5214894438897848, 'bay': 0.9857880931767374}",bar
+Battle of Hard,{'battle': 1.0},military_action
+Battle of Rio Hill,{'battle': 1.0},military_action
+Action of 24 October 1793,{'action': 1.0},military_action
+Battle of Rodosto,{'battle': 1.0},military_action
+Battle of Staszów,{'battle': 1.0},military_action
+Third Siege of Gibraltar,{'siege': 1.0},military_action
+Torreón massacre,{'massacre': 1.0},homicide
+Chicago race riot of 1919,"{'race': 1.0, 'riot': 0.5979745265943155}",situation
+New York City draft riots,"{'new': 0.9510707625718219, 'city': 0.5452938612195027, 'riots': 1.0}",situation
+Capture of Grenada (1779),{'capture': 1.0},military_action
+Gwangju Uprising,{'uprising': 1.0},conflict
+Belgian Revolution,{'revolution': 1.0},military_action
+Armenian Genocide,"{'armenian': 1.0, 'genocide': 0.8219896012465103}",homicide
+Great Train Robbery (1963),"{'great': 0.8263189389247981, 'train': 1.0}",bar
+Battle of Mokra (July 1462),{'battle': 1.0},military_action
+Wounded Knee incident,{'incident': 1.0},happening
+Slammiversary (2005),{'slammiversary': 1.0},
+Seljuq campaigns in the Aegean,"{'seljuq': 0.5449562275530361, 'campaigns': 1.0, 'aegean': 0.5449562275530361}",situation
+Court Line Flight 95,{'flight': 1.0},geological_phenomenon
+Project Rulison,"{'project': 1.0, 'rulison': 0.5257385590216312}",situation
+Hurricane Francelia,{'hurricane': 1.0},cyclone
+Jebel Akhdar War,{'war': 1.0},military_action
+Battle of Château-Thierry (1918),{'battle': 1.0},military_action
+Brooklyn Theatre fire,{'fire': 1.0},situation
+Air Lanka Flight 512,{'flight': 1.0},geological_phenomenon
+First Battle of al-Faw,{'battle': 1.0},military_action
+First Ostend Raid,{'raid': 1.0},penetration
+Paléo Festival,{'festival': 1.0},situation
+Gaza War (2008–09),{'war': 1.0},military_action
+Symphonic Odysseys,"{'symphonic': 1.0, 'odysseys': 1.0}",journey
+1995 Men's World Ice Hockey Championships,{'world': 1.0},bar
+Operation Rimau,{'operation': 1.0},military_action
+Sasanian conquest of Jerusalem,{'conquest': 1.0},success
+Battle of Marston Moor,{'battle': 1.0},military_action
+Papua conflict,{'conflict': 1.0},military_action
+Cod Wars,{'wars': 1.0},military_action
+2009 Hudson River mid-air collision,{'air': 1.0},turbulence
+Capitulation of Dornbirn,"{'capitulation': 1.0, 'dornbirn': 0.5694158237013788}",cut
+Hurricane Alice (June 1954),{'hurricane': 1.0},cyclone
+Bladensburg Dueling Grounds,"{'bladensburg': 1.0, 'dueling': 1.0, 'grounds': 1.0}",bar
+2002 Open Championship,"{'open': 0.5398644858774538, 'championship': 1.0}",high_status
+An Evening with Adele,"{'evening': 0.7354671489622515, 'adele': 1.0}",Gregorian_calendar_month
+Dig Out Your Soul Tour,{'tour': 1.0},journey
+E-Commerce Asia,{'asia': 1.0},collection
+Capture of Baghdad (1534),{'capture': 1.0},military_action
+Phendula,{'phendula': 1.0},
+Third Indochina War,{'war': 1.0},military_action
+1962 LOT Vickers Viscount Warsaw crash,{'crash': 1.0},happening
+Ninth Battle of the Isonzo,{'battle': 1.0},military_action
+2001 BBC bombing,{'bombing': 1.0},homicide
+Algo Centre Mall,{'centre': 1.0},bar
+Samlaut Uprising,{'uprising': 1.0},conflict
+Continental Airlines Flight 12,{'flight': 1.0},geological_phenomenon
+Attacks on the Butte de Warlencourt,"{'attacks': 0.8958197795648313, 'de': 1.0}",homicide
+Operation Opera,{'operation': 1.0},military_action
+January 2001 El Salvador earthquake,{'earthquake': 1.0},geological_phenomenon
+New Zealand Wars,{'new': 1.0},
+Livonian War,{'war': 1.0},military_action
+Russian conquest of Siberia,{'conquest': 1.0},success
+Epcot International Food &amp; Wine Festival,{'festival': 1.0},situation
+2003 El Nogal Club bombing,{'bombing': 1.0},homicide
+Glorious First of June,{'first': 1.0},bar
+Fringe World,{'world': 1.0},bar
+Sternwheeler Columbian disaster,{'disaster': 1.0},homicide
+Battle of Glendale,{'battle': 1.0},military_action
+Over the Limit (2011),{'limit': 1.0},indefinite_quantity
+Bash at the Beach,"{'bash': 1.0, 'beach': 0.7286007610935957}",happening
+Elimination Chamber (2013),"{'elimination': 0.5579514017123918, 'chamber': 1.0}",bar
+Schomberg Fair,{'fair': 1.0},municipality
+"History of Nauvoo, Illinois",{'history': 1.0},penetration
+Battle of Stockach (1799),{'battle': 1.0},military_action
+Bad Blood (2003),"{'bad': 0.6855624318678019, 'blood': 1.0}",penetration
+Summerfest,{'summerfest': 1.0},
+Second Battle of Homs,{'battle': 1.0},military_action
+Melbourne Jazz Co-operative,"{'melbourne': 0.8511211685594959, 'jazz': 1.0}",cover
+Avioimpex Flight 110,{'flight': 1.0},geological_phenomenon
+Winter Jam Tour Spectacular,{'tour': 1.0},journey
+Kalinga War,{'war': 1.0},military_action
+2017 Southeast Asian Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}",Amerindian
+2012 Guinea-Bissau coup d'état,{'coup': 1.0},military_action
+Scripps National Spelling Bee,{'national': 1.0},Amerindian
+Eelam War III,{'war': 1.0},military_action
+Rock in Rio,"{'rock': 1.0, 'rio': 0.5145761272360415}",bar
+Lunacon,{'lunacon': 1.0},
+Chelford rail accident,"{'rail': 1.0, 'accident': 0.7565370481203059}",bar
+Boardmasters Festival,{'festival': 1.0},situation
+Aviaco Flight 118,{'flight': 1.0},geological_phenomenon
+Inauguration of Gerald Ford,{'inauguration': 1.0},homicide
+Battle of Havana (1748),{'battle': 1.0},military_action
+Battle of the Baggage,{'battle': 1.0},military_action
+Siege of Homs,{'siege': 1.0},military_action
+Ituri conflict,{'conflict': 1.0},military_action
+2000 Australia Beechcraft King Air crash,"{'air': 0.999227882247993, 'crash': 1.0}",happening
+Worcester Music Festival,{'festival': 1.0},situation
+Zion Square assault,"{'square': 1.0, 'assault': 0.7265558038943876}",military_action
+Buckle Up Music Festival,{'festival': 1.0},situation
+2014 Preakness Stakes,"{'preakness': 0.8286341774600086, 'stakes': 1.0}",bar
+New Music Seminar,"{'new': 0.7031461875131533, 'music': 1.0}",military_action
+Hampton Court Palace Festival,{'festival': 1.0},situation
+Ambush of Geary,{'ambush': 1.0},penetration
+American Airlines Flight 96,{'flight': 1.0},geological_phenomenon
+Operation Sayeed,{'operation': 1.0},military_action
+Boston Marathon,{'marathon': 1.0},military_action
+Konsert Lentera Timur,"{'konsert': 1.0, 'lentera': 1.0, 'timur': 1.0}",Amerindian
+Lebanese Civil War,{'war': 1.0},military_action
+Operation Prairie,{'operation': 1.0},military_action
+Rhythm of Love Tour,{'tour': 1.0},journey
+Six-Day War,{'war': 1.0},military_action
+The Great Blue Heron Music Festival,{'festival': 1.0},situation
+Battle of Brunanburh,{'battle': 1.0},military_action
+Operation Red Wings,{'operation': 1.0},military_action
+Action of 10 November 1808,{'action': 1.0},military_action
+Schlieffen Plan,"{'schlieffen': 1.0, 'plan': 1.0}",area
+Provisional Irish Republican Army campaign,{'campaign': 1.0},situation
+Operation Downfall,{'operation': 1.0},military_action
+Free Money Day,{'day': 1.0},Gregorian_calendar_month
+Jallianwala Bagh massacre,{'massacre': 1.0},homicide
+Animalize World Tour,"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+Eighty Years' War,{'war': 1.0},military_action
+Muslim conquest of the Maghreb,{'conquest': 1.0},success
+2006 Bangkok bombings,{'bombings': 1.0},homicide
+Constitutionalist Revolution,{'revolution': 1.0},military_action
+Operation Sandwedge,{'operation': 1.0},military_action
+Moro River Campaign,{'campaign': 1.0},situation
+Musikfest,{'musikfest': 1.0},
+2010 student protest in Dublin,{'protest': 1.0},conflict
+Siege of Belfort,{'siege': 1.0},military_action
+Atomic bombings of Hiroshima and Nagasaki,{'bombings': 1.0},homicide
+Death of Charlotte Shaw,{'death': 1.0},geological_phenomenon
+Assyrian genocide,{'genocide': 1.0},homicide
+Pontypridd railway accident,{'accident': 1.0},happening
+1898 Open Championship,"{'open': 0.5398644858774538, 'championship': 1.0}",high_status
+Action of 10 February 1809,{'action': 1.0},military_action
+Health Services Union expenses affair,"{'union': 0.5214869230586918, 'affair': 1.0}",bar
+Canadian drug charges and trial of Jimi Hendrix,"{'canadian': 0.8098295227191626, 'jimi': 1.0, 'hendrix': 1.0}",Central_American
+Merpati Nusantara Airlines Flight 8968,{'flight': 1.0},geological_phenomenon
+Hurricane Cindy (2005),{'hurricane': 1.0},cyclone
+Occupy St. Louis,{'occupy': 1.0},be
+1954 National Service riots,"{'national': 1.0, 'riots': 0.6558800034782878}",situation
+Knowle and Dorridge rail crash,"{'rail': 0.5719598380277843, 'crash': 1.0}",bar
+Taliban insurgency,{'insurgency': 1.0},conflict
+"September 15, 2007 anti-war protest",{'war': 1.0},military_action
+Uprising of Asen and Peter,{'uprising': 1.0},conflict
+Festivali i Këngës,"{'festivali': 1.0, 'këngës': 1.0}",
+Operation Steel Tiger,{'operation': 1.0},military_action
+Shooting of Walter Scott,{'shooting': 1.0},military_action
+Battle of Marathon,{'battle': 1.0},military_action
+Farakka Long March,{'march': 1.0},journey
+Recapture of Angola,"{'recapture': 1.0, 'angola': 0.5257385590216312}",military_action
+Capitulation of Saldanha Bay,"{'capitulation': 0.5510788972619485, 'bay': 1.0}",bar
+Battle of Malvern Hill,{'battle': 1.0},military_action
+2006–08 Lebanese protests,{'protests': 1.0},conflict
+Germanwings Flight 9525,{'flight': 1.0},geological_phenomenon
+Mandai massacre,{'massacre': 1.0},homicide
+Hà My massacre,{'massacre': 1.0},homicide
+South Sudanese Civil War,{'war': 1.0},military_action
+1804 Antigua–Charleston hurricane,{'hurricane': 1.0},cyclone
+Swedish invasion of Russia,{'invasion': 1.0},happening
+Juicio Final (2001),{'final': 1.0},match
+1962 Rangoon University protests,{'protests': 1.0},conflict
+2007 A-League Grand Final,"{'league': 0.7218890531058653, 'final': 1.0}",bar
+Siege of Madras,{'siege': 1.0},military_action
+Alitalia Flight 4128,{'flight': 1.0},geological_phenomenon
+2006 Gay Games,{'gay': 1.0},Amerindian
+Siege of Gaeta (1806),{'siege': 1.0},military_action
+Hungarian Revolution of 1956,{'revolution': 1.0},military_action
+First Crusade,{'crusade': 1.0},penetration
+Death of Jeremiah Duggan,{'death': 1.0},geological_phenomenon
+Cavalese cable car disaster (1998),{'disaster': 1.0},homicide
+Battle of Tendra,{'battle': 1.0},military_action
+Siege of Inverness (1649),{'siege': 1.0},military_action
+Arab Spring,"{'arab': 1.0, 'spring': 0.6222719434568494}",bar
+Iran–Iraq War,{'war': 1.0},military_action
+Gallic Wars,{'wars': 1.0},military_action
+Bad Blood (2004),"{'bad': 0.6855624318678019, 'blood': 1.0}",penetration
+The Anarchy,{'anarchy': 1.0},situation
+2006 ICC Champions Trophy,"{'icc': 1.0, 'trophy': 0.9131572368868742}",award
+Climatic Research Unit email controversy,{'controversy': 1.0},conflict
+Italian invasion of France,{'invasion': 1.0},happening
+Action of 13 September 1810,{'action': 1.0},military_action
+Capture of the Paquete de Maule,{'capture': 1.0},military_action
+Lod Airport massacre,{'massacre': 1.0},homicide
+Death of Sandra Bland,{'death': 1.0},geological_phenomenon
+1960 U-2 incident,{'incident': 1.0},happening
+Action of 18 June 1793,{'action': 1.0},military_action
+Action of 3 February 1812,{'action': 1.0},military_action
+DGUSA Untouchable,"{'dgusa': 1.0, 'untouchable': 1.0}",outcast
+Alive II Tour,{'tour': 1.0},journey
+1975 European Cup Final,"{'cup': 1.0, 'final': 0.7179775196363803}",bar
+European Carnage Tour,{'tour': 1.0},journey
+Arab–Byzantine wars,{'wars': 1.0},military_action
+December 1960 nor'easter,{'december': 1.0},Gregorian_calendar_month
+Siege of Almeida (1762),{'siege': 1.0},military_action
+Blood Hole massacre,{'massacre': 1.0},homicide
+Capture of USS Chesapeake,{'capture': 1.0},military_action
+Texas Revolution,{'revolution': 1.0},military_action
+1991 protest in Split,{'protest': 1.0},conflict
+TNA Victory Road,"{'tna': 0.7721994177735274, 'road': 1.0}",bar
+Greenland in World War II,"{'world': 0.5422257885702634, 'war': 1.0}",military_action
+Never Say Die! Tour 2012,{'tour': 1.0},journey
+Byzantine–Bulgarian war of 894–896,{'war': 1.0},military_action
+French invasion of Russia,{'invasion': 1.0},happening
+The Day the Music Died,"{'day': 0.9191216380010773, 'music': 1.0}",military_action
+Charlie Hebdo shooting,{'shooting': 1.0},military_action
+USS Constitution vs HMS Guerriere,{'uss': 1.0},municipality
+1948 Palestinian exodus from Lydda and Ramle,"{'palestinian': 1.0, 'exodus': 1.0, 'lydda': 1.0, 'ramle': 1.0}",cut
+Hurricane Beatriz (2011),{'hurricane': 1.0},cyclone
+2012–13 Egyptian protests,{'protests': 1.0},conflict
+Aster Revolution,{'revolution': 1.0},military_action
+Hurricane Ignacio (1985),{'hurricane': 1.0},cyclone
+Maramon Convention,"{'maramon': 1.0, 'convention': 1.0}",municipality
+1964 race riots in Singapore,"{'race': 0.6482967142577714, 'riots': 1.0}",situation
+TNA Genesis,{'genesis': 1.0},happening
+Western Sahara conflict,{'conflict': 1.0},military_action
+"2014 Conference of Western Balkan States, Berlin","{'conference': 1.0, 'western': 0.5843641148440982}",military_service
+Williams Olefins Plant explosion,{'explosion': 1.0},homicide
+Aerosvit Flight 241,{'flight': 1.0},geological_phenomenon
+2014 People's Climate March,{'march': 1.0},journey
+First Battle of Bull Run,{'battle': 1.0},military_action
+2005 Lake Tanganyika earthquake,{'earthquake': 1.0},geological_phenomenon
+2011 Monterrey casino attack,{'attack': 1.0},homicide
+Kumbaya Festival,{'festival': 1.0},situation
+1962 Buin Zahra earthquake,{'earthquake': 1.0},geological_phenomenon
+Chinese Civil War,{'war': 1.0},military_action
+Tropical Storm Soudelor (2009),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Orange Revolution,{'revolution': 1.0},military_action
+2005 FA Community Shield,"{'fa': 1.0, 'shield': 0.959918306411993}",cover
+2012 Great Britain and Ireland floods,"{'great': 0.7712947502066981, 'floods': 1.0}",geological_phenomenon
+Fleetwood Mac Live,{'live': 1.0},be
+Battle of Britain,{'battle': 1.0},military_action
+Operation Brevity,{'operation': 1.0},military_action
+Tenerife airport disaster,{'disaster': 1.0},homicide
+Bloody Sunday (1920),"{'bloody': 0.8379175536801533, 'sunday': 1.0}",anniversary
+Attempted assassination of Ronald Reagan,{'assassination': 1.0},homicide
+2012 Makhachkala attack,{'attack': 1.0},homicide
+Christmas Uprising,{'uprising': 1.0},conflict
+Iran Air Flight 655,{'flight': 1.0},geological_phenomenon
+Death of Azaria Chamberlain,{'death': 1.0},geological_phenomenon
+Death and state funeral of Kim Jong-il,"{'death': 1.0, 'state': 0.5401561008993547}",geological_phenomenon
+2015 Tanzania flood,{'flood': 1.0},geological_phenomenon
+EgyptAir Flight 990,{'flight': 1.0},geological_phenomenon
+Showgirl_ The Greatest Hits Tour,{'tour': 1.0},journey
+Poor People's Campaign,{'campaign': 1.0},situation
+2010 Kalgoorlie-Boulder earthquake,{'earthquake': 1.0},geological_phenomenon
+Hurricane Dean,{'hurricane': 1.0},cyclone
+Battle of Le Transloy,{'battle': 1.0},military_action
+Versus Cancer,{'cancer': 1.0},Amerindian
+Cocoanut Grove fire,{'fire': 1.0},situation
+Battle of the Crater,{'battle': 1.0},military_action
+Death of Jimi Hendrix,{'death': 1.0},geological_phenomenon
+Jeff Peterson Memorial Cup,{'cup': 1.0},bar
+Siege of Algeciras (1342–44),{'siege': 1.0},military_action
+Operation Pillar of Defense,{'operation': 1.0},military_action
+Typhoon Rammasun (2002),{'typhoon': 1.0},cyclone
+Siege of Fort Crozon,{'siege': 1.0},military_action
+Piper Alpha,"{'piper': 0.5333888201246338, 'alpha': 1.0}",happening
+Swiss peasant war of 1653,{'war': 1.0},military_action
+Second Boer War,{'war': 1.0},military_action
+Capture of Mametz,{'capture': 1.0},military_action
+Mughal–Safavid War (1622–23),{'war': 1.0},military_action
+2009 Nevsky Express bombing,{'bombing': 1.0},homicide
+Cyclone Geralda,{'cyclone': 1.0},turbulence
+Operation Deadstick,{'operation': 1.0},military_action
+2012 Grand National,"{'grand': 0.9695007515860058, 'national': 1.0}",Amerindian
+Atari video game burial,{'game': 1.0},military_action
+Battle of Pakchon,{'battle': 1.0},military_action
+Swimming at the 2015 Southeast Asian Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}",Amerindian
+Free State of Galveston,{'state': 1.0},geological_phenomenon
+2004 Madrid train bombings,"{'train': 0.8063687480838666, 'bombings': 1.0}",bar
+Mahon Tribunal,"{'mahon': 1.0, 'tribunal': 1.0}",municipality
+1940 United States Census,"{'united': 1.0, 'states': 0.7668218600301623, 'census': 0.5349394287317725}",geological_phenomenon
+Chadian–Libyan conflict,{'conflict': 1.0},military_action
+Johannisthal air disaster,"{'air': 1.0, 'disaster': 0.7536424088533396}",homicide
+1947 Cape Sable hurricane,{'hurricane': 1.0},cyclone
+2002 Gujarat riots,{'riots': 1.0},situation
+2006 United States immigration reform protests,"{'united': 0.6498971044711546, 'protests': 1.0}",conflict
+VORTEX projects,"{'vortex': 1.0, 'projects': 1.0}",situation
+2014 Northwest Territories fires,{'northwest': 1.0},cardinal_compass_point
+No Way Out (2002),{'way': 1.0},military_action
+1945 Australian National Airways Stinson crash,"{'national': 0.7608479802622491, 'crash': 1.0}",happening
+Operation Whirlwind,{'operation': 1.0},military_action
+July 2013 Spuyten Duyvil derailment,{'july': 1.0},Gregorian_calendar_month
+MAKS (air show),{'air': 1.0},turbulence
+Godhra train burning,{'train': 1.0},bar
+Package Q Strike,{'strike': 1.0},situation
+1979 Imperial Valley earthquake,{'earthquake': 1.0},geological_phenomenon
+Raid on Manila (1798),{'raid': 1.0},penetration
+Intelligent Systems for Molecular Biology,"{'intelligent': 1.0, 'molecular': 1.0, 'biology': 1.0}",geological_phenomenon
+1994 Fairchild Air Force Base B-52 crash,"{'air': 0.999227882247993, 'crash': 1.0}",happening
+World Maths Day,{'world': 1.0},bar
+Hop Farm Festival,{'festival': 1.0},situation
+Hurricane Uleki,{'hurricane': 1.0},cyclone
+Naxalite–Maoist insurgency,{'insurgency': 1.0},conflict
+West Indian cricket team in England in 1900,"{'indian': 1.0, 'cricket': 0.9731101081020141}",Amerindian
+Caesar's Civil War,{'war': 1.0},military_action
+Radical War,{'war': 1.0},military_action
+2012 Summer Olympics opening ceremony,{'summer': 1.0},Gregorian_calendar_month
+2014 Ukrainian revolution,{'revolution': 1.0},military_action
+Tropical Storm Helene (2000),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Invasion of Ceylon (1795),{'invasion': 1.0},happening
+First Indochina War,{'war': 1.0},military_action
+Pacific War,{'war': 1.0},military_action
+Korean Air Lines Flight 007,{'flight': 1.0},geological_phenomenon
+Battle of Manlian Pass,{'battle': 1.0},military_action
+American Civil War,{'war': 1.0},military_action
+January 1992 nor'easter,{'january': 1.0},Gregorian_calendar_month
+Mexican Indignados Movement,{'movement': 1.0},bar
+Second inauguration of Barack Obama,"{'inauguration': 1.0, 'barack': 0.5183260646704602, 'obama': 0.5183260646704602}",homicide
+Warsaw Pact invasion of Czechoslovakia,{'invasion': 1.0},happening
+Third Battle of Gaza,{'battle': 1.0},military_action
+Philippine resistance against Japan,"{'philippine': 1.0, 'resistance': 0.7062705200318838, 'japan': 0.5902028387653766}",geological_phenomenon
+Cambodian–Vietnamese War,{'war': 1.0},military_action
+Hatfield rail crash,"{'rail': 0.5719598380277843, 'crash': 1.0}",bar
+Bersih 2.0 rally,"{'bersih': 0.7932218534860485, 'rally': 1.0}",military_action
+Occupation of the Ottoman Bank,"{'occupation': 0.945153241080526, 'ottoman': 0.9752956415761437, 'bank': 1.0}",military_action
+2006 Conference National play-off Final,"{'national': 0.5156833146807355, 'final': 1.0}",Amerindian
+Insurgency in Jammu and Kashmir,{'insurgency': 1.0},conflict
+Second Fitna,{'fitna': 1.0},
+The Day We Fight Back,{'day': 1.0},Gregorian_calendar_month
+March of loyalty to martyrs,{'march': 1.0},journey
+Hurricane Ingrid,{'hurricane': 1.0},cyclone
+Battle of Mobile Bay,{'battle': 1.0},military_action
+Ethiopian Civil War,{'war': 1.0},military_action
+2001 FA Charity Shield,"{'fa': 1.0, 'shield': 0.959918306411993}",cover
+1980 eruption of Mount St. Helens,{'mount': 1.0},bar
+1933 Cuba–Brownsville hurricane,{'hurricane': 1.0},cyclone
+2002 West Bengal cyclone,{'cyclone': 1.0},turbulence
+2008 Parachinar bombing,{'bombing': 1.0},homicide
+Hurricane Keith,{'hurricane': 1.0},cyclone
+Hurricane Marie (2014),{'hurricane': 1.0},cyclone
+Hurricane Dolores (1974),{'hurricane': 1.0},cyclone
+Cyclone John,{'cyclone': 1.0},turbulence
+Cyclone Hellen,{'cyclone': 1.0},turbulence
+1928 Fort Pierce hurricane,{'hurricane': 1.0},cyclone
+Cyclone Gwenda,{'cyclone': 1.0},turbulence
+2017 World Junior Ice Hockey Championships,{'world': 1.0},bar
+1935 Jérémie hurricane,{'hurricane': 1.0},cyclone
+Whiskey Rebellion,{'rebellion': 1.0},conflict
+Cyclone Gretelle,{'cyclone': 1.0},turbulence
+1943 Surprise Hurricane,{'hurricane': 1.0},cyclone
+Hurricane Kyle (2002),{'hurricane': 1.0},cyclone
+Hurricane Hiki,{'hurricane': 1.0},cyclone
+Hurricane Hattie,{'hurricane': 1.0},cyclone
+Hurricane Allen,{'hurricane': 1.0},cyclone
+Battle of Lund,{'battle': 1.0},military_action
+Cyclone Hyacinthe,{'cyclone': 1.0},turbulence
+1909 Velasco hurricane,{'hurricane': 1.0},cyclone
+Ariana Afghan Airlines Flight 701,{'flight': 1.0},geological_phenomenon
+1959 Mexico hurricane,{'hurricane': 1.0},cyclone
+Tropical Storm Bonnie (2004),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Hurricane Floyd (1987),{'hurricane': 1.0},cyclone
+Linjeflyg Flight 618,{'flight': 1.0},geological_phenomenon
+Nagorno-Karabakh War,{'war': 1.0},military_action
+Los Alfaques disaster,{'disaster': 1.0},homicide
+1959 Escuminac disaster,{'disaster': 1.0},homicide
+December 1969 nor'easter,{'december': 1.0},Gregorian_calendar_month
+May 1968 events in France,{'france': 1.0},municipality
+Hurricane Alice (December 1954),{'hurricane': 1.0},cyclone
+1942 Belize hurricane,{'hurricane': 1.0},cyclone
+Winter of 2010–11 in Great Britain and Ireland,"{'winter': 0.742166524877489, 'great': 1.0, 'britain': 0.5223029036816121}",Gregorian_calendar_month
+Timeline of modern American conservatism,{'american': 1.0},Amerindian
+Quintinshill rail disaster,"{'rail': 0.759513786504471, 'disaster': 1.0}",bar
+Ceremonials Tour,{'tour': 1.0},journey
+Anna Abreu (album),"{'anna': 0.7133903859050494, 'album': 1.0}",bar
+Mahdia campaign of 1087,{'campaign': 1.0},situation
+Fort Smith Council,{'fort': 1.0},bar
+Now (Anna Abreu album),"{'anna': 0.7133903859050494, 'album': 1.0}",bar
+Agni Air Flight 101,{'flight': 1.0},geological_phenomenon
+South African Border War,{'war': 1.0},military_action
+Ma'alot massacre,{'massacre': 1.0},homicide
+Action of 31 March 1800,{'action': 1.0},military_action
+Cyclone Manou,{'cyclone': 1.0},turbulence
+Raid on Grand Pré,"{'raid': 0.8906489800295523, 'grand': 1.0}",penetration
+Battle of Happo,{'battle': 1.0},military_action
+Red Hot Chili Peppers 1984 Tour,{'tour': 1.0},journey
+Eritrean–Ethiopian War,{'war': 1.0},military_action
+Outpost Harry,"{'outpost': 1.0, 'harry': 0.870988779207031}",situation
+Battle of the Bulge,{'battle': 1.0},military_action
+Operation Perch,{'operation': 1.0},military_action
+Kochi-Muziris Biennale,"{'kochi': 1.0, 'muziris': 1.0, 'biennale': 1.0}",
+1887 Halloween tropical storm,"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Cyclone Kesiny,{'cyclone': 1.0},turbulence
+Tropical Storm Chanthu (2004),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Battle of Chunuk Bair,{'battle': 1.0},military_action
+Live Aid,{'live': 1.0},be
+2009 ASEAN Para Games,{'games': 1.0},military_action
+Hurricane Fifi–Orlene,{'hurricane': 1.0},cyclone
+1952 Bermuda air crash,"{'air': 0.999227882247993, 'crash': 1.0}",happening
+American Airlines Flight 77,{'flight': 1.0},geological_phenomenon
+Indian campaign of Alexander the Great,"{'indian': 0.7853489137712399, 'campaign': 1.0, 'great': 0.6686836908983107}",situation
+Hurricane Emily (1993),{'hurricane': 1.0},cyclone
+Hurricane Gustav (2002),{'hurricane': 1.0},cyclone
+Siege of Strasbourg,{'siege': 1.0},military_action
+Dirt n Dust Festival,{'festival': 1.0},situation
+Hawkesbury and Nepean Wars,{'wars': 1.0},military_action
+Action of 22 August 1795,{'action': 1.0},military_action
+Action of 30 May 1798,{'action': 1.0},military_action
+Battle of Romani,{'battle': 1.0},military_action
+1971 Scottish soldiers' killings,{'killings': 1.0},homicide
+Operation Market Time,{'operation': 1.0},military_action
+Action of 15 November 1810,{'action': 1.0},military_action
+Thunder over the Boardwalk,"{'thunder': 1.0, 'boardwalk': 1.0}",happening
+Action of 19 February 1801,{'action': 1.0},military_action
+Action of 1 November 1944,{'action': 1.0},military_action
+Action of 25 February 1781,{'action': 1.0},military_action
+Action of 3 July 1810,{'action': 1.0},military_action
+Action of 6 April 1809,{'action': 1.0},military_action
+Rock Springs massacre,{'massacre': 1.0},homicide
+Christmas Eve Battle,{'battle': 1.0},military_action
+Allemand's expedition of 1805,{'expedition': 1.0},situation
+Atlantic U-boat campaign of World War I,"{'world': 0.5422257885702634, 'war': 1.0}",military_action
+Black Friday (1945),{'black': 1.0},achromatic_color
+Action of 18 November 1809,{'action': 1.0},military_action
+Macau Incident (1799),{'incident': 1.0},happening
+Gaza–Israel conflict,{'conflict': 1.0},military_action
+British occupation of the Jordan Valley,"{'british': 1.0, 'occupation': 0.5268064195494216, 'valley': 0.8318538578090868}",military_action
+A Conspiracy of Hope,"{'conspiracy': 0.593172978527543, 'hope': 1.0}",situation
+Capture of Fricourt,{'capture': 1.0},military_action
+Naval Battle of Tarragona (July 1641),{'battle': 1.0},military_action
+Battle of Koromokina Lagoon,{'battle': 1.0},military_action
+Hurricane Carla,{'hurricane': 1.0},cyclone
+Occupation of Constantinople,"{'occupation': 1.0, 'constantinople': 0.6443660798478424}",military_action
+Operation Doomsday,{'operation': 1.0},military_action
+China Airlines Flight 642,{'flight': 1.0},geological_phenomenon
+Third attack on Anzac Cove,{'attack': 1.0},homicide
+Noemvriana,{'noemvriana': 1.0},
+Manx2 Flight 7100,{'flight': 1.0},geological_phenomenon
+New Guinea campaign,"{'new': 0.594435045854209, 'campaign': 1.0}",situation
+Believe Again Tour,{'tour': 1.0},journey
+Air Canada Flight 797,{'flight': 1.0},geological_phenomenon
+Taboo Tuesday (2005),"{'taboo': 1.0, 'tuesday': 1.0}",anniversary
+Invasion of Martinique (1759),{'invasion': 1.0},happening
+Aeroflot Flight 331,{'flight': 1.0},geological_phenomenon
+1979 Garuda Fokker F28 crash,{'crash': 1.0},happening
+Bruce campaign in Ireland,{'campaign': 1.0},situation
+Hurricane Flora,{'hurricane': 1.0},cyclone
+Last battle of the battleship Bismarck,{'battle': 1.0},military_action
+British Airways Flight 9,{'flight': 1.0},geological_phenomenon
+Battle of Hakadal,{'battle': 1.0},military_action
+Badrashin railway accident,{'accident': 1.0},happening
+Red Bull Stratos,{'red': 1.0},achromatic_color
+Northwest Orient Airlines Flight 706,{'flight': 1.0},geological_phenomenon
+Allied Air Flight 111,{'flight': 1.0},geological_phenomenon
+Capture of Luanda,{'capture': 1.0},military_action
+Palair Macedonian Airlines Flight 301,{'flight': 1.0},geological_phenomenon
+Aviastar-TU Flight 1906,{'flight': 1.0},geological_phenomenon
+Second Desmond Rebellion,{'rebellion': 1.0},conflict
+Death of Dale Earnhardt,{'death': 1.0},geological_phenomenon
+2010 Pichilemu earthquake,{'earthquake': 1.0},geological_phenomenon
+Halifax Explosion,{'explosion': 1.0},homicide
+Ozark Air Lines Flight 650,{'flight': 1.0},geological_phenomenon
+2012 Farmers Classic,"{'farmers': 1.0, 'classic': 1.0}",bar
+Bituminous coal miners' strike of 1894,{'strike': 1.0},situation
+Super Bowl 50,{'bowl': 1.0},military_action
+Siege of Exeter (1068),{'siege': 1.0},military_action
+Vistula–Oder Offensive,{'offensive': 1.0},situation
+USS Liberty incident,{'incident': 1.0},happening
+Action of 9 July 1806,{'action': 1.0},military_action
+Tropical Storm Aere (2011),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Occupy Portland,{'occupy': 1.0},be
+The Pennsylvania Society,"{'pennsylvania': 1.0, 'society': 1.0}",bar
+State Fair of West Virginia,"{'state': 0.9431789216318531, 'fair': 1.0, 'west': 0.5649562917735549}",geological_phenomenon
+Capture of Geertruidenberg (1589),{'capture': 1.0},military_action
+2011 Slave Lake wildfire,{'lake': 1.0},stream
+Uzbek invasion of Khorasan (1578),{'invasion': 1.0},happening
+2009 Jakarta bombings,{'bombings': 1.0},homicide
+First Barbary War,{'war': 1.0},military_action
+Aberfan disaster,{'disaster': 1.0},homicide
+Parkenfestivalen,{'parkenfestivalen': 1.0},
+Spanish conquest of Chiapas,"{'spanish': 0.5396402367043343, 'conquest': 1.0}",success
+2015 Southeast Asian Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}",Amerindian
+Away from Home Tour,{'tour': 1.0},journey
+First inauguration of Barack Obama,"{'inauguration': 1.0, 'barack': 0.5183260646704602, 'obama': 0.5183260646704602}",homicide
+2008 Kazan gas explosion,"{'gas': 0.5153339813585857, 'explosion': 1.0}",geological_phenomenon
+Battle of Cedynia,{'battle': 1.0},military_action
+East Cape War,{'war': 1.0},military_action
+Boston Tea Party,"{'boston': 1.0, 'party': 0.6131432711547977}",Amerindian
+Barbary Wars,{'wars': 1.0},military_action
+Death of Ian Tomlinson,{'death': 1.0},geological_phenomenon
+Syro-Ephraimite War,{'war': 1.0},military_action
+Abbasid invasion of Asia Minor (782),{'invasion': 1.0},happening
+1985 FA Charity Shield,"{'fa': 1.0, 'shield': 0.959918306411993}",cover
+Balkan Wars,{'wars': 1.0},military_action
+Bogotá Women's Race,"{'women': 1.0, 'race': 0.5786114023086885}",Amerindian
+T in the Park,{'park': 1.0},bar
+1985 Wales v Scotland football match,{'football': 1.0},contact_sport
+Saarang,{'saarang': 1.0},
+Hurricane Igor,{'hurricane': 1.0},cyclone
+1945 Texas hurricane,{'hurricane': 1.0},cyclone
+French Revolution,{'revolution': 1.0},military_action
+Cyclone Tia,{'cyclone': 1.0},turbulence
+First Messenian War,{'war': 1.0},military_action
+2014 ICC World Twenty20 Knockouts,{'world': 1.0},bar
+Yorktown campaign,{'campaign': 1.0},situation
+Battle of Paardeberg,{'battle': 1.0},military_action
+Zeitoun incident,{'incident': 1.0},happening
+Hurricane Kathleen (1976),{'hurricane': 1.0},cyclone
+Hurricane Rita,{'hurricane': 1.0},cyclone
+Battle of Mogadishu (1993),{'battle': 1.0},military_action
+2013–14 Big Bash League season,{'league': 1.0},bar
+Operation Totalize,{'operation': 1.0},military_action
+The Greatest Hits World Tour,"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+Ajax 5–1 Liverpool (1966),"{'ajax': 0.5696403597334679, 'liverpool': 1.0}",municipality
+Hurricane Jeanne (1980),{'hurricane': 1.0},cyclone
+2010 Caribbean Twenty20,{'caribbean': 1.0},municipality
+November 2014 North American cold wave,"{'north': 0.7322412973305078, 'american': 1.0}",Amerindian
+Early 2014 North American cold wave,"{'north': 0.7322412973305078, 'american': 1.0}",Amerindian
+Hurricane Bonnie (1998),{'hurricane': 1.0},cyclone
+2012 World Junior Ice Hockey Championships,{'world': 1.0},bar
+Hurricane Easy (1950),{'hurricane': 1.0},cyclone
+Cyclone Val,{'cyclone': 1.0},turbulence
+Permesta,{'permesta': 1.0},
+Tropical Storm Amy (1975),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Cyclone Firinga,{'cyclone': 1.0},turbulence
+Hurricane Norbert (1984),{'hurricane': 1.0},cyclone
+Hurricane Kenna,{'hurricane': 1.0},cyclone
+2008 Chișinău Antonov An-32 crash,{'crash': 1.0},happening
+1993 Men's World Ice Hockey Championships,{'world': 1.0},bar
+Hurricane Doreen (1977),{'hurricane': 1.0},cyclone
+1929 Arthur's Pass earthquake,{'earthquake': 1.0},geological_phenomenon
+Cyclone Gafilo,{'cyclone': 1.0},turbulence
+1938 Jersey Airport disaster,{'disaster': 1.0},homicide
+Battle of Loznica (1941),{'battle': 1.0},military_action
+2005 Jaunpur train bombing,{'bombing': 1.0},homicide
+2009 Jeddah floods,{'floods': 1.0},geological_phenomenon
+Typhoon Sarah (1989),{'sarah': 1.0},
+Battle of Machias (1777),{'battle': 1.0},military_action
+Hurricane Ginny,{'hurricane': 1.0},cyclone
+1947 Fort Lauderdale hurricane,{'hurricane': 1.0},cyclone
+2012 Copa Libertadores Finals,{'copa': 1.0},
+Million Puppet March,{'march': 1.0},journey
+Battle of Chongju (1950),{'battle': 1.0},military_action
+Hurricane Norman (1978),{'hurricane': 1.0},cyclone
+2012 Gippsland earthquake,{'earthquake': 1.0},geological_phenomenon
+Tropical Storm Kim (1983),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Wildflower! Arts and Music Festival,{'festival': 1.0},situation
+1989 Loma Prieta earthquake,{'earthquake': 1.0},geological_phenomenon
+Qidong protest,{'protest': 1.0},conflict
+Turkish invasion of Cyprus,{'invasion': 1.0},happening
+Occupy Wall Street,{'occupy': 1.0},be
+Operation Spring Awakening,{'operation': 1.0},military_action
+2016 Under-19 Cricket World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}",bar
+Tropical Depression Wilma (2013),{'tropical': 1.0},
+Chaco War,{'war': 1.0},military_action
+Mohawk Airlines Flight 121,{'flight': 1.0},geological_phenomenon
+Pitchfork Music Festival,{'festival': 1.0},situation
+The Reflection Tour,{'tour': 1.0},journey
+Jonestown,{'jonestown': 1.0},
+Insurgency in Northeast India,"{'insurgency': 1.0, 'india': 0.931135812502724}",conflict
+Melodifestivalen,{'melodifestivalen': 1.0},
+2013 Camp Ashraf massacre,{'massacre': 1.0},homicide
+October 2012 Beirut bombing,{'bombing': 1.0},homicide
+11 December 2013 Euromaidan assault,{'december': 1.0},Gregorian_calendar_month
+Mount Carmel forest fire (2010),"{'mount': 0.5351311753145198, 'fire': 1.0}",bar
+Republic Protests,{'protests': 1.0},conflict
+Russo-Circassian War,{'war': 1.0},military_action
+Saffron Revolution,{'revolution': 1.0},military_action
+2011 Tōhoku earthquake and tsunami,{'earthquake': 1.0},geological_phenomenon
+Super Bowl XXXVII,"{'super': 0.5420515336556104, 'bowl': 1.0}",military_action
+Wennington Junction rail crash,"{'rail': 0.5719598380277843, 'crash': 1.0}",bar
+Operation Storm,{'operation': 1.0},military_action
+Air raids on Japan,{'air': 1.0},turbulence
+January Uprising,"{'january': 0.5464083149823943, 'uprising': 1.0}",conflict
+June 2011 Christchurch earthquake,{'earthquake': 1.0},geological_phenomenon
+Port Neal fertilizer plant explosion,"{'port': 0.5185946688828579, 'explosion': 1.0}",bar
+Hurricane Able (1952),{'hurricane': 1.0},cyclone
+Air India Flight 182,{'flight': 1.0},geological_phenomenon
+Tanana Valley State Fair,"{'valley': 0.5975772824333535, 'state': 0.9431789216318531, 'fair': 1.0}",geological_phenomenon
+Suffer Tour,{'tour': 1.0},journey
+Birkebeinerrennet,{'birkebeinerrennet': 1.0},
+Second Matabele War,{'war': 1.0},military_action
+Battle of Staten Island,{'battle': 1.0},military_action
+1990 Andhra Pradesh cyclone,{'cyclone': 1.0},turbulence
+1981 Canada Cup,{'cup': 1.0},bar
+Bangladesh Liberation War,{'war': 1.0},military_action
+Seattle Pop Festival,{'festival': 1.0},situation
+1996 Manchester bombing,{'bombing': 1.0},homicide
+Second Raid on Schweinfurt,{'raid': 1.0},penetration
+Swissair Flight 111,{'flight': 1.0},geological_phenomenon
+Battle of Lützen (1632),{'battle': 1.0},military_action
+Cyclone Yasi,{'cyclone': 1.0},turbulence
+First day on the Somme,{'day': 1.0},Gregorian_calendar_month
+Fourth Siege of Gibraltar,{'siege': 1.0},military_action
+Yugoslav Wars,{'wars': 1.0},military_action
+Blonde tour,{'tour': 1.0},journey
+Bath Festival of Blues,{'festival': 1.0},situation
+Narva Offensive (July 1944),"{'offensive': 1.0, 'july': 0.7467052381738487}",situation
+2010–11 Queensland floods,{'floods': 1.0},geological_phenomenon
+Bombing of Darwin,{'bombing': 1.0},homicide
+Defense of Hengyang,"{'defense': 1.0, 'hengyang': 0.5411361048578021}",military_action
+Operation Ellamy,{'operation': 1.0},military_action
+Utah Beach,{'beach': 1.0},natural_depression
+Hurricane Hazel,{'hurricane': 1.0},cyclone
+IHeartRadio Fiesta Latina,"{'fiesta': 1.0, 'latina': 1.0}",party
+Dutch–Portuguese War,{'war': 1.0},military_action
+Operation Veritable,{'operation': 1.0},military_action
+Battle of Harpers Ferry,{'battle': 1.0},military_action
+Effects of Hurricane Mitch in Honduras,{'hurricane': 1.0},cyclone
+In a World Like This Tour,"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+Indonesian occupation of East Timor,"{'indonesian': 0.6436821233188769, 'occupation': 0.8203261878875872, 'east': 1.0}",military_action
+Apogaea,{'apogaea': 1.0},
+Tropical Storm Bret (2011),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Cyclone Cilla,{'cyclone': 1.0},turbulence
+Battle of Mahidpur,{'battle': 1.0},military_action
+Hurricane Anna (1961),{'hurricane': 1.0},cyclone
+Typhoon Rananim,{'typhoon': 1.0},cyclone
+Winnebago War,{'war': 1.0},military_action
+Tropical Storm Abby (1964),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Tropical Storm Linfa (2015),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Kënga Magjike,{'magjike': 1.0},
+Contempopránea Music Festival,{'festival': 1.0},situation
+Soviet invasion of Poland,{'invasion': 1.0},happening
+Back to Front Tour,{'tour': 1.0},journey
+Chicago Marathon,{'marathon': 1.0},military_action
+Opération Chammal,{'chammal': 1.0},
+Canoe River train crash,"{'train': 0.6461059366985077, 'crash': 1.0}",bar
+German invasion of Denmark (1940),{'invasion': 1.0},happening
+Hurricane Joyce (2000),{'hurricane': 1.0},cyclone
+Underwater Bike Race,{'race': 1.0},cut
+Drive on Munda Point,{'point': 1.0},bar
+Festinho,{'festinho': 1.0},
+New Britain campaign,"{'new': 0.594435045854209, 'campaign': 1.0}",situation
+Chillits,{'chillits': 1.0},
+Battle of Osijek,{'battle': 1.0},military_action
+Invasion of Yugoslavia,{'invasion': 1.0},happening
+Wisconsin gubernatorial recall election,"{'wisconsin': 0.723129028954769, 'election': 1.0}",situation
+War of Attrition,{'war': 1.0},military_action
+Cyclone Magda,{'cyclone': 1.0},turbulence
+Maryland Toleration Act,"{'maryland': 1.0, 'toleration': 0.5203945238076219, 'act': 0.5203945238076219}",military_action
+John Brown's raid on Harpers Ferry,"{'john': 0.5393904060740741, 'raid': 1.0}",bar
+15 October 2011 global protests,"{'october': 0.7549119654431514, 'protests': 1.0}",conflict
+Rabbis' march (1943),{'march': 1.0},journey
+Australian Made,{'australian': 1.0},Amerindian
+Kirribilli Agreement of 1988,"{'kirribilli': 1.0, 'agreement': 1.0}",military_action
+Philippine Revolution,{'revolution': 1.0},military_action
+2012 Afghanistan Quran burning protests,{'protests': 1.0},conflict
+Indian Airlines Flight 605,{'flight': 1.0},geological_phenomenon
+Operation Arsenal,{'operation': 1.0},military_action
+Battle of Roncevaux Pass,{'battle': 1.0},military_action
+Siege of Porto Ferrajo,{'siege': 1.0},military_action
+TAROM Flight 371,{'flight': 1.0},geological_phenomenon
+Infernal columns,"{'infernal': 1.0, 'columns': 1.0}",bar
+Pursuit of Goeben and Breslau,"{'pursuit': 1.0, 'goeben': 1.0, 'breslau': 1.0}",situation
+Battle of the Allia,{'battle': 1.0},military_action
+"2012 Ingleside, San Francisco homicide",{'san': 1.0},
+Red Hot Chili Peppers 1983 Tour,{'tour': 1.0},journey
+Battle of Otford (776),{'battle': 1.0},military_action
+Truck Festival,{'festival': 1.0},situation
+Taking Back the Cities Tour,{'tour': 1.0},journey
+Malév Flight 240,{'flight': 1.0},geological_phenomenon
+Tropical Storm Colin (2010),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Siege of Exeter (c. 630),{'siege': 1.0},military_action
+1996 Mount Everest disaster,{'disaster': 1.0},homicide
+Cokeville Elementary School hostage crisis,"{'school': 0.6064261347184602, 'crisis': 1.0}",bar
+Borki train disaster,"{'train': 0.8579734691810011, 'disaster': 1.0}",bar
+Operation Archery,{'operation': 1.0},military_action
+2015 Kuwait mosque bombing,{'bombing': 1.0},homicide
+Swimming at the 2012 Summer Olympics,{'summer': 1.0},Gregorian_calendar_month
+2007 Bihar flood,{'flood': 1.0},geological_phenomenon
+Northwest Airlines Flight 2,{'flight': 1.0},geological_phenomenon
+2019 Africa Cup of Nations,{'cup': 1.0},bar
+Operation Golden Bird,{'operation': 1.0},military_action
+Sierre coach crash,{'crash': 1.0},happening
+Battle of Kowloon,{'battle': 1.0},military_action
+Operation Camargue,{'operation': 1.0},military_action
+Monsters of Rock Tour 1988,{'tour': 1.0},journey
+Battle of Castiglione,{'battle': 1.0},military_action
+Mala (Yolandita Monge album),"{'mala': 0.5408082906573294, 'album': 1.0}",bar
+Stereosonic,{'stereosonic': 1.0},
+Hurricane Fabian,{'hurricane': 1.0},cyclone
+Cyclone Favio,{'cyclone': 1.0},turbulence
+Operation Mallard,{'operation': 1.0},military_action
+Operation Benedict,{'operation': 1.0},military_action
+Warsaw Ghetto Uprising,{'uprising': 1.0},conflict
+Action of 16 October 1799,{'action': 1.0},military_action
+Al Asad Airbase,{'al': 1.0},municipality
+Operation Slapstick,{'operation': 1.0},military_action
+BOAC Flight 777,{'flight': 1.0},geological_phenomenon
+Operation Swath-10,{'operation': 1.0},military_action
+Inauguration of Joseph Estrada,{'inauguration': 1.0},homicide
+Kivu conflict,{'conflict': 1.0},military_action
+Plitvice Lakes incident,{'incident': 1.0},happening
+2014 pro-Russian unrest in Ukraine,"{'pro': 1.0, 'unrest': 0.5157641084565576}",turbulence
+Brazilian Revolution of 1930,{'revolution': 1.0},military_action
+Mahmud Barzanji revolts,"{'mahmud': 1.0, 'barzanji': 1.0, 'revolts': 1.0}",conflict
+Battle of Chalai,{'battle': 1.0},military_action
+Patriot War,{'war': 1.0},military_action
+Insurgency in the North Caucasus,"{'insurgency': 0.5534486442416321, 'north': 1.0}",conflict
+2010 Israel–Lebanon border clash,"{'israel': 1.0, 'lebanon': 0.8610314857837853, 'border': 0.753813892583146}",municipality
+November Uprising,"{'november': 0.5171208059315018, 'uprising': 1.0}",conflict
+Bannock War,{'war': 1.0},military_action
+Indonesian invasion of East Timor,{'invasion': 1.0},happening
+War in Darfur,{'war': 1.0},military_action
+Narva Offensive (1–4 March 1944),"{'offensive': 1.0, 'march': 0.9435926748453565}",situation
+Algerian Civil War,{'war': 1.0},military_action
+Battle of Britain Day,{'battle': 1.0},military_action
+Battle of Magdhaba,{'battle': 1.0},military_action
+Apache Wars,{'wars': 1.0},military_action
+Bình Hòa massacre,{'massacre': 1.0},homicide
+Internal conflict in Peru,{'conflict': 1.0},military_action
+1985 Aeroflot Antonov An-12 shoot-down,"{'aeroflot': 1.0, 'antonov': 0.821248757898552}",
+20 July plot,{'july': 1.0},Gregorian_calendar_month
+Modoc War,{'war': 1.0},military_action
+Capture of Gueudecourt,{'capture': 1.0},military_action
+United States expedition to Korea,"{'united': 0.8639642922400398, 'states': 0.66250670557515, 'expedition': 1.0}",geological_phenomenon
+Kiev Offensive (1920),{'offensive': 1.0},situation
+Finnish Civil War,{'war': 1.0},military_action
+"Cuius regio, eius religio","{'cuius': 1.0, 'regio': 1.0, 'eius': 1.0, 'religio': 1.0}",
+Dissident Irish Republican campaign,{'campaign': 1.0},situation
+British Expedition to Abyssinia,"{'british': 0.6627404111612133, 'expedition': 1.0}",situation
+Spanish–American War,{'war': 1.0},military_action
+Hayfield Fight,{'fight': 1.0},military_action
+Indonesian National Revolution,"{'national': 0.760943711830848, 'revolution': 1.0}",military_action
+First Taranaki War,{'war': 1.0},military_action
+Operation Turkey Buzzard,{'operation': 1.0},military_action
+Battle of Bucharest,{'battle': 1.0},military_action
+Battle of Saint-Denis (1837),{'battle': 1.0},military_action
+Somali Civil War,{'war': 1.0},military_action
+Operation Sandstone,{'operation': 1.0},military_action
+May Revolution,{'revolution': 1.0},military_action
+Raid on Batavia (1806),{'raid': 1.0},penetration
+Capture of Bougie,{'capture': 1.0},military_action
+Newfoundland expedition,{'expedition': 1.0},situation
+Cyclone Glenda,{'cyclone': 1.0},turbulence
+Raid on Pebble Island,{'raid': 1.0},penetration
+Tyrolean Rebellion,{'rebellion': 1.0},conflict
+Siege of Calvi,{'siege': 1.0},military_action
+Siege of Fort St. Jean,{'siege': 1.0},military_action
+2010 Under-19 Cricket World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}",bar
+Operation Eagle Claw,{'operation': 1.0},military_action
+2004 Khobar massacre,{'massacre': 1.0},homicide
+Combat of the Côa,"{'combat': 1.0, 'côa': 0.5051271413011125}",military_action
+French Revolution of 1848,{'revolution': 1.0},military_action
+Siege of Breda (1624),{'siege': 1.0},military_action
+Burma Campaign 1944,{'campaign': 1.0},situation
+Battle of Mackinac Island (1814),{'battle': 1.0},military_action
+Landing at Nadzab,"{'landing': 1.0, 'nadzab': 0.5644443220235176}",bar
+Braer Storm of January 1993,{'storm': 1.0},geological_phenomenon
+River to River Relay,{'river': 1.0},stream
+Mummers Parade,"{'mummers': 0.6191345189015611, 'parade': 1.0}",stream
+Battle of Bunclody,{'battle': 1.0},military_action
+Action of 22 January 1809,{'action': 1.0},military_action
+2006 IIHF World Championship Division I,{'world': 1.0},bar
+Hurricane Flossie (2007),{'hurricane': 1.0},cyclone
+Eden Natan-Zada,"{'eden': 1.0, 'natan': 0.5429241634217953, 'zada': 0.5429241634217953}",region
+Indian Ocean raid,"{'indian': 0.9544226508130415, 'raid': 1.0}",penetration
+2010 Leinster Senior Football Championship Final,"{'championship': 0.7565270105778232, 'final': 1.0}",high_status
+Bellator Fighting Championships_ Season Two,{'season': 1.0},Gregorian_calendar_month
+U.S. National Yo-Yo Contest,{'national': 1.0},Amerindian
+Ortigueira's Festival of Celtic World,"{'festival': 0.8343332854827997, 'world': 1.0}",bar
+Monmouth Rebellion,{'rebellion': 1.0},conflict
+1979 Gillette Cup Final,"{'cup': 1.0, 'final': 0.7179775196363803}",bar
+Rafah massacre,{'massacre': 1.0},homicide
+Battle of Ostrovo,{'battle': 1.0},military_action
+Battle of San Germano,{'battle': 1.0},military_action
+Byzantine–Arab wars (780–1180),{'wars': 1.0},military_action
+Bodo League massacre,"{'league': 0.5934368434378979, 'massacre': 1.0}",bar
+2005 Ahvaz unrest,{'unrest': 1.0},turbulence
+2013 Hong Kong–Shanghai Inter Club Championship,{'championship': 1.0},high_status
+Operation Alfa,{'operation': 1.0},military_action
+White House FBI files controversy,"{'white': 0.8901318469177644, 'house': 1.0, 'controversy': 0.7173033047007278}",bar
+Siege of Aleppo (1260),{'siege': 1.0},military_action
+1999 Pro Bowl,"{'pro': 0.7126161043351634, 'bowl': 1.0}",military_action
+2012 Lamma Island ferry collision,"{'island': 1.0, 'ferry': 0.5289315761221193, 'collision': 0.8376417754520338}",happening
+Kosovo Operation (1944),{'operation': 1.0},military_action
+Kandahar massacre,{'massacre': 1.0},homicide
+2009 Nehru Cup,{'cup': 1.0},bar
+Great Offensive,"{'great': 0.9614953046812499, 'offensive': 1.0}",situation
+Port Chicago disaster,{'disaster': 1.0},homicide
+Invasion of Martinique (1809),{'invasion': 1.0},happening
+Largest Human Flag of India,{'india': 1.0},municipality
+2012 Junior Club World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}",bar
+Kurnool train crash,"{'train': 0.6461059366985077, 'crash': 1.0}",bar
+Ottoman–Habsburg wars,{'wars': 1.0},military_action
+1874 Open Championship,"{'open': 0.5398644858774538, 'championship': 1.0}",high_status
+Musique-Cordiale,"{'musique': 1.0, 'cordiale': 1.0}",
+1907 Imperial Conference,{'conference': 1.0},military_service
+Siege of Polotsk (1579),{'siege': 1.0},military_action
+1926 Miami hurricane,{'hurricane': 1.0},cyclone
+Effects of Hurricane Hazel in Canada,{'hurricane': 1.0},cyclone
+USAir Flight 405,{'flight': 1.0},geological_phenomenon
+Protests against SOPA and PIPA,{'protests': 1.0},conflict
+Jementah Civil War,{'war': 1.0},military_action
+"February 5–6, 2010 North American blizzard","{'north': 0.7322412973305078, 'american': 1.0}",Amerindian
+2010 Varanasi bombing,{'bombing': 1.0},homicide
+Battle of Heiligerlee (1536),{'battle': 1.0},military_action
+Operation Pierce Arrow,{'operation': 1.0},military_action
+Uprising in Serbia (1941),{'uprising': 1.0},conflict
+2010 Gascoyne River flood,"{'river': 1.0, 'flood': 0.7070080547121811}",geological_phenomenon
+Battle of Modena (1799),{'battle': 1.0},military_action
+1911 Imperial Conference,{'conference': 1.0},military_service
+Demonstration of 20 June 1792,{'june': 1.0},Gregorian_calendar_month
+Armagh rail disaster,"{'rail': 0.759513786504471, 'disaster': 1.0}",bar
+2015 Chapel Hill shooting,{'shooting': 1.0},military_action
+Sinking of the RMS Lusitania,{'sinking': 1.0},happening
+1740 Batavia massacre,{'massacre': 1.0},homicide
+Beer Hall Putsch,"{'beer': 0.5078111581459676, 'hall': 0.5078111581459676, 'putsch': 1.0}",military_action
+2011 Indian anti-corruption movement,"{'indian': 1.0, 'movement': 0.5039382703056594}",bar
+Cerro Maravilla murders,{'murders': 1.0},homicide
+1974 Arab League summit,{'league': 1.0},bar
+2013 FIFA Ballon d'Or,{'fifa': 1.0},
+Siege of Kehl (1796–97),{'siege': 1.0},military_action
+Malaysia Airlines Flight 17,{'flight': 1.0},geological_phenomenon
+2009 Hong Kong Cricket Sixes,{'cricket': 1.0},contact_sport
+January 2011 Rio de Janeiro floods and mudslides,"{'january': 0.5384184841312533, 'de': 0.6860846511615739, 'floods': 1.0}",geological_phenomenon
+First conflict in the Goryeo–Khitan War,{'war': 1.0},military_action
+Al-Qaeda insurgency in Yemen,"{'al': 0.830360837501026, 'insurgency': 1.0}",conflict
+2015–16 Ranji Trophy,{'trophy': 1.0},award
+Safra massacre,{'massacre': 1.0},homicide
+Southwest Cay,{'southwest': 1.0},cardinal_compass_point
+1992 Men's World Ice Hockey Championships,{'world': 1.0},bar
+Wounded Knee Massacre,{'massacre': 1.0},homicide
+1987 Munster Senior Hurling Championship Final,"{'championship': 0.7565270105778232, 'final': 1.0}",high_status
+Eritrean War of Independence,{'war': 1.0},military_action
+1876 Scotland v Wales football match,{'football': 1.0},contact_sport
+French Riviera Marathon,{'marathon': 1.0},military_action
+Operation Zarb-e-Azb,{'operation': 1.0},military_action
+1988 UCI Road World Championships,{'world': 1.0},bar
+Great Hanshin earthquake,"{'great': 0.5812904767455906, 'earthquake': 1.0}",geological_phenomenon
+March 2011 Peshawar bombing,{'bombing': 1.0},homicide
+2008 Euro Beach Soccer League,{'league': 1.0},bar
+1971 Bangladesh genocide,"{'bangladesh': 1.0, 'genocide': 0.8373340398500189}",homicide
+Battle of Brunnbäck Ferry,{'battle': 1.0},military_action
+Hurricane Frederic,{'hurricane': 1.0},cyclone
+Marburg's Bloody Sunday,"{'bloody': 0.8379175536801533, 'sunday': 1.0}",anniversary
+2011–12 Plunket Shield season,"{'shield': 1.0, 'season': 0.7639821530177932}",Gregorian_calendar_month
+Claudy bombing,{'bombing': 1.0},homicide
+Air China Flight 129,{'flight': 1.0},geological_phenomenon
+Boxers Tour,{'tour': 1.0},journey
+Long Run massacre,{'massacre': 1.0},homicide
+Croquet at the 1900 Summer Olympics,{'summer': 1.0},Gregorian_calendar_month
+Dubliners 50 Years Anniversary Tour,{'tour': 1.0},journey
+Book of Love 2001 Club Tour,{'tour': 1.0},journey
+Final Symphony,{'final': 1.0},match
+Hey Cruel World... Tour,"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+Indonesia AirAsia Flight 8501,{'flight': 1.0},geological_phenomenon
+Sarò libera,{'libera': 1.0},
+Air Algérie Flight 5017,{'flight': 1.0},geological_phenomenon
+Battle of San Francisco de Malabon,{'battle': 1.0},military_action
+Pasta de Conchos mine disaster,{'disaster': 1.0},homicide
+1906 Valparaíso earthquake,{'earthquake': 1.0},geological_phenomenon
+Cyclone Bonita,{'cyclone': 1.0},turbulence
+A me piace così,"{'piace': 1.0, 'così': 1.0}",
+Sunsets Farewell Tour,{'tour': 1.0},journey
+The 2nd Law World Tour,"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+Mar y Sol Pop Festival,{'festival': 1.0},situation
+Revel Presents_ Beyoncé Live,{'live': 1.0},be
+Elton John 1970 World Tour,"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+Music for a Time of War,{'war': 1.0},military_action
+Sonic Boom Over Europe Tour,{'tour': 1.0},journey
+Communiqué Tour,{'tour': 1.0},journey
+Capture of Trônes Wood,{'capture': 1.0},military_action
+Face to Face 1994,{'face': 1.0},bar
+Siege of Savage's Old Fields,{'siege': 1.0},military_action
+Mawazine,{'mawazine': 1.0},
+Operation Frequent Wind,{'operation': 1.0},military_action
+Crush Tour,{'tour': 1.0},journey
+Attack on Sydney Harbour,{'attack': 1.0},homicide
+Raid on Lorient,{'raid': 1.0},penetration
+First Battle of Passchendaele,{'battle': 1.0},military_action
+Capture of Tiberias (1918),{'capture': 1.0},military_action
+Miss Belvedere,"{'miss': 1.0, 'belvedere': 0.5257385590216312}",bar
+Franco-Thai War,{'war': 1.0},military_action
+2010 Green Soccer Bowl,{'bowl': 1.0},military_action
+Seven Years' War,{'war': 1.0},military_action
+Omagh bombing,{'bombing': 1.0},homicide
+Kanalkampf,{'kanalkampf': 1.0},
+Operation Charnwood,{'operation': 1.0},military_action
+British Airtours Flight 28M,{'flight': 1.0},geological_phenomenon
+Blackpool Dance Festival,{'festival': 1.0},situation
+Third Battle of Winchester,{'battle': 1.0},military_action
+First Transjordan attack on Amman,{'attack': 1.0},homicide
+El Loco-Motion Tour,{'tour': 1.0},journey
+February 2013 Quetta bombing,{'bombing': 1.0},homicide
+Operation Dragon Fire East,{'operation': 1.0},military_action
+Operation Red Dawn,{'operation': 1.0},military_action
+Birgenair Flight 301,{'flight': 1.0},geological_phenomenon
+2009 Baghdad police recruitment centre bombing,{'bombing': 1.0},homicide
+Clapham Junction rail crash,"{'rail': 0.5719598380277843, 'crash': 1.0}",bar
+Battle of Beda Fomm,{'battle': 1.0},military_action
+Second Battle of Porto,{'battle': 1.0},military_action
+Siege of Cawnpore,{'siege': 1.0},military_action
+Tropical Storm Alpha (2005),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Assassination of Boris Nemtsov,{'assassination': 1.0},homicide
+Taiyuan massacre,{'massacre': 1.0},homicide
+Invasion of Tulagi (May 1942),{'invasion': 1.0},happening
+Spanish conquest of Petén,"{'spanish': 0.5396402367043343, 'conquest': 1.0}",success
+Operation Crimp,{'operation': 1.0},military_action
+CMLL Torneo Gran Alternativa,"{'cmll': 1.0, 'torneo': 0.5133447474747623, 'gran': 0.5133447474747623, 'alternativa': 0.5133447474747623}",grandparent
+Cyclone Bejisa,{'cyclone': 1.0},turbulence
+Action of 26 July 1806,{'action': 1.0},military_action
+Warped Tour,{'tour': 1.0},journey
+Mukden Incident,{'incident': 1.0},happening
+Assassination of Benazir Bhutto,{'assassination': 1.0},homicide
+Nicaraguan Revolution,{'revolution': 1.0},military_action
+Widerøe Flight 710,{'flight': 1.0},geological_phenomenon
+2008 Mumbai attacks,{'attacks': 1.0},homicide
+War in the Vendée,{'war': 1.0},military_action
+Suicide of Amanda Todd,"{'suicide': 1.0, 'amanda': 1.0, 'todd': 1.0}",homicide
+Operation Little Saturn,{'operation': 1.0},military_action
+1949 Queensland Airlines Lockheed Lodestar crash,"{'airlines': 1.0, 'crash': 0.9527089731792201}",happening
+Southwest Airlines Flight 812,{'flight': 1.0},geological_phenomenon
+Eruption of Mount Vesuvius in 79,{'mount': 1.0},bar
+Members of the 1st Dáil,{'members': 1.0},military_service
+Tropical Storm Barry (2013),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Uđi slobodno Tour,{'tour': 1.0},journey
+Moscow theater hostage crisis,{'crisis': 1.0},situation
+Hurricane Neki,{'hurricane': 1.0},cyclone
+Nepalese royal massacre,{'massacre': 1.0},homicide
+Second Battle of Naktong Bulge,{'battle': 1.0},military_action
+American Airlines Flight 191,{'flight': 1.0},geological_phenomenon
+Bal en Blanc,"{'bal': 1.0, 'blanc': 1.0}",white_sauce
+1979 Cricket World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}",bar
+2014 Sydney hostage crisis,{'crisis': 1.0},situation
+Sticky &amp; Sweet Tour,{'tour': 1.0},journey
+First Balkan War,{'war': 1.0},military_action
+Siege of Antwerp (1914),{'siege': 1.0},military_action
+Wakestock (Wales),{'wales': 1.0},area
+Battle of Rooiwal,{'battle': 1.0},military_action
+Wedding of Prince William and Catherine Middleton,"{'wedding': 1.0, 'prince': 1.0, 'william': 1.0, 'catherine': 1.0, 'middleton': 1.0}",municipality
+Murder of Annie Le,{'murder': 1.0},homicide
+Northwest Indian War,{'war': 1.0},military_action
+The Big Reunion (concerts),{'big': 1.0},
+2018 Winter Paralympics,{'winter': 1.0},Gregorian_calendar_month
+Southward expansion of the Han dynasty,{'dynasty': 1.0},family
+Vespertine World Tour,"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+1932 Florida–Alabama hurricane,{'hurricane': 1.0},cyclone
+Ilosaarirock,{'ilosaarirock': 1.0},
+Sailing at the 1924 Summer Olympics,{'summer': 1.0},Gregorian_calendar_month
+Operation Hardtack (commando raid),{'operation': 1.0},military_action
+2007–08 KFC Twenty20 Big Bash,"{'big': 1.0, 'bash': 0.8516603959239426}",happening
+Vengeance (2004),{'vengeance': 1.0},return
+February 2015 Baghdad bombings,{'bombings': 1.0},homicide
+What Will the Neighbours Say..._ Tour,{'tour': 1.0},journey
+2015 Cricket World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}",bar
+Battle of Changde,{'battle': 1.0},military_action
+Dunkirk evacuation,"{'dunkirk': 1.0, 'evacuation': 1.0}",situation
+Demyansk Pocket,"{'demyansk': 0.58100493713448, 'pocket': 1.0}",geological_phenomenon
+Nigerian Civil War,{'war': 1.0},military_action
+Death of Nelson Mandela,{'death': 1.0},geological_phenomenon
+Battle of the Ch'ongch'on River,{'battle': 1.0},military_action
+Cambodian–Thai border dispute,"{'cambodian': 0.5968692625262813, 'thai': 0.8259540046275919, 'border': 1.0}",Asian
+Battle of Sangju (1950),{'battle': 1.0},military_action
+Battle of Ostrach,{'battle': 1.0},military_action
+Battle of Cer,{'battle': 1.0},military_action
+AFL siren controversy,{'controversy': 1.0},conflict
+Aeroméxico Flight 576,{'flight': 1.0},geological_phenomenon
+April 2010 Rio de Janeiro floods and mudslides,"{'de': 0.6860846511615739, 'floods': 1.0}",geological_phenomenon
+Thammasat University massacre,{'massacre': 1.0},homicide
+Battle of Chickamauga,{'battle': 1.0},military_action
+Battle of Rafa,{'battle': 1.0},military_action
+Second Battle of Villers-Bretonneux,{'battle': 1.0},military_action
+Operation Diadem,{'operation': 1.0},military_action
+2008 Chatsworth train collision,{'train': 1.0},bar
+2011 Haimen protest,{'protest': 1.0},conflict
+Crusader invasions of Egypt,{'crusader': 1.0},Amerindian
+Hackers at Large,"{'hackers': 1.0, 'large': 1.0}",Amerindian
+2002 Venezuelan coup d'état attempt,{'coup': 1.0},military_action
+Women's War,{'war': 1.0},military_action
+Siege of Gaza,{'siege': 1.0},military_action
+Siege of Carlisle (1315),{'siege': 1.0},military_action
+First Battle of Newbury,{'battle': 1.0},military_action
+United States Exploring Expedition,"{'united': 0.8639642922400398, 'states': 0.66250670557515, 'expedition': 1.0}",geological_phenomenon
+Royal Rumble (1993),{'royal': 1.0},sail
+Campo Vía pocket,{'pocket': 1.0},geological_phenomenon
+Guaraní War,{'war': 1.0},military_action
+Action of Elouges,{'action': 1.0},military_action
+Task Force Baum,{'force': 1.0},geological_phenomenon
+"Damage, Inc. Tour",{'tour': 1.0},journey
+Hurricane Diane,{'hurricane': 1.0},cyclone
+Unfinished Business (Jay-Z and R. Kelly album),"{'kelly': 0.8085237013872375, 'album': 1.0}",bar
+British Airways Flight 38,{'flight': 1.0},geological_phenomenon
+2011 Thailand floods,{'floods': 1.0},geological_phenomenon
+Hurricane Martha,{'hurricane': 1.0},cyclone
+Tropical Storm Gabrielle (1995),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Hurricane Gladys (1964),{'hurricane': 1.0},cyclone
+Mayakovsky (ship),"{'mayakovsky': 1.0, 'ship': 1.0}",journey
+2012 Loreto floods,{'floods': 1.0},geological_phenomenon
+2009 IIHF World Championship,{'world': 1.0},bar
+2011 Oklahoma earthquake,{'earthquake': 1.0},geological_phenomenon
+Battle of Sunomata-gawa,{'battle': 1.0},military_action
+Project Gasbuggy,"{'project': 1.0, 'gasbuggy': 0.5257385590216312}",situation
+2010 Karachi riots,{'riots': 1.0},situation
+Battle of Leuven (891),{'battle': 1.0},military_action
+1933 Outer Banks hurricane,{'hurricane': 1.0},cyclone
+The Rumble in the Air-Conditioned Auditorium,{'air': 1.0},turbulence
+Anglo-Egyptian Darfur Expedition,"{'anglo': 0.5806308903185528, 'expedition': 1.0}",situation
+Battle of San Félix,{'battle': 1.0},military_action
+Middle Eastern theatre of World War I,"{'world': 0.5422257885702634, 'war': 1.0}",military_action
+Tropical Storm Thelma,"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+2011–12 Regional Four Day Competition,{'day': 1.0},Gregorian_calendar_month
+Typhoon Damrey (2012),{'typhoon': 1.0},cyclone
+Backlash (2001),{'backlash': 1.0},happening
+Battle of Roatán,{'battle': 1.0},military_action
+Queen Anne's War,{'war': 1.0},military_action
+Uruguayan War,{'war': 1.0},military_action
+Turkish–Armenian War,{'war': 1.0},military_action
+Typhoon Chaba (2004),{'typhoon': 1.0},cyclone
+2009 Bandy World Championship,{'world': 1.0},bar
+1995 UEFA Cup Winners' Cup Final,"{'cup': 1.0, 'final': 0.7179775196363803}",bar
+2014 Cricket World Cup Qualifier,"{'world': 1.0, 'cup': 0.8880773864247816}",bar
+2014 Grand National,"{'grand': 0.9695007515860058, 'national': 1.0}",Amerindian
+Battle of Buzenval (1871),{'battle': 1.0},military_action
+TNA Unbreakable,{'unbreakable': 1.0},
+2002 Oman cyclone,{'cyclone': 1.0},turbulence
+Battle of Tecroghan,{'battle': 1.0},military_action
+WrestleMania 29,{'wrestlemania': 1.0},
+Bestival 2007,{'bestival': 1.0},
+Action of 26 July 1566,{'action': 1.0},military_action
+Delville Wood order of battle,{'battle': 1.0},military_action
+Hurricane Faith,{'hurricane': 1.0},cyclone
+Vengeance (2005),{'vengeance': 1.0},return
+1898 Georgia hurricane,{'hurricane': 1.0},cyclone
+Genesis (2005),{'genesis': 1.0},happening
+Zaian War,{'war': 1.0},military_action
+Turning Point (2005 wrestling),"{'turning': 0.5230098272465976, 'point': 1.0}",bar
+Zanzibar Revolution,{'revolution': 1.0},military_action
+Battle of Red Cliffs,{'battle': 1.0},military_action
+Hurricane Carol (1953),{'hurricane': 1.0},cyclone
+Sinking of USS Housatonic,"{'sinking': 1.0, 'uss': 0.9694566898774367}",happening
+Operation Barrel Roll,{'operation': 1.0},military_action
+Hurricane Danielle (1998),{'hurricane': 1.0},cyclone
+2013 Grand National,"{'grand': 0.9695007515860058, 'national': 1.0}",Amerindian
+Against All Odds (2005),{'odds': 1.0},likelihood
+2009 Ashes series,{'series': 1.0},stream
+IHeartRadio Music Festival,{'festival': 1.0},situation
+2009 Mindanao bombings,{'bombings': 1.0},homicide
+2008 Greek riots,{'riots': 1.0},situation
+Ciara_ Live in Concert,{'live': 1.0},be
+1944 Commonwealth Prime Ministers' Conference,{'conference': 1.0},military_service
+Tea Party protests,{'protests': 1.0},conflict
+KIIS-FM Jingle Ball,{'ball': 1.0},bar
+Occupy Melbourne,{'occupy': 1.0},be
+Operation Flavius,{'operation': 1.0},military_action
+Bombing of Würzburg in World War II,"{'world': 0.5422257885702634, 'war': 1.0}",military_action
+Living Proof_ The Farewell Tour,{'tour': 1.0},journey
+Arthur's Day,{'day': 1.0},Gregorian_calendar_month
+Red Power movement,"{'red': 1.0, 'movement': 0.9143140727099923}",bar
+Under the Hood,{'hood': 1.0},bar
+Thames Diamond Jubilee Pageant,{'pageant': 1.0},situation
+Viña del Mar International Song Festival,{'festival': 1.0},situation
+Occupy movement,"{'occupy': 1.0, 'movement': 0.8881252259724011}",bar
+Alter Channel,"{'alter': 0.5609081860488134, 'channel': 1.0}",military_action
+2015 Kentucky Derby,"{'kentucky': 1.0, 'derby': 0.878820838160475}",cover
+Giant Baba Memorial Spectacular,{'memorial': 1.0},bar
+MJ &amp; Friends,{'amp': 1.0},current_unit
+Southall rail crash,"{'rail': 0.5719598380277843, 'crash': 1.0}",bar
+Yokozuna Memorial Show,"{'memorial': 0.9096721755818321, 'show': 1.0}",bar
+Operation Menu,{'operation': 1.0},military_action
+2005 ACC Under-19 Cup,{'cup': 1.0},bar
+1933 Grand National,"{'grand': 0.9695007515860058, 'national': 1.0}",Amerindian
+2000 Pro Bowl,"{'pro': 0.7126161043351634, 'bowl': 1.0}",military_action
+1950 Grand National,"{'grand': 0.9695007515860058, 'national': 1.0}",Amerindian
+Operation Dawn 3,{'operation': 1.0},military_action
+1982 Hama massacre,{'massacre': 1.0},homicide
+Air France Flight 358,{'flight': 1.0},geological_phenomenon
+Bharat Rang Mahotsav,"{'bharat': 1.0, 'rang': 1.0, 'mahotsav': 1.0}",municipality
+2011 Jerusalem bus stop bombing,{'bombing': 1.0},homicide
+"Alma College (St. Thomas, Ontario)",{'alma': 1.0},
+Chinese middle schools riots,{'riots': 1.0},situation
+Sri Lankan Civil War,{'war': 1.0},military_action
+Operation Kita,{'operation': 1.0},military_action
+2014 FIFA Ballon d'Or,{'fifa': 1.0},
+Gulf Air Flight 072,{'flight': 1.0},geological_phenomenon
+Military history of Canada during World War II,"{'world': 0.5422257885702634, 'war': 1.0}",military_action
+1921 Grand National,"{'grand': 0.9695007515860058, 'national': 1.0}",Amerindian
+Day of Thirst,{'day': 1.0},Gregorian_calendar_month
+2011–13 Chilean student protests,{'protests': 1.0},conflict
+2015 Pro Bowl,"{'pro': 0.7126161043351634, 'bowl': 1.0}",military_action
+2012 Pro Bowl,"{'pro': 0.7126161043351634, 'bowl': 1.0}",military_action
+Battle of Sanluri,{'battle': 1.0},military_action
+2009 Grand National,"{'grand': 0.9695007515860058, 'national': 1.0}",Amerindian
+Capitol Hill Pride Festival,{'festival': 1.0},situation
+Asiana Airlines Flight 214,{'flight': 1.0},geological_phenomenon
+Hurricane Henriette (2007),{'hurricane': 1.0},cyclone
+2010 Gansu mudslide,"{'gansu': 1.0, 'mudslide': 1.0}",municipality
+Tropical Storm Gert (2005),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Operation Badr (1973),{'operation': 1.0},military_action
+Tropical Storm Clotilda,"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Capture of Wadi el Hesi,{'capture': 1.0},military_action
+Hurricane Diana,{'hurricane': 1.0},cyclone
+Anglo-Zulu War,{'war': 1.0},military_action
+Jiang Wei's Northern Expeditions,{'northern': 1.0},Middle_English
+Operation Albion,{'operation': 1.0},military_action
+Atherstone rail accident,"{'rail': 1.0, 'accident': 0.7565370481203059}",bar
+Tallinn Offensive,{'offensive': 1.0},situation
+West Loch disaster,{'disaster': 1.0},homicide
+Tropical Storm Julio (2002),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Armand Cesari Stadium disaster,{'disaster': 1.0},homicide
+Typhoon Choi-wan (2009),{'typhoon': 1.0},cyclone
+Hull Paragon rail accident,"{'rail': 1.0, 'accident': 0.7565370481203059}",bar
+Black Saturday (Lebanon),"{'black': 1.0, 'lebanon': 0.5966187157843776}",achromatic_color
+Halloway massacre,{'massacre': 1.0},homicide
+Battle of Blanchetaque,{'battle': 1.0},military_action
+2011 NATO attack in Pakistan,{'attack': 1.0},homicide
+Operation Achilles,{'operation': 1.0},military_action
+Gezi Park protests,{'protests': 1.0},conflict
+Cyclone Oswald,{'cyclone': 1.0},turbulence
+Operation Spear,{'operation': 1.0},military_action
+Action of 18 October 1806,{'action': 1.0},military_action
+1992 Guadalajara explosions,"{'guadalajara': 0.5923170613091641, 'explosions': 1.0}",homicide
+Conquest of Uppsala,{'conquest': 1.0},success
+Operation Southeast Croatia,{'operation': 1.0},military_action
+Union blockade,"{'union': 0.7948788142709237, 'blockade': 1.0}",military_action
+Operation Hurricane (1944),"{'operation': 0.7981808027606709, 'hurricane': 1.0}",military_action
+Operation Chastise,{'operation': 1.0},military_action
+Eastbourne rail crash,"{'rail': 0.5719598380277843, 'crash': 1.0}",bar
+Operation Summer '95,{'operation': 1.0},military_action
+Operation Polyarnaya Zvezda,{'operation': 1.0},military_action
+1961 Vitry-Le-François train bombing,{'bombing': 1.0},homicide
+Hurricane Erika (1997),{'hurricane': 1.0},cyclone
+Arrow Air Flight 1285,{'flight': 1.0},geological_phenomenon
+1995 Trans Service Airlift Electra crash,{'crash': 1.0},happening
+Ladbroke Grove rail crash,"{'rail': 0.5719598380277843, 'crash': 1.0}",bar
+Gukurahundi,{'gukurahundi': 1.0},
+First and Second Battles of Wonju,{'second': 1.0},bar
+Operation Queen,{'operation': 1.0},military_action
+Operation Trio,{'operation': 1.0},military_action
+North Yemen Civil War,{'war': 1.0},military_action
+Voćin massacre,{'massacre': 1.0},homicide
+Samoan Clipper,{'clipper': 1.0},bar
+Actions in Nordland,"{'actions': 1.0, 'nordland': 0.5696360635557159}",military_action
+"Funeral of Diana, Princess of Wales","{'funeral': 1.0, 'diana': 0.5231373208532637, 'wales': 0.7648956034006981}",area
+Operation Ladbroke,{'operation': 1.0},military_action
+May Coup (Poland),{'coup': 1.0},military_action
+2010 Times Square car bombing attempt,{'bombing': 1.0},homicide
+2005 Delhi bombings,{'bombings': 1.0},homicide
+Guildford pub bombings,{'bombings': 1.0},homicide
+Al-Otaiba ambush,"{'al': 1.0, 'ambush': 0.53617024352387}",penetration
+2002 Poso bus attacks,{'attacks': 1.0},homicide
+Bombing of Tokyo,{'bombing': 1.0},homicide
+2013 Tiananmen Square attack,{'attack': 1.0},homicide
+11 April 2007 Algiers bombings,{'bombings': 1.0},homicide
+TWA Flight 800,{'flight': 1.0},geological_phenomenon
+2006 Digampathana bombing,{'bombing': 1.0},homicide
+2008 Kandahar bombing,{'bombing': 1.0},homicide
+Khobar Towers bombing,{'bombing': 1.0},homicide
+2015 Suruç bombing,{'bombing': 1.0},homicide
+2011 Abuja United Nations bombing,{'bombing': 1.0},homicide
+2009 Lahore bombing,{'bombing': 1.0},homicide
+Maiden England World Tour,"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+2011 World Men's Handball Championship,{'world': 1.0},bar
+1911 Grand National,"{'grand': 0.9695007515860058, 'national': 1.0}",Amerindian
+Soundscape (New Zealand festival),{'festival': 1.0},situation
+Apple Worldwide Developers Conference,{'conference': 1.0},military_service
+Tsunami Relief Cardiff,{'tsunami': 1.0},happening
+O_ The 2nd Asia Tour,{'tour': 1.0},journey
+Live at the Marquee (festival),{'festival': 1.0},situation
+Empezar desde Cero Tour 2008,{'tour': 1.0},journey
+Hydra World Tour,"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+List of TVXQ concert tours in Japan,"{'list': 0.9593205238028907, 'concert': 1.0, 'tours': 0.8188450494687592, 'japan': 0.583140102216396}",journey
+2012 Bangladesh Premier League,{'league': 1.0},bar
+Typhoon Maemi,{'typhoon': 1.0},cyclone
+The Tour That Doesn't Tour Tour...Now On Tour,{'tour': 1.0},journey
+California Dreams Tour,{'tour': 1.0},journey
+Comair Flight 5191,{'flight': 1.0},geological_phenomenon
+Big Day Out,"{'big': 0.5735722055136253, 'day': 1.0, 'out': 0.5422669375748582}",Gregorian_calendar_month
+Battle of Ostrołęka (1831),{'battle': 1.0},military_action
+1948 Bermuda–Newfoundland hurricane,{'hurricane': 1.0},cyclone
+Battle of Chełm,{'battle': 1.0},military_action
+Hurricane Felicia (2009),{'hurricane': 1.0},cyclone
+Cyclone Gillian,{'cyclone': 1.0},turbulence
+Charleston church shooting,{'shooting': 1.0},military_action
+Action of 8 May 1941,{'action': 1.0},military_action
+2009 Napier shootings,{'shootings': 1.0},military_action
+Battle of Brumath,{'battle': 1.0},military_action
+1965 Skyways Coach-Air Avro 748 crash,"{'air': 0.999227882247993, 'crash': 1.0}",happening
+1947 Centralia mine disaster,{'disaster': 1.0},homicide
+Rescue plans for 2010 Copiapó mining accident,{'accident': 1.0},happening
+Lambeth slavery case,{'case': 1.0},bar
+Action of 9 November 1822,{'action': 1.0},military_action
+Sack of Sandomierz (1241),{'sack': 1.0},bar
+1988 Women's Cricket World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}",bar
+Royal Indian Navy mutiny,{'indian': 1.0},Amerindian
+Pyrrhus' invasion of the Peloponnese,{'invasion': 1.0},happening
+1962 Copa Libertadores Finals,{'copa': 1.0},
+Operation Tiger Hound,{'operation': 1.0},military_action
+Hawthorn Ridge Redoubt,"{'hawthorn': 0.5059489554440828, 'ridge': 0.5059489554440828, 'redoubt': 1.0}",bar
+Siege of Badajoz (1658),{'siege': 1.0},military_action
+Battle of San Matteo,{'battle': 1.0},military_action
+Lion Air Flight 904,{'flight': 1.0},geological_phenomenon
+2012 Africa Cup of Nations,{'cup': 1.0},bar
+Conquest of the Western Turks,"{'conquest': 1.0, 'western': 0.5093381506599134}",success
+Santa María School massacre,{'massacre': 1.0},homicide
+2013 French Open,"{'french': 0.5009027836738238, 'open': 1.0}",area
+2010 Sahel famine,"{'sahel': 1.0, 'famine': 1.0}",situation
+2007 London car bombs,"{'london': 1.0, 'car': 0.5143332043147496}",bar
+Over the Edge_ In Your House,{'house': 1.0},bar
+Hurricane Rafael,{'hurricane': 1.0},cyclone
+Apodaca prison riot,{'riot': 1.0},situation
+Battle of the Boyne,{'battle': 1.0},military_action
+Battle of P'ohang-dong,{'battle': 1.0},military_action
+2010–11 KFC Twenty20 Big Bash,"{'big': 1.0, 'bash': 0.8516603959239426}",happening
+Philippine–American War,{'war': 1.0},military_action
+Battle of Saint Gotthard (1705),{'battle': 1.0},military_action
+1990 United States Census,"{'united': 1.0, 'states': 0.7668218600301623, 'census': 0.5349394287317725}",geological_phenomenon
+Washington State Fair,"{'state': 0.9431789216318531, 'fair': 1.0}",geological_phenomenon
+1965 World Ice Hockey Championships,{'world': 1.0},bar
+Conquest of Kalmar,{'conquest': 1.0},success
+Battle of Leskovac,{'battle': 1.0},military_action
+2010 United States Census,"{'united': 1.0, 'states': 0.7668218600301623, 'census': 0.5349394287317725}",geological_phenomenon
+Joe Miller (Alaska politician),"{'joe': 1.0, 'miller': 1.0, 'alaska': 1.0, 'politician': 1.0}",Amerindian
+The Beatles Winter 1963 Helen Shapiro Tour,{'tour': 1.0},journey
+Battle of Hamel,{'battle': 1.0},military_action
+Linda McMahon,"{'linda': 0.9234721349322464, 'mcmahon': 1.0}",
+1961 Yuba City B-52 crash,{'crash': 1.0},happening
+First Massacre of Machecoul,{'massacre': 1.0},homicide
+TransAsia Airways Flight 235,{'flight': 1.0},geological_phenomenon
+SilkAir Flight 185,{'flight': 1.0},geological_phenomenon
+Kurdish separatism in Iran,{'iran': 1.0},municipality
+Vita Cortex sit-in,"{'vita': 1.0, 'cortex': 1.0, 'sit': 1.0}",cover
+Defence of Kamalpur,"{'defence': 1.0, 'kamalpur': 1.0}",military_action
+Operation Freedom Deal,{'operation': 1.0},military_action
+Mexican–American War,{'war': 1.0},military_action
+2010–11 Ranji Trophy,{'trophy': 1.0},award
+Proxy bomb,"{'proxy': 1.0, 'bomb': 0.578809658193127}",bar
+National Equality March,"{'national': 1.0, 'march': 0.6886379289779995}",journey
+Dardanelles Operation (1807),{'operation': 1.0},military_action
+35th G8 summit,{'summit': 1.0},situation
+Operation Jackpot,{'operation': 1.0},military_action
+January 2015 North American blizzard,"{'january': 0.51024058529757, 'north': 0.7322412973305078, 'american': 1.0}",Gregorian_calendar_month
+TAM Airlines Flight 3054,{'flight': 1.0},geological_phenomenon
+War of the Third Coalition,{'war': 1.0},military_action
+Costigan Commission,"{'costigan': 1.0, 'commission': 1.0}",conflict
+Portuguese Colonial War,{'war': 1.0},military_action
+Pangyo Techno Valley,{'valley': 1.0},natural_depression
+Rhodesian Bush War,{'war': 1.0},military_action
+Intelligenzaktion,{'intelligenzaktion': 1.0},
+Sino-Indian War,{'war': 1.0},military_action
+2012 Supercupa României,"{'supercupa': 1.0, 'româniei': 1.0}",
+2012 Homeless World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}",bar
+Eastern Front (World War I),"{'world': 0.5422257885702634, 'war': 1.0}",military_action
+Armenian–Azerbaijani War,{'war': 1.0},military_action
+Polish–Lithuanian–Teutonic War,{'war': 1.0},military_action
+Central African Republic Bush War,{'war': 1.0},military_action
+Samland Offensive,{'offensive': 1.0},situation
+EAS Airlines Flight 4226,{'flight': 1.0},geological_phenomenon
+Saint Silvester Road Race,"{'road': 0.9002924900864728, 'race': 1.0}",bar
+Shamrock Bowl XXV,{'bowl': 1.0},military_action
+Battle of Mariazell,{'battle': 1.0},military_action
+Born This Way Ball,"{'way': 1.0, 'ball': 0.8816994781434635}",military_action
+1991 FA Charity Shield,"{'fa': 1.0, 'shield': 0.959918306411993}",cover
+Cyclone Joy,{'cyclone': 1.0},turbulence
+January 2009 North American ice storm,{'storm': 1.0},geological_phenomenon
+Anglo-Powhatan Wars,{'wars': 1.0},military_action
+Tuareg rebellion (2012),{'rebellion': 1.0},conflict
+Shooting of Michael Brown,{'shooting': 1.0},military_action
+Schweinfurt–Regensburg mission,{'schweinfurt': 1.0},
+1960 Commonwealth Prime Ministers' Conference,{'conference': 1.0},military_service
+King George's War,{'war': 1.0},military_action
+British expedition to Tibet,"{'british': 0.6627404111612133, 'expedition': 1.0}",situation
+Ninth Crusade,{'crusade': 1.0},penetration
+Christmas with Steps,{'christmas': 1.0},Gregorian_calendar_month
+Aroostook War,{'war': 1.0},military_action
+Great Siege of Gibraltar,{'siege': 1.0},military_action
+I Wish Tour,{'tour': 1.0},journey
+2015 UEFA Champions League Final,"{'league': 0.7218890531058653, 'final': 1.0}",bar
+2002 ICC Champions Trophy Final,{'final': 1.0},match
+2012–13 Big Bash League season,{'league': 1.0},bar
+New Zealand in the Vietnam War,{'war': 1.0},military_action
+1974 Football League Cup Final,"{'league': 0.5183001118016044, 'cup': 1.0, 'final': 0.7179775196363803}",bar
+Indian Airlines Flight 491,{'flight': 1.0},geological_phenomenon
+Survival Tour,{'tour': 1.0},journey
+Hurricane Barbara (2013),{'hurricane': 1.0},cyclone
+Argentina v England (1986 FIFA World Cup),"{'world': 1.0, 'cup': 0.8880773864247816}",bar
+Siege of Golconda,{'siege': 1.0},military_action
+Wellingborough rail accident,"{'rail': 1.0, 'accident': 0.7565370481203059}",bar
+2002 Immanuel bus attack,{'attack': 1.0},homicide
+Tropical Storm Hermine (1980),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+1998–99 UEFA Champions League,{'league': 1.0},bar
+2012 Euroleague Final Four,{'final': 1.0},match
+1933 Treasure Coast hurricane,{'hurricane': 1.0},cyclone
+Siege of Hijiyama,{'siege': 1.0},military_action
+Remembrance Day bombing,{'bombing': 1.0},homicide
+1967 Intercontinental Cup,{'cup': 1.0},bar
+2014 Jerusalem synagogue attack,{'attack': 1.0},homicide
+2005 Women's Cricket World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}",bar
+Battle of the Buffet,{'battle': 1.0},military_action
+1960 VFL Grand Final,{'final': 1.0},match
+Battle of Bealach nam Broig,{'battle': 1.0},military_action
+1978 European Cup Final,"{'cup': 1.0, 'final': 0.7179775196363803}",bar
+Bombardment of Madras,{'bombardment': 1.0},situation
+2007 Men's Hockey Asia Cup,{'cup': 1.0},bar
+2014 IIHF World Championship,{'world': 1.0},bar
+2012–14 Romanian protests against shale gas,{'protests': 1.0},conflict
+Anbar campaign (2013–14),{'campaign': 1.0},situation
+Halle train collision,{'train': 1.0},bar
+Mumbai Marathon,{'marathon': 1.0},military_action
+The Lamb Lies Down on Broadway Tour,{'tour': 1.0},journey
+Creek War,{'war': 1.0},military_action
+Capture of Shusha,{'capture': 1.0},military_action
+2011 Turkish Cypriot protests,{'protests': 1.0},conflict
+1982 Women's Cricket World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}",bar
+Battle of Les Formigues,{'battle': 1.0},military_action
+EDSA III,{'iii': 1.0},large_integer
+M23 rebellion,{'rebellion': 1.0},conflict
+2010 Pune bombing,{'bombing': 1.0},homicide
+Last Girl on Earth,"{'girl': 0.5156793261302577, 'earth': 1.0}",bar
+Songs from the West Coast Tour,{'tour': 1.0},journey
+List of TVXQ concert tours,"{'list': 0.9593205238028907, 'concert': 1.0, 'tours': 0.8188450494687592}",journey
+Parachutes Tour,{'tour': 1.0},journey
+2016 FA Trophy Final,{'final': 1.0},match
+Liebe ist für alle da Tour,{'tour': 1.0},journey
+Burnin' Tour,{'tour': 1.0},journey
+Rebels and Bandoleros Tour,{'tour': 1.0},journey
+Take Me Home Tour (One Direction),{'tour': 1.0},journey
+Olivia Newton-John 2010 World Tour,"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+Glassheart Tour,{'tour': 1.0},journey
+Radio Disney Live! 2001 World Tour,"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+Goin' Coastal Tour,{'tour': 1.0},journey
+Songs from the Sparkle Lounge Tour,{'tour': 1.0},journey
+Hard for the Money Tour,{'tour': 1.0},journey
+List of Big Bang solo concert tours,"{'list': 0.5069471787082981, 'big': 1.0, 'concert': 0.5284440039901193}",database
+Endgame Tour,{'tour': 1.0},journey
+Fort Lee Historic Park,"{'fort': 1.0, 'park': 0.7248934574043894}",bar
+Great New York State Fair,"{'great': 1.0, 'new': 0.8889629789768673, 'state': 0.7294061423901473, 'fair': 0.7733486464351388}",geological_phenomenon
+Hebridean Celtic Festival,{'festival': 1.0},situation
+Harajuku Lovers Tour,{'tour': 1.0},journey
+Loud Tour,{'tour': 1.0},journey
+Oral Fixation Tour,{'tour': 1.0},journey
+That Bass Tour,{'tour': 1.0},journey
+Medusa Tour,{'tour': 1.0},journey
+Aphrodite_ Les Folies Tour,{'tour': 1.0},journey
+Girls of Summer Tour,{'tour': 1.0},journey
+2002 ICC Champions Trophy,"{'icc': 1.0, 'trophy': 0.9131572368868742}",award
+1999 Tour (Robbie Williams),{'tour': 1.0},journey
+Wisconsin Sikh temple shooting,{'shooting': 1.0},military_action
+Cumbria shootings,{'shootings': 1.0},military_action
+Kill to Get Crimson Tour,{'tour': 1.0},journey
+Sapporo Snow Festival,{'festival': 1.0},situation
+Led Zeppelin North American Tour Summer 1969,{'tour': 1.0},journey
+2012 Super Rugby Final,{'final': 1.0},match
+Bloodymania IV,"{'bloodymania': 0.611735434456127, 'iv': 1.0}",situation
+Ghost Stories Tour,{'tour': 1.0},journey
+Iran Kish Air Show,{'air': 1.0},turbulence
+Chiapas conflict,{'conflict': 1.0},military_action
+Taste of Chaos,"{'taste': 1.0, 'chaos': 1.0}",geological_phenomenon
+Battle of Kumsong,{'battle': 1.0},military_action
+Withdrawal of U.S. troops from Iraq,{'iraq': 1.0},municipality
+Burnside Burn,"{'burnside': 1.0, 'burn': 1.0}",situation
+Paris Commune,{'paris': 1.0},municipality
+Siege of Shkodra,{'siege': 1.0},military_action
+Left-wing uprisings against the Bolsheviks,"{'left': 1.0, 'wing': 1.0, 'uprisings': 1.0, 'bolsheviks': 1.0}",bar
+Battle of Madagascar,{'battle': 1.0},military_action
+Dano-Swedish War (1657–58),{'war': 1.0},military_action
+Fort Bowyer,{'fort': 1.0},bar
+First Margrave War,{'war': 1.0},military_action
+Tajikistani Civil War,{'war': 1.0},military_action
+Albanian–Venetian War,{'war': 1.0},military_action
+Third Transjordan attack,{'attack': 1.0},homicide
+Latvian War of Independence,{'war': 1.0},military_action
+Liberation of Paris,"{'liberation': 0.7096232437524846, 'paris': 1.0}",homicide
+Ecuadorian–Colombian War,{'war': 1.0},military_action
+Dallas Marathon,{'marathon': 1.0},military_action
+Serbo-Bulgarian War,{'war': 1.0},military_action
+Nepalese Civil War,{'war': 1.0},military_action
+Greek Civil War,{'war': 1.0},military_action
+1948 Arab–Israeli War,{'war': 1.0},military_action
+Siege of Brussels,{'siege': 1.0},military_action
+2007 Iraqi Parliament bombing,{'bombing': 1.0},homicide
+Operation Anaconda,{'operation': 1.0},military_action
+1969 Southeast Asian Peninsular Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}",Amerindian
+HalloWeekends,{'halloweekends': 1.0},
+École Polytechnique massacre,{'massacre': 1.0},homicide
+Landing at Anzac Cove,"{'landing': 1.0, 'anzac': 0.9183212591829335, 'cove': 0.9183212591829335}",bar
+Penukonda train collision,{'train': 1.0},bar
+Highway of Death,{'death': 1.0},geological_phenomenon
+Sino-Vietnamese War,{'war': 1.0},military_action
+Battle of Luding Bridge,{'battle': 1.0},military_action
+Ultra Music Festival,{'festival': 1.0},situation
+2012 Open Championship,"{'open': 0.5398644858774538, 'championship': 1.0}",high_status
+1935 Labor Day hurricane,{'hurricane': 1.0},cyclone
+Tropical Storm Amelia (1978),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+S11 (protest),{'protest': 1.0},conflict
+Hurricane Odile,{'hurricane': 1.0},cyclone
+2013 U.S. Open (golf),{'open': 1.0},area
+Battle of Radzymin (1809),{'battle': 1.0},military_action
+1992 Nigerian Air Force C-130 crash,"{'air': 0.999227882247993, 'crash': 1.0}",happening
+Operation Hush,{'operation': 1.0},military_action
+Murders of Nicola Hughes and Fiona Bone,{'murders': 1.0},homicide
+Battle of Rhode Island,{'battle': 1.0},military_action
+2004 UEFA Champions League Final,"{'league': 0.7218890531058653, 'final': 1.0}",bar
+2007–08 Commonwealth Bank Series,"{'commonwealth': 0.5171386707056838, 'bank': 0.5304848691157684, 'series': 1.0}",bar
+Second Battle of Jaunde,{'battle': 1.0},military_action
+Siege of Savannah,{'siege': 1.0},military_action
+Sieges of Kuromaru,"{'sieges': 1.0, 'kuromaru': 1.0}",military_action
+Cyclone Aila,{'cyclone': 1.0},turbulence
+2010 Jos riots,{'riots': 1.0},situation
+Battle of Sulci,{'battle': 1.0},military_action
+Fifth Siege of Gibraltar,{'siege': 1.0},military_action
+Battle of Cepeda (1820),{'battle': 1.0},military_action
+Cyclone Jasmine,{'cyclone': 1.0},turbulence
+Invasion of Salamaua–Lae,{'invasion': 1.0},happening
+1992 Soviet Cup Final,"{'cup': 1.0, 'final': 0.7179775196363803}",bar
+South Croydon rail crash,"{'rail': 0.5719598380277843, 'crash': 1.0}",bar
+2009 ICC World Cricket League Division Three,{'world': 1.0},bar
+Battle of Salamanca,{'battle': 1.0},military_action
+Race to the Sea,{'race': 1.0},cut
+Cyclone Zoe,{'cyclone': 1.0},turbulence
+Revolutions of 1989,{'revolutions': 1.0},military_action
+2012 IRB Junior World Championship,{'world': 1.0},bar
+Siege of Porto,{'siege': 1.0},military_action
+Third Anglo-Dutch War,{'war': 1.0},military_action
+1940 South Carolina hurricane,{'hurricane': 1.0},cyclone
+Tropical Storm Debbie (1965),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+2008 Tanana Valley flood,"{'valley': 0.8911430417434173, 'flood': 1.0}",geological_phenomenon
+Typhoon Lupit (2003),{'typhoon': 1.0},cyclone
+Cyclone Daman,{'cyclone': 1.0},turbulence
+Typhoon Chanchu,{'typhoon': 1.0},cyclone
+Operation Clipper,{'operation': 1.0},military_action
+Tropical Storm Alma (1974),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+2010 Chile earthquake,{'earthquake': 1.0},geological_phenomenon
+Cyclone Ivy,{'cyclone': 1.0},turbulence
+Tropical Storm Zelda (1991),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Hurricane Ella (1970),{'hurricane': 1.0},cyclone
+2012 Guatemala earthquake,{'earthquake': 1.0},geological_phenomenon
+Cyclone Waka,{'cyclone': 1.0},turbulence
+Hurricane Cindy (1963),{'hurricane': 1.0},cyclone
+Battle of Froeschwiller (1793),{'battle': 1.0},military_action
+Operation Tiger (1992),{'operation': 1.0},military_action
+Tropical Storm Cecil (1989),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Operation Sana,{'operation': 1.0},military_action
+Hurricane Gil (1983),{'hurricane': 1.0},cyclone
+1901 Louisiana hurricane,{'hurricane': 1.0},cyclone
+Raid on Haverhill (1708),{'raid': 1.0},penetration
+Hurricane Rick (1985),{'hurricane': 1.0},cyclone
+Hurricane Josephine (1984),{'hurricane': 1.0},cyclone
+Cyclone Mala,{'cyclone': 1.0},turbulence
+Battle of Chaeronea (86 BC),{'battle': 1.0},military_action
+Battle of Lugdunum,{'battle': 1.0},military_action
+Mussel Slough Tragedy,{'tragedy': 1.0},happening
+Battle of Blair Mountain,{'battle': 1.0},military_action
+Cochise County in the Old West,"{'county': 0.8217130638108779, 'west': 1.0}",cardinal_compass_point
+1989 FA Charity Shield,"{'fa': 1.0, 'shield': 0.959918306411993}",cover
+Paraguayan War,{'war': 1.0},military_action
+Independence Centenary Games,{'independence': 1.0},situation
+Battle of Rueda,{'battle': 1.0},military_action
+Operation Uzice,{'operation': 1.0},military_action
+Battle of Lyncestis,{'battle': 1.0},military_action
+Battle of Freiburg,{'battle': 1.0},military_action
+Operation Goodwood,{'operation': 1.0},military_action
+Japanese invasion of Taiwan (1895),{'invasion': 1.0},happening
+2012 Sabha conflict,{'conflict': 1.0},military_action
+Cyber Sunday (2007),{'sunday': 1.0},anniversary
+1910 Cuba hurricane,{'hurricane': 1.0},cyclone
+1966 Copa Libertadores Finals,{'copa': 1.0},
+FIFI Wild Cup,{'cup': 1.0},bar
+Battle of Celaya,{'battle': 1.0},military_action
+Northern Iraq offensive (June 2014),"{'offensive': 1.0, 'june': 0.5744263892698435}",situation
+Siege of Ancona,{'siege': 1.0},military_action
+2015 SAFF Championship,{'championship': 1.0},high_status
+Revolution of 1934,{'revolution': 1.0},military_action
+2010 Caribbean Cup,{'cup': 1.0},bar
+2007–08 Ford Ranger One Day Cup season,{'cup': 1.0},bar
+The Fame Ball Tour,{'tour': 1.0},journey
+1965 Southeast Asian Peninsular Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}",Amerindian
+Redneck Games,{'games': 1.0},military_action
+Typhoon Imbudo,{'typhoon': 1.0},cyclone
+The Game Tour,{'tour': 1.0},journey
+2003 OFC Women's Championship,"{'women': 0.5009217213760762, 'championship': 1.0}",Amerindian
+KaZantip,{'kazantip': 1.0},
+2014 New York City Marathon,"{'new': 0.7559906593502494, 'marathon': 1.0}",military_action
+Jay-Z &amp; Ciara Live,"{'amp': 0.5252037747675147, 'live': 1.0}",be
+2013 Southeast Asian Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}",Amerindian
+New York City Marathon,"{'new': 0.7559906593502494, 'marathon': 1.0}",military_action
+Alpine skiing at the 2010 Winter Paralympics,{'winter': 1.0},Gregorian_calendar_month
+2009 Great Britain and Ireland floods,"{'great': 0.7712947502066981, 'floods': 1.0}",geological_phenomenon
+Hurricane Carlos (2015),{'hurricane': 1.0},cyclone
+Invasion of Hvaler,{'invasion': 1.0},happening
+Java campaign of 1806–07,{'campaign': 1.0},situation
+¡Oye Esteban! Tour,{'tour': 1.0},journey
+Battle of Kosovo,{'battle': 1.0},military_action
+Just Push Play Tour,{'tour': 1.0},journey
+Mysteryland,{'mysteryland': 1.0},
+1951 Asian Games,{'asian': 1.0},Amerindian
+Copa Master de Supercopa,"{'master': 1.0, 'supercopa': 1.0}",bar
+Battle of Kostiuchnówka,{'battle': 1.0},military_action
+1963 Syrian coup d'état,{'coup': 1.0},military_action
+Allied invasion of Sicily,{'invasion': 1.0},happening
+1993 Women's Cricket World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}",bar
+Cromwellian conquest of Ireland,{'conquest': 1.0},success
+Woman suffrage parade of 1913,{'parade': 1.0},stream
+Political violence in Germany (1918–33),"{'political': 0.5244202701651381, 'violence': 0.5662283368977987, 'germany': 1.0}",turbulence
+Polish–Czechoslovak War,{'war': 1.0},military_action
+1972 Puerto Rico DC-7 crash,{'crash': 1.0},happening
+Boston Fashion Week,{'boston': 1.0},municipality
+Burmese–Siamese War (1785–86),{'war': 1.0},military_action
+Siege of Roses (1808),{'siege': 1.0},military_action
+Hurricane Gordon (2000),{'hurricane': 1.0},cyclone
+Juno Beach,{'beach': 1.0},natural_depression
+2008 Irish flash floods,{'floods': 1.0},geological_phenomenon
+Battle of Cold Harbor,{'battle': 1.0},military_action
+Cyclone Gudrun,{'cyclone': 1.0},turbulence
+Hurricane Cindy (1959),{'hurricane': 1.0},cyclone
+Battle of Stones River,{'battle': 1.0},military_action
+Karen conflict,{'conflict': 1.0},military_action
+Hurricane Ismael,{'hurricane': 1.0},cyclone
+Hurricane Alex (2010),{'hurricane': 1.0},cyclone
+Ansett-ANA Flight 149,{'flight': 1.0},geological_phenomenon
+Cyclone Alessia,{'cyclone': 1.0},turbulence
+Action of 24 October 1798,{'action': 1.0},military_action
+Battle of Hanau,{'battle': 1.0},military_action
+Battle of Hastings,{'battle': 1.0},military_action
+1999 South Dakota Learjet crash,{'crash': 1.0},happening
+Hurricane Alma (1962),{'hurricane': 1.0},cyclone
+2010 Badakhshan massacre,{'massacre': 1.0},homicide
+Mongol conquest of the Qara Khitai,{'conquest': 1.0},success
+Second Ivorian Civil War,{'war': 1.0},military_action
+Angolan Civil War,{'war': 1.0},military_action
+Nag Hammadi massacre,{'massacre': 1.0},homicide
+Villisca axe murders,{'murders': 1.0},homicide
+Operation Martyr Yalçın,{'operation': 1.0},military_action
+2014 unrest in Bosnia and Herzegovina,{'unrest': 1.0},turbulence
+First Congo War,{'war': 1.0},military_action
+Battle of the Bogside,{'battle': 1.0},military_action
+Lord's Resistance Army insurgency,{'insurgency': 1.0},conflict
+Chouannerie,{'chouannerie': 1.0},
+Massacre of the Acqui Division,{'massacre': 1.0},homicide
+2012 Rakhine State riots,"{'state': 0.7803664184823387, 'riots': 1.0}",geological_phenomenon
+Lahore church bombings,{'bombings': 1.0},homicide
+Battle of Mogadishu (2006),{'battle': 1.0},military_action
+Six-Day War (2000),{'war': 1.0},military_action
+Bombardment of Alexandria,{'bombardment': 1.0},situation
+Sunderland International Airshow,{'international': 1.0},socialism
+First Battle of Homs,{'battle': 1.0},military_action
+2014 ACC Premier League,{'league': 1.0},bar
+Morgan's Raid,{'raid': 1.0},penetration
+Cyclone Osea,{'cyclone': 1.0},turbulence
+Hurricane Emilia (1994),{'hurricane': 1.0},cyclone
+First Battle of Tikrit,{'battle': 1.0},military_action
+January 2010 Rio de Janeiro floods and mudslides,"{'january': 0.5384184841312533, 'de': 0.6860846511615739, 'floods': 1.0}",geological_phenomenon
+Ottoman invasion of Mani (1770),{'invasion': 1.0},happening
+Hurricane Jose (1999),{'hurricane': 1.0},cyclone
+The Veronicas (album),{'album': 1.0},bar
+Hurricane Shary,{'hurricane': 1.0},cyclone
+Attempted assassination of Harry S. Truman,{'assassination': 1.0},homicide
+Battle of Halys,{'battle': 1.0},military_action
+Hurricane Bertha (2014),{'hurricane': 1.0},cyclone
+Hurricane Irene (1999),{'hurricane': 1.0},cyclone
+1940 New England hurricane,{'hurricane': 1.0},cyclone
+Hungerford massacre,{'massacre': 1.0},homicide
+Battle of Manila (1945),{'battle': 1.0},military_action
+Portuguese conquest of French Guiana,"{'conquest': 1.0, 'french': 0.5872441734208541}",success
+Operation Overlord,{'operation': 1.0},military_action
+Cyclone Sidr,{'cyclone': 1.0},turbulence
+2013 ICC World Cricket League Division Three,{'world': 1.0},bar
+Srb uprising,{'uprising': 1.0},conflict
+Siege of Castelnuovo,{'siege': 1.0},military_action
+Final War of the Roman Republic,{'war': 1.0},military_action
+1963 Intercontinental Cup,{'cup': 1.0},bar
+2011 Liège attack,{'attack': 1.0},homicide
+Dalj massacre,{'massacre': 1.0},homicide
+2006 Football League Championship play-off Final,"{'league': 0.7218890531058653, 'championship': 0.7565270105778232, 'final': 1.0}",bar
+Kengir uprising,{'uprising': 1.0},conflict
+Battle of the Bowling Alley,{'battle': 1.0},military_action
+Blues Train,{'train': 1.0},bar
+2005 Bolivarian Games,{'bolivarian': 1.0},
+Dhamara Ghat train accident,"{'train': 1.0, 'accident': 0.6697180492040937}",bar
+Action of 10 April 1795,{'action': 1.0},military_action
+Peloponnesian War,{'war': 1.0},military_action
+Sonderbund War,{'war': 1.0},military_action
+Siege of Smolensk (1514),{'siege': 1.0},military_action
+Siege of Groenlo (1627),{'siege': 1.0},military_action
+Fifth Crusade,{'crusade': 1.0},penetration
+Battle of Saguntum,{'battle': 1.0},military_action
+Siege of Astorga (1812),{'siege': 1.0},military_action
+Invasion of Buka and Bougainville,{'invasion': 1.0},happening
+French and Indian War,{'war': 1.0},military_action
+2011 Albanian opposition demonstrations,{'albanian': 1.0},Middle_English
+2015 ICC Europe Division One,"{'icc': 1.0, 'division': 0.7457215591540274}",conflict
+Abbasid Revolution,{'revolution': 1.0},military_action
+Ice hockey at the 2014 Winter Olympics,"{'ice': 0.8047717029048006, 'hockey': 1.0, 'winter': 0.839057831740874}",bar
+Black Sea campaigns (1941–44),"{'black': 1.0, 'sea': 0.5699735850452315}",indefinite_quantity
+1906 San Francisco earthquake,{'earthquake': 1.0},geological_phenomenon
+Tropical Storm Matthew (2010),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+2004 Indoor Cricket World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}",bar
+Indian cricket team in Australia in 1947–48,"{'indian': 1.0, 'cricket': 0.9731101081020141}",Amerindian
+Perusine War,{'war': 1.0},military_action
+2012 Catalan independence demonstration,{'independence': 1.0},situation
+Tropical Storm Dolly (2014),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Caramoor Summer Music Festival,{'festival': 1.0},situation
+Virgin Festival,{'festival': 1.0},situation
+Moorgate tube crash,{'crash': 1.0},happening
+Battle of Queenston Heights,{'battle': 1.0},military_action
+Cyclone Erica,{'cyclone': 1.0},turbulence
+Spanish conquest of Iberian Navarre,"{'spanish': 0.5396402367043343, 'conquest': 1.0}",success
+The Great Escape Festival,{'festival': 1.0},situation
+Airblue Flight 202,{'flight': 1.0},geological_phenomenon
+2008 Guam B-52 crash,{'crash': 1.0},happening
+Aniversario de Arena México,{'de': 1.0},municipality
+Battle of Masan,{'battle': 1.0},military_action
+Russian invasion of Manchuria,{'invasion': 1.0},happening
+Battle of Machias,{'battle': 1.0},military_action
+Sawai Gandharva Bhimsen Festival,{'festival': 1.0},situation
+Ann Arbor Blues and Jazz Festival,{'festival': 1.0},situation
+U-boat Campaign (World War I),"{'world': 0.5422257885702634, 'war': 1.0}",military_action
+2004–05 UEFA Cup,{'cup': 1.0},bar
+L.A. County Fair,{'fair': 1.0},municipality
+Singapore Airlines Flight 006,{'flight': 1.0},geological_phenomenon
+Battle of Kruševac,{'battle': 1.0},military_action
+North American blizzard of 1947,"{'north': 0.7322412973305078, 'american': 1.0}",Amerindian
+Montrose Music Festival,{'festival': 1.0},situation
+Earthcore,{'earthcore': 1.0},
+Recapture of Bahia,"{'recapture': 1.0, 'bahia': 0.5257385590216312}",military_action
+Russo-Georgian War,{'war': 1.0},military_action
+Ten Days' Campaign,{'campaign': 1.0},situation
+Action of 12 October 1950,{'action': 1.0},military_action
+Battle of Kosturino,{'battle': 1.0},military_action
+Battle of Mared,{'battle': 1.0},military_action
+Third Battle of Puebla,{'battle': 1.0},military_action
+Uskok War,{'war': 1.0},military_action
+Operation Bagration,{'operation': 1.0},military_action
+Battle of Majuba Hill,{'battle': 1.0},military_action
+Second Battle of Tuxpan,{'battle': 1.0},military_action
+Battle of Krasny Bor,{'battle': 1.0},military_action
+2008 ASEAN Para Games,{'games': 1.0},military_action
+1906 Florida Keys hurricane,{'hurricane': 1.0},cyclone
+Early 2011 Victorian floods,{'floods': 1.0},geological_phenomenon
+2010 Indiana earthquake,{'earthquake': 1.0},geological_phenomenon
+1987 Bihar flood,{'flood': 1.0},geological_phenomenon
+Typhoon Saomai (2000),{'saomai': 1.0},
+2005 Kashmir earthquake,{'earthquake': 1.0},geological_phenomenon
+1935 Yankee hurricane,{'hurricane': 1.0},cyclone
+Operation Southern Move,{'operation': 1.0},military_action
+Green Man Festival,{'festival': 1.0},situation
+United States Air Force Marathon,"{'air': 1.0, 'marathon': 0.6282813087852137}",military_action
+Tropical Storm Laura (1971),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Hurricane John (1994),{'hurricane': 1.0},cyclone
+Maharashtra floods of 2005,{'floods': 1.0},geological_phenomenon
+2006–07 Southeast Asian floods,"{'southeast': 0.7341292708508999, 'asian': 0.9926488042065622, 'floods': 1.0}",geological_phenomenon
+Hurricane Abby (1960),{'hurricane': 1.0},cyclone
+1942 Matagorda hurricane,{'hurricane': 1.0},cyclone
+2013 Alberta floods,{'floods': 1.0},geological_phenomenon
+Isotopia Festival,{'festival': 1.0},situation
+Hurricane Olaf (2003),{'hurricane': 1.0},cyclone
+Port Said Stadium riot,"{'port': 0.7409255172096816, 'riot': 1.0}",bar
+Tropical Storm Cindy (1993),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Hurricane Dot (1959),{'hurricane': 1.0},cyclone
+Hurricane Carmen,{'hurricane': 1.0},cyclone
+Murder of Sagar Sarowar and Meherun Runi,{'murder': 1.0},homicide
+Saborsko massacre,{'massacre': 1.0},homicide
+Knife attack on Kevin Lau,{'attack': 1.0},homicide
+Somali Rebellion,{'rebellion': 1.0},conflict
+Philippine Airlines Flight 434,{'flight': 1.0},geological_phenomenon
+Kafr Qasim massacre,{'massacre': 1.0},homicide
+Jaybird–Woodpecker War,{'war': 1.0},military_action
+Indian Ocean raid (1944),"{'indian': 0.9544226508130415, 'raid': 1.0}",penetration
+Gospić massacre,{'massacre': 1.0},homicide
+Lake Bodom murders,"{'lake': 0.8150229215186858, 'murders': 1.0}",homicide
+2009 Coupe de la Ligue Final,{'final': 1.0},match
+Battle of Columbus (1865),{'battle': 1.0},military_action
+1975 Southeast Asian Peninsular Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}",Amerindian
+2001 Germany v England football match,{'football': 1.0},contact_sport
+Downing Street mortar attack,{'attack': 1.0},homicide
+Brazil v Germany (2014 FIFA World Cup),"{'world': 1.0, 'cup': 0.8880773864247816}",bar
+Qantas Flight 72,{'flight': 1.0},geological_phenomenon
+Nelson Mandela 90th Birthday Tribute,"{'nelson': 1.0, 'mandela': 1.0}",wrestling_hold
+2005 South Asian Football Federation Gold Cup,{'cup': 1.0},bar
+W.A.K.O. European Championships 2000 (Jesolo),{'european': 1.0},Amerindian
+1992 Cape Mendocino earthquakes,"{'cape': 1.0, 'earthquakes': 0.5331059805431428}",geological_phenomenon
+Capture of Regina Trench,{'capture': 1.0},military_action
+1991 UNCAF Nations Cup,{'cup': 1.0},bar
+2015 Australian Open,"{'australian': 0.570148856976324, 'open': 1.0}",Amerindian
+Nordic Game,"{'nordic': 0.6291154110973143, 'game': 1.0}",military_action
+1996 SANFL Grand Final,{'final': 1.0},match
+2007 Rugby World Cup Final,"{'world': 1.0, 'cup': 0.8880773864247816, 'final': 0.637619599150424}",bar
+Fulani War,{'war': 1.0},military_action
+Delhi Photo Festival,{'festival': 1.0},situation
+Big Sandy Expedition,"{'big': 0.7950971857307914, 'expedition': 1.0}",situation
+Million Man March,{'march': 1.0},journey
+1961 Football League Cup Final,"{'league': 0.5183001118016044, 'cup': 1.0, 'final': 0.7179775196363803}",bar
+Hurricane Nora (2003),{'hurricane': 1.0},cyclone
+Bear River Massacre,{'massacre': 1.0},homicide
+Cricket at the 1900 Summer Olympics,"{'cricket': 0.9447622787492086, 'summer': 1.0}",Gregorian_calendar_month
+Shamrock Bowl I,{'bowl': 1.0},military_action
+2015 Pan American Games,{'american': 1.0},Amerindian
+2017 Africa Cup of Nations,{'cup': 1.0},bar
+Hurricane Helene (1958),{'hurricane': 1.0},cyclone
+2011 ASEAN Para Games,{'games': 1.0},military_action
+Horecava 2010,{'horecava': 1.0},
+An Evening with Olivia Newton-John,{'john': 1.0},bar
+International Sabancı Theater Festival,{'festival': 1.0},situation
+2012 ASEAN University Games,"{'asean': 1.0, 'university': 0.8348048691583587}",bar
+Rock Island 2002,"{'rock': 1.0, 'island': 0.8451003301583895}",bar
+Port of Dartmouth Royal Regatta,"{'port': 0.7899614170643435, 'royal': 1.0, 'regatta': 0.6773679811661513}",bar
+Women of Krusha e Madhe,{'women': 1.0},Amerindian
+Lilac Festival (Calgary),{'festival': 1.0},situation
+Durham Regatta,"{'durham': 0.7595525012398985, 'regatta': 1.0}",municipality
+2015 Copenhagen shootings,{'shootings': 1.0},military_action
+Adelaide Festival,{'festival': 1.0},situation
+Nine Lives Tour,{'tour': 1.0},journey
+Hurricane Eugene (1987),{'hurricane': 1.0},cyclone
+Tropical Storm Edouard (2008),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+2014–15 Big Bash League season,{'league': 1.0},bar
+1971 Open Championship,"{'open': 0.5398644858774538, 'championship': 1.0}",high_status
+Occupy London,"{'occupy': 1.0, 'london': 0.5654992512056563}",municipality
+The Final Frontier World Tour,"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+The Circle Tour,{'tour': 1.0},journey
+Brisbane Open House,{'open': 1.0},area
+2008 Australian Open,"{'australian': 0.570148856976324, 'open': 1.0}",Amerindian
+1966 U.S. Women's Open Golf Championship,"{'women': 0.5009217213760762, 'open': 0.5398644858774538, 'championship': 1.0}",Amerindian
+2012 Cape Town International Challenge,{'international': 1.0},socialism
+Great Train Wreck of 1856,"{'great': 0.8263189389247981, 'train': 1.0}",bar
+Hurricane Jeanne,{'hurricane': 1.0},cyclone
+1983 Cricket World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}",bar
+2001 Players Championship,{'championship': 1.0},high_status
+Warsaw Uprising (1794),{'uprising': 1.0},conflict
+Action of 24 March 1811,{'action': 1.0},military_action
+2015 A-League Grand Final,"{'league': 0.7218890531058653, 'final': 1.0}",bar
+1969 VFL Grand Final,{'final': 1.0},match
+2016 AFC U-23 Championship,{'championship': 1.0},high_status
+Italian unification,"{'italian': 1.0, 'unification': 0.5470402176977237}",situation
+1997 Football League Trophy Final,"{'league': 0.7218890531058653, 'final': 1.0}",bar
+2013 Football League Cup Final,"{'league': 0.5183001118016044, 'cup': 1.0, 'final': 0.7179775196363803}",bar
+2008 Bucharest summit,"{'bucharest': 0.8843869655030222, 'summit': 1.0}",situation
+2013 FIFA Confederations Cup,{'cup': 1.0},bar
+2010–11 Caribbean Twenty20,{'caribbean': 1.0},municipality
+2014 African Nations Championship,{'championship': 1.0},high_status
+2015–16 UEFA Champions League,{'league': 1.0},bar
+2015 African Women's Junior Handball Championship,"{'women': 0.5009217213760762, 'championship': 1.0}",Amerindian
+Kozara Offensive,{'offensive': 1.0},situation
+2014 Latakia offensive,{'offensive': 1.0},situation
+2015–17 ICC World Cricket League Championship,{'world': 1.0},bar
+1994 FA Women's Cup Final,"{'cup': 1.0, 'final': 0.7179775196363803}",bar
+2006 AFC Youth Championship,{'championship': 1.0},high_status
+28 May 1926 coup d'état,"{'may': 1.0, 'coup': 0.7872711179229523}",military_action
+2000 Sri Lanka cyclone,{'cyclone': 1.0},turbulence
+2011–12 Ranji Trophy,{'trophy': 1.0},award
+Operation Sunrise (Vietnam War),"{'operation': 0.8766975453196248, 'war': 1.0}",military_action
+June 2008 Midwest floods,{'floods': 1.0},geological_phenomenon
+1990 Soviet Cup Final,"{'cup': 1.0, 'final': 0.7179775196363803}",bar
+1998 ICC KnockOut Trophy Final,{'final': 1.0},match
+Black Celebration Tour,{'tour': 1.0},journey
+Polish–Russian War of 1792,{'war': 1.0},military_action
+Hurricane Janet,{'hurricane': 1.0},cyclone
+Tropical Storm Lee (2011),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Baltimore Marathon,{'marathon': 1.0},military_action
+Mayhem Festival,{'festival': 1.0},situation
+Hurricane Barry (1983),{'hurricane': 1.0},cyclone
+List of Kelly Clarkson concert tours,"{'list': 0.9593205238028907, 'kelly': 0.7683403873023841, 'concert': 1.0, 'tours': 0.8188450494687592}",journey
+The Resistance Tour,{'tour': 1.0},journey
+Wherever We May Roam Tour,{'tour': 1.0},journey
+Golden Heart Tour,{'tour': 1.0},journey
+Long March,{'march': 1.0},journey
+Out of Control Tour,{'tour': 1.0},journey
+Build a Rocket Boys! Tour,{'tour': 1.0},journey
+Long Road Out of Eden Tour,{'tour': 1.0},journey
+Uproar Festival,{'festival': 1.0},situation
+The Uplift Mofo Party Tour,{'tour': 1.0},journey
+Santiago de Compostela derailment,{'de': 1.0},municipality
+Nintendo World Championships,{'world': 1.0},bar
+The Captain and the Kid Tour,{'tour': 1.0},journey
+Family Values Tour,{'tour': 1.0},journey
+1899 Carrabelle hurricane,{'hurricane': 1.0},cyclone
+Apple Music Festival,{'festival': 1.0},situation
+Sulla mia pelle,"{'sulla': 1.0, 'mia': 1.0, 'pelle': 1.0}",subshrub
+Watch the Throne Tour,{'tour': 1.0},journey
+2013–14 chikungunya outbreak,"{'chikungunya': 0.5693762945108415, 'outbreak': 1.0}",happening
+Action at Abraham's Creek,{'action': 1.0},military_action
+Operation Hump,{'operation': 1.0},military_action
+Appeal To Reason Tour,{'tour': 1.0},journey
+Bruce Springsteen 1992–1993 World Tour,"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+Corazón Profundo,"{'corazón': 1.0, 'profundo': 1.0}",
+2013 Bohol earthquake,{'earthquake': 1.0},geological_phenomenon
+150th birth anniversary of Swami Vivekananda,{'anniversary': 1.0},anniversary
+Johnstown Flood,{'flood': 1.0},geological_phenomenon
+Reactions to Innocence of Muslims,"{'reactions': 1.0, 'innocence': 1.0}",geological_phenomenon
+World Tour of the Century,"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+Monbar Hotel attack,{'attack': 1.0},homicide
+Tulle massacre,{'massacre': 1.0},homicide
+U Thant funeral crisis,{'crisis': 1.0},situation
+2013 Indian Premier League,"{'indian': 0.5887190461083561, 'league': 1.0}",bar
+Operation Augurs of Prosperity,{'operation': 1.0},military_action
+Raid on Málaga (1656),{'raid': 1.0},penetration
+Sjursøya train accident,"{'train': 1.0, 'accident': 0.6697180492040937}",bar
+Tropical Storm Morakot (2003),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+May 1998 riots of Indonesia,{'riots': 1.0},situation
+2008 Bangalore serial blasts,"{'bangalore': 1.0, 'serial': 1.0, 'blasts': 1.0}",happening
+Tropical Storm Harvey (2011),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+2012 Sierra Leonean cholera outbreak,"{'sierra': 1.0, 'outbreak': 0.9633358222869113}",happening
+2012 Preakness Stakes,"{'preakness': 0.8286341774600086, 'stakes': 1.0}",bar
+Hurricane Norma (1981),{'hurricane': 1.0},cyclone
+Underage Festival,{'festival': 1.0},situation
+1926 Louisiana hurricane,{'hurricane': 1.0},cyclone
+Hurricane Cora,{'hurricane': 1.0},cyclone
+Second Battle of El Alamein,{'battle': 1.0},military_action
+Northern Expedition,{'expedition': 1.0},situation
+Summernats,{'summernats': 1.0},
+Battle of Renfrew,{'battle': 1.0},military_action
+Hurricane Anita,{'hurricane': 1.0},cyclone
+Bulgarian–Hungarian wars,{'wars': 1.0},military_action
+Hurricane Ivan,{'hurricane': 1.0},cyclone
+Rebellion of the Three Guards,{'rebellion': 1.0},conflict
+Capture of Martinpuich,{'capture': 1.0},military_action
+2012 India blackouts,{'india': 1.0},municipality
+Siege of Kamarja,{'siege': 1.0},military_action
+Operation Jackal,{'operation': 1.0},military_action
+Operation Michael,{'operation': 1.0},military_action
+Hurricane Genevieve (2014),{'hurricane': 1.0},cyclone
+1928 Okeechobee hurricane,{'hurricane': 1.0},cyclone
+Pink Friday_ Reloaded Tour,{'tour': 1.0},journey
+Third Macedonian War,{'war': 1.0},military_action
+October 2008 Central America floods,"{'october': 0.6488537165052602, 'floods': 1.0}",geological_phenomenon
+Dominion War,{'war': 1.0},military_action
+2013 Scottish Cup Final,"{'cup': 1.0, 'final': 0.7179775196363803}",bar
+Kurukshetra War,{'war': 1.0},military_action
+Cyclone Rusty,{'cyclone': 1.0},turbulence
+Operation Grapes of Wrath,{'operation': 1.0},military_action
+Monster World Tour (Kiss),"{'world': 0.7046801950787563, 'tour': 1.0}",bar
+1935 Royal Canadian Mounted Police Killings,"{'royal': 0.7937372445726344, 'killings': 1.0}",homicide
+Battle of Ruona,{'battle': 1.0},military_action
+Bahr El-Baqar primary school bombing,{'bombing': 1.0},homicide
+War in the North,{'war': 1.0},military_action
+Action of 23 August 1967,{'action': 1.0},military_action
+Libyan Arab Airlines Flight 114,{'flight': 1.0},geological_phenomenon
+13 December 2013 Iraq attacks,"{'december': 0.8008626708131061, 'iraq': 0.6092645550134046, 'attacks': 1.0}",homicide
+USS Essex vs HMS Alert,{'uss': 1.0},municipality
+"Olowalu, Hawaii","{'olowalu': 1.0, 'hawaii': 1.0}",municipality
+1985 Mexico City earthquake,{'earthquake': 1.0},geological_phenomenon
+Invasion of Normandy,{'invasion': 1.0},happening
+Operation Python,{'operation': 1.0},military_action
+1950 Tête de l'Obiou C-54 crash,{'crash': 1.0},happening
+Trans-Canada Air Lines Flight 810,{'flight': 1.0},geological_phenomenon
+Battle of Saragarhi,{'battle': 1.0},military_action
+Tropical Storm Debby (2012),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+1931 Southwest Sumatra earthquake,{'earthquake': 1.0},geological_phenomenon
+Rowing at the 1980 Summer Olympics,{'summer': 1.0},Gregorian_calendar_month
+Hurricane Paloma,{'hurricane': 1.0},cyclone
+Battle of Manresa (1810),{'battle': 1.0},military_action
+2013 Dingxi earthquakes,"{'dingxi': 0.5744133748228089, 'earthquakes': 1.0}",geological_phenomenon
+Hurricane Daisy (1962),{'hurricane': 1.0},cyclone
+Jecheon International Music &amp; Film Festival,{'festival': 1.0},situation
+History of Xinjiang,{'history': 1.0},penetration
+Persian Expedition of 1796,{'expedition': 1.0},situation
+Hurricane Estelle (1986),{'hurricane': 1.0},cyclone
+2009 A-League Grand Final,"{'league': 0.7218890531058653, 'final': 1.0}",bar
+War on Terror,{'war': 1.0},military_action
+Pukkelpop,{'pukkelpop': 1.0},
+Live on the Green Music Festival,{'festival': 1.0},situation
+Operation Serval,{'operation': 1.0},military_action
+St. John River Campaign,{'campaign': 1.0},situation
+Hurricane Epsilon,{'hurricane': 1.0},cyclone
+Western States Endurance Run,"{'western': 0.8829666660553658, 'states': 1.0, 'run': 0.5783700606962949}",geological_phenomenon
+Hurricane Juan (1985),{'hurricane': 1.0},cyclone
+Tropical Storm Candy,"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+1945 Homestead hurricane,{'hurricane': 1.0},cyclone
+Cyclone Sam,{'cyclone': 1.0},turbulence
+Tropical Storm Domoina,"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+TNA Sacrifice,"{'tna': 1.0, 'sacrifice': 0.5003464783018172}",military_action
+Hurricane Ethel (1960),{'hurricane': 1.0},cyclone
+Hurricane Debby (1982),{'hurricane': 1.0},cyclone
+1977 Oman cyclone,{'cyclone': 1.0},turbulence
+1975 Kinnaur earthquake,{'earthquake': 1.0},geological_phenomenon
+2005–06 Chappell–Hadlee Trophy,{'trophy': 1.0},award
+Hurricane Paul (1982),{'hurricane': 1.0},cyclone
+Typhoon Ruby (1988),{'typhoon': 1.0},cyclone
+Hurricane Hilda (1955),{'hurricane': 1.0},cyclone
+East Turkestan independence movement,"{'east': 0.6027921648093636, 'independence': 0.9019468773093002, 'movement': 1.0}",bar
+Hurricane Barbara (1953),{'hurricane': 1.0},cyclone
+FIS Nordic Combined World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}",bar
+2008 Asian Five Nations division tournaments,"{'asian': 1.0, 'nations': 0.666249314587543, 'division': 0.6115093473757786}",conflict
+Hurricane Emily (2005),{'hurricane': 1.0},cyclone
+Fall of Saigon,"{'fall': 1.0, 'saigon': 0.9846495594478284}",military_action
+Capture of Schwaben Redoubt,{'capture': 1.0},military_action
+Hurricane Noel,{'hurricane': 1.0},cyclone
+Hurricane Ione,{'hurricane': 1.0},cyclone
+Eritrean Civil Wars,{'civil': 1.0},
+Wagon tragedy,"{'wagon': 0.58100493713448, 'tragedy': 1.0}",bar
+Hurricane Katrina (1981),{'hurricane': 1.0},cyclone
+2000 Summer Olympics opening ceremony,{'summer': 1.0},Gregorian_calendar_month
+Caucasian War,{'war': 1.0},military_action
+Operation Vrbas '92,{'operation': 1.0},military_action
+No Mercy (1999),{'mercy': 1.0},situation
+Payback (2013),{'payback': 1.0},return
+1967 Football League Cup Final,"{'league': 0.5183001118016044, 'cup': 1.0, 'final': 0.7179775196363803}",bar
+2007 Nehru Cup,{'cup': 1.0},bar
+Afghan Civil War (1996–2001),{'war': 1.0},military_action
+1986 Jamaica floods,{'floods': 1.0},geological_phenomenon
+Ponce Marathon,{'marathon': 1.0},military_action
+US Campus Invasion Tour 2005,{'tour': 1.0},journey
+Sacrifice (2005),{'sacrifice': 1.0},military_action
+SummerSlam (2013),{'summerslam': 1.0},
+2010 Men's Asia Pacific Floorball Championships,"{'men': 1.0, 'asia': 0.5060546969534826}",bar
+1933 German football championship,"{'football': 0.5512203010377078, 'championship': 1.0}",high_status
+2008 Indian Premier League Final,"{'league': 0.7218890531058653, 'final': 1.0}",bar
+Winter Jam 2009,{'winter': 1.0},Gregorian_calendar_month
+Softball at the 2008 Summer Olympics,{'summer': 1.0},Gregorian_calendar_month
+Iranian Revolution,{'revolution': 1.0},military_action
+2014–15 Sheffield Shield season,"{'shield': 1.0, 'season': 0.7639821530177932}",Gregorian_calendar_month
+Operation Enduring Freedom – Horn of Africa,{'operation': 1.0},military_action
+2009 ICF Canoe Sprint World Championships,{'world': 1.0},bar
+1987 America's Cup,{'cup': 1.0},bar
+2000 UEFA European Under-21 Championship,{'championship': 1.0},high_status
+The Ultimate Fighter_ Team Rousey vs. Team Tate,{'team': 1.0},military_service
+The Comedy Festival,{'festival': 1.0},situation
+Typhoon Rammasun (2008),{'typhoon': 1.0},cyclone
+2012 Boston Marathon,{'marathon': 1.0},military_action
+First Parliament of the United Kingdom,{'united': 1.0},change
+Pan Celtic Festival,{'festival': 1.0},situation
+2009 Baseball World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}",bar
+Sennacherib,{'sennacherib': 1.0},
+Third Anglo-Burmese War,{'war': 1.0},military_action
+Operation Tidal Wave,{'operation': 1.0},military_action
+1997 Copa América,{'copa': 1.0},
+Cyclone Rewa,{'cyclone': 1.0},turbulence
+2012 AFC Annual Awards,{'afc': 1.0},
+Hurricane Otto (2010),{'hurricane': 1.0},cyclone
+2010 Bandy World Championship,{'world': 1.0},bar
+Cyclone Ron,{'cyclone': 1.0},turbulence
+1963 Copa Libertadores Finals,{'copa': 1.0},
+2012 Football League Cup Final,"{'league': 0.5183001118016044, 'cup': 1.0, 'final': 0.7179775196363803}",bar
+Tropical Storm Omeka,"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Catalan Way,"{'catalan': 0.7644529985742724, 'way': 1.0}",military_action
+2015 IIHF World Championship Division III,{'world': 1.0},bar
+2005 ICC Trophy,"{'icc': 1.0, 'trophy': 0.9131572368868742}",award
+Tropical Storm Debra (1978),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+2010 Champions League Twenty20,{'league': 1.0},bar
+Pequeño Reyes del Aire,"{'reyes': 0.7207039513931638, 'del': 1.0, 'aire': 0.7207039513931638}",stream
+Hurricane Isbell,{'hurricane': 1.0},cyclone
+2014 IIHF Women's World Championship Division II,{'world': 1.0},bar
+Ohio State Fair,"{'state': 0.9431789216318531, 'fair': 1.0}",geological_phenomenon
+2009–10 ICC Intercontinental Cup,{'cup': 1.0},bar
+2010–12 European Nations Cup First Division,{'cup': 1.0},bar
+2011 Copa América,{'copa': 1.0},
+1996 Men's World Ice Hockey Championships,{'world': 1.0},bar
+Typhoon Dot (1989),{'typhoon': 1.0},cyclone
+Tropical Storm Lidia (1981),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+1949 Texas hurricane,{'hurricane': 1.0},cyclone
+July Days,{'july': 1.0},Gregorian_calendar_month
+Hurricane Octave (1989),{'hurricane': 1.0},cyclone
+Hurricane Nora (1997),{'hurricane': 1.0},cyclone
+Hurricane Odile (1984),{'hurricane': 1.0},cyclone
+Tropical Storm Agatha,"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Second Battle of Panipat,{'battle': 1.0},military_action
+Tropical Storm Toraji (2007),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Hurricane Winifred (1992),{'hurricane': 1.0},cyclone
+Hurricane Babe,{'hurricane': 1.0},cyclone
+Lame Horse fire,{'fire': 1.0},situation
+2004 Myanmar cyclone,{'cyclone': 1.0},turbulence
+Hurricane Celia (2010),{'hurricane': 1.0},cyclone
+Formosa Expedition,{'expedition': 1.0},situation
+Hurricane Adrian (2005),{'hurricane': 1.0},cyclone
+Tropical Storm Octave (1983),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Tropical Storm Kelly,"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Hurricane Hugo,{'hurricane': 1.0},cyclone
+Typhoon Roy,{'typhoon': 1.0},cyclone
+Hurricane Alex (2004),{'hurricane': 1.0},cyclone
+Meteorological history of Hurricane Sandy,{'hurricane': 1.0},cyclone
+Battle of Racibórz,{'battle': 1.0},military_action
+Cyclone Hergen,{'cyclone': 1.0},turbulence
+Hurricane Tomas,{'hurricane': 1.0},cyclone
+1940 Nova Scotia hurricane,{'hurricane': 1.0},cyclone
+Hurricane King,{'hurricane': 1.0},cyclone
+Hurricane Felix,{'hurricane': 1.0},cyclone
+1821 Norfolk and Long Island hurricane,{'hurricane': 1.0},cyclone
+1995 Pro Bowl,"{'pro': 0.7126161043351634, 'bowl': 1.0}",military_action
+Tropical Storm Talas (2011),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+1979 FA Charity Shield,"{'fa': 1.0, 'shield': 0.959918306411993}",cover
+2015 Super Rugby Final,{'final': 1.0},match
+2010 Asian Five Nations division tournaments,"{'asian': 1.0, 'nations': 0.666249314587543, 'division': 0.6115093473757786}",conflict
+Sabotage at the General Post Office in Zagreb,"{'general': 1.0, 'post': 0.6509103661911331, 'zagreb': 0.7809479340591504}",military_action
+2010 Baja California earthquake,{'earthquake': 1.0},geological_phenomenon
+Second Italo-Ethiopian War,{'war': 1.0},military_action
+Community Cup,{'cup': 1.0},bar
+Georgia National Fair,"{'national': 1.0, 'fair': 0.5426613313017976}",Amerindian
+WE Fest,{'fest': 1.0},
+La Copa Junior,"{'la': 0.7451083066731117, 'copa': 1.0, 'junior': 0.7411855209023402}",Amerindian
+2010–11 Regional Four Day Competition,{'day': 1.0},Gregorian_calendar_month
+2014 OFC U-20 Championship,{'championship': 1.0},high_status
+Great Lakes Storm of 1913,{'storm': 1.0},geological_phenomenon
+2009 Asian Five Nations division tournaments,"{'asian': 1.0, 'nations': 0.666249314587543, 'division': 0.6115093473757786}",conflict
+Second Battle of Amman,{'battle': 1.0},military_action
+First battle of Öland (1564),{'battle': 1.0},military_action
+Battle of Buggenhout,{'battle': 1.0},military_action
+Jaipur Literature Festival,{'festival': 1.0},situation
+First Battle of Monte Grappa,{'battle': 1.0},military_action
+I World Cup of Masters,"{'world': 1.0, 'cup': 0.8880773864247816}",bar
+Johnson County War,{'war': 1.0},military_action
+Battle of Rawa,{'battle': 1.0},military_action
+2013 International Champions Cup,{'cup': 1.0},bar
+Revolt of the Batavi,{'revolt': 1.0},conflict
+2013 Preakness Stakes,"{'preakness': 0.8286341774600086, 'stakes': 1.0}",bar
+Tropical Storm Josephine (1996),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+2014 Belmont Stakes,{'stakes': 1.0},bar
+2015 Preakness Stakes,"{'preakness': 0.8286341774600086, 'stakes': 1.0}",bar
+Pontiac's War,{'war': 1.0},military_action
+Rico Linhas Aéreas Flight 4823,{'flight': 1.0},geological_phenomenon
+2003 FIFA Women's World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}",bar
+Hurricane Camille,{'hurricane': 1.0},cyclone
+1933 Tampico hurricane,{'hurricane': 1.0},cyclone
+King of the Ring (1997),{'king': 1.0},high_status
+Tropical Storm Etau (2009),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Detroit International Jazz Festival,{'festival': 1.0},situation
+Revolt of the Three Feudatories,"{'revolt': 0.957108739287181, 'three': 1.0}",conflict
+Mughal-Rajput War (1525),{'war': 1.0},military_action
+Kerensky–Krasnov uprising,{'uprising': 1.0},conflict
+July 1936 military uprising in Barcelona,"{'july': 0.6078826445361235, 'uprising': 1.0}",conflict
+World Orienteering Championships,{'world': 1.0},bar
+Ispah rebellion,{'rebellion': 1.0},conflict
+2014 Winter Olympics opening ceremony,{'winter': 1.0},Gregorian_calendar_month
+2008 World University Cycling Championship,{'world': 1.0},bar
+Battle of Riyadh (1902),{'battle': 1.0},military_action
+1998 Pro Bowl,"{'pro': 0.7126161043351634, 'bowl': 1.0}",military_action
+Case White,"{'case': 0.7561442359987839, 'white': 1.0}",bar
+Operation Crusader,{'operation': 1.0},military_action
+Agape Music Festival,{'festival': 1.0},situation
+The Boat Race 2011,"{'boat': 0.6427741548238052, 'race': 1.0}",bar
+2013 Northeastern China smog,{'china': 1.0},bar
+UK Centre for Carnival Arts,"{'centre': 1.0, 'arts': 0.6938557892791849}",bar
+2014 Nepal Premier League,{'league': 1.0},bar
+Fresh 15 Road Race,"{'road': 0.9002924900864728, 'race': 1.0}",bar
+2007 FA Community Shield,"{'fa': 1.0, 'shield': 0.959918306411993}",cover
+Operation Jacana,{'operation': 1.0},military_action
+Langerado,{'langerado': 1.0},
+2013 Africa Cup of Nations,{'cup': 1.0},bar
+Occupy Sydney,{'occupy': 1.0},be
+2012 Champions League Twenty20,{'league': 1.0},bar
+Salamaua–Lae campaign,{'campaign': 1.0},situation
+Football at the 2003 Afro-Asian Games,"{'football': 0.8954426335916722, 'asian': 1.0}",Amerindian
+II Mundialito de Seniors,{'ii': 1.0},large_integer
+2014 Berlin Marathon,{'marathon': 1.0},military_action
+The Fest,{'fest': 1.0},
+1981–82 Yugoslav Cup,{'cup': 1.0},bar
+TNA Turning Point,"{'turning': 0.5230098272465976, 'point': 1.0}",bar
+Tropical Storm Fran (1984),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+Ravi Shankar's Music Festival from India,{'festival': 1.0},situation
+2008 Men's World Floorball Championships,{'world': 1.0},bar
+Tropical Storm Podul (2013),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+International Pageant of Pulchritude,{'international': 1.0},socialism
+1989 Valvettiturai massacre,{'massacre': 1.0},homicide
+Typhoon Nida (2004),{'typhoon': 1.0},cyclone
+Hard Rock Hell,{'rock': 1.0},bar
+Grdelica train bombing,{'bombing': 1.0},homicide
+Tropical Storm Hazel (1965),"{'tropical': 0.9191684661959865, 'storm': 1.0}",geological_phenomenon
+2012 Masters Tournament,"{'masters': 1.0, 'tournament': 0.7901545107660135}",bar
+UEFA Euro 1968,{'uefa': 1.0},
+1999 Southeast Asian Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}",Amerindian
+The Boat Race 1994,"{'boat': 0.6427741548238052, 'race': 1.0}",bar
+Rawa Blues Festival,{'festival': 1.0},situation
+Basketball at the 2013 Southeast Asian Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}",Amerindian
+2008 Coupe de France Final,{'final': 1.0},match
+Midburn,{'midburn': 1.0},
+Get Loaded in the Park,{'park': 1.0},bar
+1961 U.S. Open (golf),{'open': 1.0},area
+Curling at the 2014 Winter Olympics,{'winter': 1.0},Gregorian_calendar_month
+Baseball at the 1992 Summer Olympics,{'summer': 1.0},Gregorian_calendar_month
+Reunion Tour (The Stone Roses),{'tour': 1.0},journey
+2009 Peace Cup,{'cup': 1.0},bar
+2016 Asia Cup,{'cup': 1.0},bar
+2014 International Champions Cup,{'cup': 1.0},bar
+1989 Southeast Asian Games,"{'southeast': 0.7395659650622352, 'asian': 1.0}",Amerindian
+2003 ASEAN Para Games,{'games': 1.0},military_action
+2014 Women's Hockey World Cup,"{'world': 1.0, 'cup': 0.8880773864247816}",bar
+2016 ICC World Twenty20,{'world': 1.0},bar
+2008 IIHF World Championship Division I,{'world': 1.0},bar
+2008 Men's Asia Pacific Floorball Championships,"{'men': 1.0, 'asia': 0.5060546969534826}",bar
+2015 Euroleague Final Four,{'final': 1.0},match
+2014 A-League Grand Final,"{'league': 0.7218890531058653, 'final': 1.0}",bar
+2009 ICC World Twenty20,{'world': 1.0},bar
+Diving at the 2012 Summer Olympics,{'summer': 1.0},Gregorian_calendar_month
+1994 Football League Trophy Final,"{'league': 0.7218890531058653, 'final': 1.0}",bar
+2005–06 KFC Twenty20 Big Bash,"{'big': 1.0, 'bash': 0.8516603959239426}",happening
+1998 U.S. Open Cup Final,"{'cup': 1.0, 'final': 0.7179775196363803}",bar
+1981 World Ice Hockey Championships,{'world': 1.0},bar
+2010 FA Community Shield,"{'fa': 1.0, 'shield': 0.959918306411993}",cover
+1997 Pro Bowl,"{'pro': 0.7126161043351634, 'bowl': 1.0}",military_action
+1994 Men's World Ice Hockey Championships,{'world': 1.0},bar
+1979 Football League Cup Final,"{'league': 0.5183001118016044, 'cup': 1.0, 'final': 0.7179775196363803}",bar
+K-1 Premium Dynamite!!,"{'premium': 1.0, 'dynamite': 1.0}",cover
+2002 Hebron ambush,{'ambush': 1.0},penetration
+Minneapolis general strike of 1934,{'strike': 1.0},situation
+Spanair Flight 5022,{'flight': 1.0},geological_phenomenon
