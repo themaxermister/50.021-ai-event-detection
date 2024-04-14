@@ -3,3 +3,4 @@
 /.vscode
 /data/*.jsonl
 /data/*.json
+/data/bin_model/*
