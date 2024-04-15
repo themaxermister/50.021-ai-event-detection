@@ -59,8 +59,11 @@ pip install -U transformers
 
 ## Data Exploration (MuZi)
 
-Talk about the dataset, explain why we chose to only target the title of the news article (Refer to the aim mentioned in the first presentation). Labels are not gd enough hence we decided to create our own labels that are more descriptive and coherent. Explain what you discovered in eda_before (ur code)
+For the project, we chose to focus only on the titles of news articles. This decision aligns with our aim to create a model that can accurately predict the nature of an article based solely on its title, which is often the first point of interaction for readers.
 
+The existing labels were found to be inadequate for our specific needs; they lacked the descriptiveness and coherence required for robust model training. Therefore, we decided to create our own set of labels that are tailored to our model’s purpose, enhancing the relevance and accuracy of the predictions.
+
+This approach allows us to develop a more focused and efficient model that aligns with our objectives of categorizing news based on title content effectively.
 ## Data Preprocessing
 
 ### Generating new features
@@ -69,7 +72,7 @@ Upon receiving the dataset, containing the title of the news article, we generat
 
 1. **Word Count**: The number of words in the title.
 2. **Character Count**: The number of characters in the title.
-3. **N-Grams**: Extracting n-grams (sequences of n words) from the title. This could capture patterns or phrases that are indicative of certain categories. Due to the short length of the titles, we decided to extract 2-grams.
+3. **N-Grams**: Extracting n-grams (sequences of n words) from the title. This could capture patterns or phrases that are indicative of certain categories. Due to the short length of the titles, we decided to extract 2-grams (bigrams).
 4. **Lemma**: The base form of the word.
 5. **POS**: The simple UPOS part-of-speech tag. 
 6. **Tag**: The detailed part-of-speech tag.
