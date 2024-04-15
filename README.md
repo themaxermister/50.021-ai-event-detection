@@ -61,6 +61,7 @@ pip install -U evaluate
 pip install -U datasets
 pip install -U accelerate
 pip install -U transformers
+pip install -U scikit-learn
 ```
 
 ### How to Run
@@ -179,36 +180,38 @@ It has also resulted in a dataset with more accurate labels and additional featu
 ## Model Training
 
 ### Model Selection
-Fine-tuning a pre-trained model via transfer learning is a common approach in NLP tasks. We experimented with three transformer-based models: BERT, DistilBERT, and RoBERTa. These models have been pre-trained on large corpora of text data and have been shown to achieve state-of-the-art performance in various NLP tasks.
+Fine-tuning a pre-trained model via transfer learning is a common approach in NLP tasks. We experimented with three transformer-based models: BERT, AlBERT, and RoBERTa. These models have been pre-trained on large corpora of text data and have been shown to achieve state-of-the-art performance in various NLP tasks.
 
 #### BERT
 BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based model that uses a bidirectional approach to capture the context of words in a sentence. BERT has been pre-trained on a large corpus of text data and can be fine-tuned on specific tasks with additional labeled data. We fine-tuned the BERT model on our dataset to predict the categories of news articles based on their titles and additional features.
 
-#### DistilBERT
-We also experimented with the DistilBERT model, a smaller and faster version of BERT. DistilBERT retains most of the performance of BERT while being faster and more memory-efficient. This makes it suitable for tasks where computational resources are limited. We fine-tuned the DistilBERT model on our dataset to compare its performance with BERT.
+#### AlBERT
+ALBERT (A Lite BERT) is a variant of the BERT model that uses a parameter-reduction technique to reduce the number of parameters while maintaining the model's performance. We fine-tuned the ALBERT model on our dataset to see if it could achieve similar performance to BERT with fewer parameters.
 
 #### RoBERTa
-RoBERTa uses a more aggressive BPE algorithm compared to BERT, leading to a larger number of sub-word units and a more fine-grained representation of the language. We fine-tuned the RoBERTa model on our dataset to compare its performance with BERT and DistilBERT.
+RoBERTa uses a more aggressive BPE algorithm compared to BERT, leading to a larger number of sub-word units and a more fine-grained representation of the language. We fine-tuned the RoBERTa model on our dataset to compare its performance with BERT and AlBERT.
 
 ### Model Training
-We fine-tuned the BERT, DistilBERT, and RoBERTa models on our preprocessed dataset. We used the Hugging Face Transformers library to load the pre-trained models and fine-tune them on our dataset. We trained the DistilBERT using the AdamW optimizer with a learning rate of 2e-5 and a batch size of 16. We trained the model for 3 epochs and evaluated them on the validation set. For the RoBERTa and BERT model, we used the same hyperparameters as the DistilBERT model.
+We fine-tuned the BERT, AlBERT, and RoBERTa models on our preprocessed dataset. We used the Hugging Face Transformers library to load the pre-trained models and fine-tune them on our dataset. We trained all the models with a learning rate of 5e-5, a batch size of 16, a weight decay of 0.01 and dropout probabilities of 0.1 for hidden layer outputs and attention probabilities in the self-attention mechanism. We trained the model for 20 epochs and evaluated them on the validation set. AdamW optimizer with a linear learning rate scheduler was used to optimize the model parameters.
 
 ### Model Evaluation
-We evaluated the performance of the models on the test set using the F1 score, precision, and recall. The F1 score is the harmonic mean of precision and recall and provides a balanced measure of the model's performance. We also calculated the accuracy of the models on the test set to evaluate their overall performance.
+
+#### Metrics
+We evaluated the performance of the models on the test set using the F1 score, precision, and recall. The F1 score is the harmonic mean of precision and recall and provides a balanced measure of the model's performance. Precision measures the proportion of true positive predictions among all positive predictions, while recall measures the proportion of true positive predictions among all actual positive instances. We also calculated the accuracy of the models on the test set, which measures the proportion of correct predictions among all predictions.
 
 ### Results
 The results of the model training and evaluation are as follows:
 
 | Model     | F1 Score | Precision | Recall | Accuracy |
 |-----------|----------|-----------|--------|----------|
-| BERT      | 0.877    | 0.880     | 0.881  | 0.881    |
-| DistilBERT| 0.83     | 0.83      | 0.841  | 0.841    |
-| RoBERTa   | 0.891    | 0.898     | 0.893  | 0.893    |
+| BERT      | 0.798    | 0.783     | 0.818  | 0.818    |
+| AlBERT    | 0.859    | 0.853     | 0.870  | 0.870    |
+| RoBERTa   | 0.879    | 0.881     | 0.880  | 0.880    |
 
-The RoBERTa model achieved the highest F1 score, precision, recall, and accuracy among the three models. The BERT model also performed well, with a slightly lower F1 score than RoBERTa. The DistilBERT model achieved a slightly lower F1 score than BERT and RoBERTa but still performed well overall.
+The RoBERTa model achieved the highest F1 score, precision, recall, and accuracy among the three models. The AlBERT model also performed well, with a slightly higher F1 score than BERT. The BERT model achieved a slightly lower F1 score than RoBERTa and AlBERT but still performed well overall.
 
 ### Conclusion
-In conclusion, the RoBERTa model achieved the best performance on our dataset, with the highest F1 score, precision, recall, and accuracy. The BERT model also performed well, with a slightly lower F1 score than RoBERTa. The DistilBERT model achieved a slightly lower F1 score than BERT and RoBERTa but still performed well overall. These results demonstrate the effectiveness of transformer-based models in event detection tasks and highlight the importance of fine-tuning pre-trained models on specific datasets to achieve optimal performance.
+In conclusion, the RoBERTa model achieved the best performance on our dataset, with the highest F1 score, precision, recall, and accuracy. The AlBERT model also performed well, with a slightly higher F1 score than BERT. The BERT model achieved a slightly lower F1 score than RoBERTa and AlBERT but still performed well overall. The results demonstrate the effectiveness of transformer-based models for event detection tasks and the importance of fine-tuning the models on specific datasets to achieve optimal performance.
 
 ## Future Work
 
