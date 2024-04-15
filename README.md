@@ -69,6 +69,13 @@ pip install -U transformers
    
 2. With the output dataset, train the model using `src/model.py`. 
 
+### Project Structure
+
+- eda_before.ipynb: Initial data exploration and analysis
+- preprocessing_stage_data.py: Preprocessing the dataset, adds additional features and generates more accurate labels'
+- eda_after.ipynb: Data exploration and analysis on the preprocessed dataset
+- model.ipynb: Training the model on the preprocessed dataset
+  
 ## Data Exploration
 
 For our project, we chose to focus only on the titles of news articles, aligning with our aim to develop a model that can accurately predict the nature of an article based on its title alone—the primary point of interaction for readers. This focus enhances efficiency in both model training and deployment, allowing us to address the challenge of accurately detecting context in the compact and impactful format of titles, which often lack detailed contextual clues.
