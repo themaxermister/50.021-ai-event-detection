@@ -71,11 +71,11 @@ pip install -U transformers
 
 ## Data Exploration
 
-For the project, we chose to focus only on the titles of news articles. This decision aligns with our aim to create a model that can accurately predict the nature of an article based solely on its title, which is often the first point of interaction for readers.
+For our project, we chose to focus only on the titles of news articles, aligning with our aim to develop a model that can accurately predict the nature of an article based on its title alone—the primary point of interaction for readers. This focus enhances efficiency in both model training and deployment, allowing us to address the challenge of accurately detecting context in the compact and impactful format of titles, which often lack detailed contextual clues.
 
-The existing labels were found to be inadequate for our specific needs; they lacked the descriptiveness and coherence required for robust model training. Therefore, we decided to create our own set of labels that are tailored to our model’s purpose, enhancing the relevance and accuracy of the predictions.
+We also identified that the existing labels in our dataset were inadequate for our specific needs. They lacked the descriptiveness and coherence necessary for robust model training, prompting us to create our own set of labels tailored to our model’s purpose. This strategic decision was further supported by the data sparsity encountered; the limited availability of uniformly labeled datasets and the presence of missing values in article bodies made titles a more reliable source of information.
 
-This approach allows us to develop a more focused and efficient model that aligns with our objectives of categorizing news based on title content effectively.
+By concentrating on titles and refining our labeling approach, we ensure that our training data is precisely aligned with our objectives. This approach allows us to develop a more focused and effective model, capable of categorizing news based on title content efficiently and with greater relevance to real-world reader interactions. This methodology not only meets our goal of enhancing predictive accuracy but also addresses practical limitations in data handling and computational resources.
 
 ## Data Preprocessing
 
