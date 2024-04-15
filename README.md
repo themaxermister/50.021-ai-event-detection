@@ -176,9 +176,49 @@ It has also resulted in a dataset with more accurate labels and additional featu
 
 ![Category Graph](images/category_outcome.png)
 
-## The Model (Kenny)
- 
-# Project Overview
+## Model Training
+
+### Model Selection
+Fine-tuning a pre-trained model via transfer learning is a common approach in NLP tasks. We experimented with three transformer-based models: BERT, DistilBERT, and RoBERTa. These models have been pre-trained on large corpora of text data and have been shown to achieve state-of-the-art performance in various NLP tasks.
+
+#### BERT
+BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based model that uses a bidirectional approach to capture the context of words in a sentence. BERT has been pre-trained on a large corpus of text data and can be fine-tuned on specific tasks with additional labeled data. We fine-tuned the BERT model on our dataset to predict the categories of news articles based on their titles and additional features.
+
+#### DistilBERT
+We also experimented with the DistilBERT model, a smaller and faster version of BERT. DistilBERT retains most of the performance of BERT while being faster and more memory-efficient. This makes it suitable for tasks where computational resources are limited. We fine-tuned the DistilBERT model on our dataset to compare its performance with BERT.
+
+#### RoBERTa
+RoBERTa uses a more aggressive BPE algorithm compared to BERT, leading to a larger number of sub-word units and a more fine-grained representation of the language. We fine-tuned the RoBERTa model on our dataset to compare its performance with BERT and DistilBERT.
+
+### Model Training
+We fine-tuned the BERT, DistilBERT, and RoBERTa models on our preprocessed dataset. We used the Hugging Face Transformers library to load the pre-trained models and fine-tune them on our dataset. We trained the DistilBERT using the AdamW optimizer with a learning rate of 2e-5 and a batch size of 16. We trained the model for 3 epochs and evaluated them on the validation set. For the RoBERTa and BERT model, we used the same hyperparameters as the DistilBERT model.
+
+### Model Evaluation
+We evaluated the performance of the models on the test set using the F1 score, precision, and recall. The F1 score is the harmonic mean of precision and recall and provides a balanced measure of the model's performance. We also calculated the accuracy of the models on the test set to evaluate their overall performance.
+
+### Results
+The results of the model training and evaluation are as follows:
+
+| Model     | F1 Score | Precision | Recall | Accuracy |
+|-----------|----------|-----------|--------|----------|
+| BERT      | 0.877    | 0.880     | 0.881  | 0.881    |
+| DistilBERT| 0.83     | 0.83      | 0.841  | 0.841    |
+| RoBERTa   | 0.891    | 0.898     | 0.893  | 0.893    |
+
+The RoBERTa model achieved the highest F1 score, precision, recall, and accuracy among the three models. The BERT model also performed well, with a slightly lower F1 score than RoBERTa. The DistilBERT model achieved a slightly lower F1 score than BERT and RoBERTa but still performed well overall.
+
+### Conclusion
+In conclusion, the RoBERTa model achieved the best performance on our dataset, with the highest F1 score, precision, recall, and accuracy. The BERT model also performed well, with a slightly lower F1 score than RoBERTa. The DistilBERT model achieved a slightly lower F1 score than BERT and RoBERTa but still performed well overall. These results demonstrate the effectiveness of transformer-based models in event detection tasks and highlight the importance of fine-tuning pre-trained models on specific datasets to achieve optimal performance.
+
+## Future Work
+
+1. **Data Augmentation**: We could explore data augmentation techniques to generate more training data and improve the model's performance. Techniques such as back-translation, synonym replacement, and word embedding could be used to augment the dataset and provide more diverse examples for the model to learn from.
+
+2. **Hyperparameter Tuning**: We could further optimize the hyperparameters of the model to improve its performance. Techniques such as grid search, random search, and Bayesian optimization could be used to find the optimal hyperparameters for the model.
+
+3. **Ensemble Methods**: We could explore ensemble methods to combine the predictions of multiple models and improve the overall performance. Techniques such as bagging, boosting, and stacking could be used to create an ensemble of models that work together to make more accurate predictions.
+
+4. **BERT Variants**: We could experiment with other variants of the BERT model, such as ALBERT, ELECTRA, and GPT-3, to see if they provide better performance on our dataset. These models have different architectures and training objectives that could potentially improve the model's performance in event detection tasks.
 
 ## Built with
 
