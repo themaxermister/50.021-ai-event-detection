@@ -211,7 +211,7 @@ The results of the model training and evaluation are as follows:
 The RoBERTa model achieved the highest F1 score, precision, recall, and accuracy among the three models. The AlBERT model also performed well, with a slightly higher F1 score than BERT. The BERT model achieved a slightly lower F1 score than RoBERTa and AlBERT but still performed well overall.
 
 ### Conclusion
-In conclusion, the RoBERTa model achieved the best performance on our dataset, with the highest F1 score, precision, recall, and accuracy. The AlBERT model also performed well, with a slightly higher F1 score than BERT. The BERT model achieved a slightly lower F1 score than RoBERTa and AlBERT but still performed well overall. The results demonstrate the effectiveness of transformer-based models for event detection tasks and the importance of fine-tuning the models on specific datasets to achieve optimal performance.
+In conclusion, the RoBERTa model achieved the best performance on our dataset, with the highest F1 score, precision, recall, and accuracy. The AlBERT model also performed well, with a slightly higher F1 score than BERT. The BERT model achieved a slightly lower F1 score than RoBERTa and AlBERT but still performed well overall. Despite having fewer parameters, ALBERT achieves comparable or even better performance than BERT on this task, thanks to its efficient use of parameters and parameter sharing. 
 
 ## Future Work
 
