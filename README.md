@@ -4,6 +4,18 @@ This project aims to detect events given the title of a news article through the
 
 This project is part of the 50.021 Artificial Intelligence course at the Singapore University of Technology & Design.
 
+## Problem Statement
+
+The problem involves event detection in a general domain, utilising the MAVEN dataset. The objective is to develop a model capable of automatically identifying and categorising various events for news articles from the title.
+
+Common problems faced in event detection include:
+
+1. Context Detection: Difficult to accurately detect context in a limited amount of text.
+
+2. Data Sparsity: Limited labelled datasets for specific domains. May have presence of missing or empty values in the dataset.
+
+To address these challenges, we generated more features from the dataset and created more accurate labels. With a more well-defined dataset, we aim to improve the performance of our model in detecting events.
+
 ## Running the code
 
 ### Prerequisites
@@ -57,13 +69,14 @@ pip install -U transformers
    
 2. With the output dataset, train the model using `src/model.py`. 
 
-## Data Exploration (MuZi)
+## Data Exploration
 
 For the project, we chose to focus only on the titles of news articles. This decision aligns with our aim to create a model that can accurately predict the nature of an article based solely on its title, which is often the first point of interaction for readers.
 
 The existing labels were found to be inadequate for our specific needs; they lacked the descriptiveness and coherence required for robust model training. Therefore, we decided to create our own set of labels that are tailored to our model’s purpose, enhancing the relevance and accuracy of the predictions.
 
 This approach allows us to develop a more focused and efficient model that aligns with our objectives of categorizing news based on title content effectively.
+
 ## Data Preprocessing
 
 ### Generating new features
@@ -118,17 +131,23 @@ We first used the Gensim library to generate the similarity scores between the t
 
 However, the Word2Vec model was not able to generate accurate similarity scores for the trigger words and the categories. Futhermore, the runtime of the model was too long, which would have made it difficult to generate the similarity scores for the entire dataset.
 
+![Gensim Sample](images/gensim_word_related.jpg)
+
 #### 2. NLTK
 
 We then used the NLTK library to generate the similarity scores between the trigger words and the categories. We used the synsets from the WordNet lexical database to generate the similarity scores. We calculated the similarity scores between the trigger words and the categories by comparing the synsets of the words in the trigger words and the categories.
 
 Although the NLTK library was able to generate more accurate similarity scores for the trigger words and the categories at faster speeds, we felt that the accuracy of the similarity scores could be further improved. 
 
+![NLTK Sample](images/nltk_word_related.jpg)
+
 #### 3. Spacy
 
 Finally, we used the Spacy library to generate the similarity scores between the trigger words and the categories. We made use of the `en_core_web_lg` model, which contained 685k keys, 685k unique vectors, 300 dimensions, and 685k vectors in total. We calculated the similarity scores between the trigger words and the categories by comparing the vectors of the words in the trigger words and the categories.
 
 The Spacy library was able to generate the most accurate similarity scores for the trigger words and the categories at fast speeds. Hence, we used the Spacy library to generate the similarity scores for the entire dataset.
+
+![SpaCy Sample](images/spacy_word_related.jpg)
 
 ### Labelling the dataset
 
