@@ -2,13 +2,60 @@
 
 This project aims to detect events given the title of a news article through the use of machine learning. The dataset used is the MAVEN: A Massive General Domain Event Detection Dataset ([MAVEN](https://github.com/THU-KEG/MAVEN-dataset)). By generating more features from the dataset and creating more accurate labels, we aim to improve the performance of the model in detecting events.
 
-This project is part of the 50.021 Artificial Intelligence course at the School of Computing, National University of Singapore.
+This project is part of the 50.021 Artificial Intelligence course at the Singapore University of Technology & Design.
 
 ## Running the code
 
 ### Prerequisites
 
+1. Ensure that you have a CSV file containing a column with the title of the news article. The title should be in the first column of the CSV file.
+
+Example:
+```csv
+title
+2006 Pangandaran earthquake and tsunami
+Battle of Koromo River
+2012–13 Ranji Trophy
+The Barricades
+Cyclone Larry
+Electric Daisy Carnival
+March 2015 North India unseasonal rain
+Aktion Erntefest
+Saint-Quentin-Fallavier attack
+2014 Kunming attack
+Operation Deliberate Force
+Hurricane Madeline (1976)
+NWEAMO
+Darlington rail crash
+...
+```
+
+2. Ensure that you have the following libraries installed:
+
+```bash
+conda install anaconda::pandas
+conda install anaconda::nltk
+conda install anaconda::scikit-learn
+conda install conda-forge::tensorflow
+conda install -c conda-forge spacy
+conda install -c conda-forge cupy
+python -m spacy download en_core_web_lg
+```
+
+3. Ensure that the following commands are run in your Python environment:
+
+```bash
+pip install -U evaluate
+pip install -U datasets
+pip install -U accelerate
+pip install -U transformers
+```
+
 ### How to Run
+
+1. Prepare the dataset by running `src/stage_dataset.py`. You may need to modify the file path in the script to point to your dataset and output with your desired filename
+   
+2. With the output dataset, train the model using `src/model.py`. 
 
 ## Data Exploration (MuZi)
 
@@ -101,7 +148,7 @@ It has also resulted in a dataset with more accurate labels and additional featu
 ![Category Graph](images/category_outcome.png)
 
 ## The Model (Kenny)
-
+ 
 # Project Overview
 
 ## Built with

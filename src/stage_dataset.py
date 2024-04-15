@@ -2,7 +2,6 @@ import spacy
 import pandas as pd
 from string import punctuation
 
-import nltk
 from nltk import ngrams
 from nltk.corpus import wordnet, stopwords
 from collections import Counter
@@ -212,14 +211,19 @@ def get_features(df):
     
     return df
 
+
+input_file_location = "data/full_maven.csv"
+output_file_location = "data/full_maven_with_category.csv"
+
+categories = ["business", "politics", "technology", "entertainment", "sports", "lifestyle", "health", "science", "education", "editorial", "international", "environment", "crime", "travel", "social"]
+columns = ['title', 'word_count', 'character_count', 'bigrams', 'lemma', 'pos', 'tag', 'dep', 'label', 'context_score', 'trigger_words', 'category']
+
 if __name__ == "__main__":
-    categories = ["business", "politics", "technology", "entertainment", "sports", "lifestyle", "health", "science", "education", "editorial", "international", "environment", "crime", "travel", "social"]
-    columns = ['title', 'word_count', 'character_count', 'bigrams', 'lemma', 'pos', 'tag', 'dep', 'label', 'context_score', 'trigger_words', 'category']
-    df = pd.read_csv("data/full_maven.csv")
+    df = pd.read_csv(input_file_location) # Original dataset file location
     df = get_features(df)
     
     df, current_categories = get_category_df(df, categories)
     df = df[columns]
     
-    df.to_csv('data/full_maven_with_category.csv', index=False)
+    df.to_csv(output_file_location, index=False) # Output dataset file location
     
