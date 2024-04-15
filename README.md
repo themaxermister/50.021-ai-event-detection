@@ -2,17 +2,87 @@
 
 This project aims to detect events given the title of a news article through the use of machine learning. The dataset used is the MAVEN: A Massive General Domain Event Detection Dataset ([MAVEN](https://github.com/THU-KEG/MAVEN-dataset)). By generating more features from the dataset and creating more accurate labels, we aim to improve the performance of the model in detecting events.
 
-This project is part of the 50.021 Artificial Intelligence course at the School of Computing, National University of Singapore.
+This project is part of the 50.021 Artificial Intelligence course at the Singapore University of Technology & Design.
+
+## Problem Statement
+
+The problem involves event detection in a general domain, utilising the MAVEN dataset. The objective is to develop a model capable of automatically identifying and categorising various events for news articles from the title.
+
+Common problems faced in event detection include:
+
+1. Context Detection: Difficult to accurately detect context in a limited amount of text.
+
+2. Data Sparsity: Limited labelled datasets for specific domains. May have presence of missing or empty values in the dataset.
+
+To address these challenges, we generated more features from the dataset and created more accurate labels. With a more well-defined dataset, we aim to improve the performance of our model in detecting events.
 
 ## Running the code
 
 ### Prerequisites
 
+1. Ensure that you have a CSV file containing a column with the title of the news article. The title should be in the first column of the CSV file.
+
+Example:
+```csv
+title
+2006 Pangandaran earthquake and tsunami
+Battle of Koromo River
+2012–13 Ranji Trophy
+The Barricades
+Cyclone Larry
+Electric Daisy Carnival
+March 2015 North India unseasonal rain
+Aktion Erntefest
+Saint-Quentin-Fallavier attack
+2014 Kunming attack
+Operation Deliberate Force
+Hurricane Madeline (1976)
+NWEAMO
+Darlington rail crash
+...
+```
+
+2. Ensure that you have the following libraries installed:
+
+```bash
+conda install anaconda::pandas
+conda install anaconda::nltk
+conda install anaconda::scikit-learn
+conda install conda-forge::tensorflow
+conda install -c conda-forge spacy
+conda install -c conda-forge cupy
+python -m spacy download en_core_web_lg
+```
+
+3. Ensure that the following commands are run in your Python environment:
+
+```bash
+pip install -U evaluate
+pip install -U datasets
+pip install -U accelerate
+pip install -U transformers
+```
+
 ### How to Run
 
-## Data Exploration (MuZi)
+1. Prepare the dataset by running `src/stage_dataset.py`. You may need to modify the file path in the script to point to your dataset and output with your desired filename
+   
+2. With the output dataset, train the model using `src/model.py`. 
 
-Talk about the dataset, explain why we chose to only target the title of the news article (Refer to the aim mentioned in the first presentation). Labels are not gd enough hence we decided to create our own labels that are more descriptive and coherent. Explain what you discovered in eda_before (ur code)
+### Project Structure
+
+- eda_before.ipynb: Initial data exploration and analysis
+- preprocessing_stage_data.py: Preprocessing the dataset, adds additional features and generates more accurate labels'
+- eda_after.ipynb: Data exploration and analysis on the preprocessed dataset
+- model.ipynb: Training the model on the preprocessed dataset
+  
+## Data Exploration
+
+For our project, we chose to focus only on the titles of news articles, aligning with our aim to develop a model that can accurately predict the nature of an article based on its title alone—the primary point of interaction for readers. This focus enhances efficiency in both model training and deployment, allowing us to address the challenge of accurately detecting context in the compact and impactful format of titles, which often lack detailed contextual clues.
+
+We also identified that the existing labels in our dataset were inadequate for our specific needs. They lacked the descriptiveness and coherence necessary for robust model training, prompting us to create our own set of labels tailored to our model’s purpose. This strategic decision was further supported by the data sparsity encountered; the limited availability of uniformly labeled datasets and the presence of missing values in article bodies made titles a more reliable source of information.
+
+By concentrating on titles and refining our labeling approach, we ensure that our training data is precisely aligned with our objectives. This approach allows us to develop a more focused and effective model, capable of categorizing news based on title content efficiently and with greater relevance to real-world reader interactions. This methodology not only meets our goal of enhancing predictive accuracy but also addresses practical limitations in data handling and computational resources.
 
 ## Data Preprocessing
 
@@ -22,7 +92,7 @@ Upon receiving the dataset, containing the title of the news article, we generat
 
 1. **Word Count**: The number of words in the title.
 2. **Character Count**: The number of characters in the title.
-3. **N-Grams**: Extracting n-grams (sequences of n words) from the title. This could capture patterns or phrases that are indicative of certain categories. Due to the short length of the titles, we decided to extract 2-grams.
+3. **N-Grams**: Extracting n-grams (sequences of n words) from the title. This could capture patterns or phrases that are indicative of certain categories. Due to the short length of the titles, we decided to extract 2-grams (bigrams).
 4. **Lemma**: The base form of the word.
 5. **POS**: The simple UPOS part-of-speech tag. 
 6. **Tag**: The detailed part-of-speech tag.
@@ -68,17 +138,23 @@ We first used the Gensim library to generate the similarity scores between the t
 
 However, the Word2Vec model was not able to generate accurate similarity scores for the trigger words and the categories. Futhermore, the runtime of the model was too long, which would have made it difficult to generate the similarity scores for the entire dataset.
 
+![Gensim Sample](images/gensim_word_related.jpg)
+
 #### 2. NLTK
 
 We then used the NLTK library to generate the similarity scores between the trigger words and the categories. We used the synsets from the WordNet lexical database to generate the similarity scores. We calculated the similarity scores between the trigger words and the categories by comparing the synsets of the words in the trigger words and the categories.
 
 Although the NLTK library was able to generate more accurate similarity scores for the trigger words and the categories at faster speeds, we felt that the accuracy of the similarity scores could be further improved. 
 
+![NLTK Sample](images/nltk_word_related.jpg)
+
 #### 3. Spacy
 
 Finally, we used the Spacy library to generate the similarity scores between the trigger words and the categories. We made use of the `en_core_web_lg` model, which contained 685k keys, 685k unique vectors, 300 dimensions, and 685k vectors in total. We calculated the similarity scores between the trigger words and the categories by comparing the vectors of the words in the trigger words and the categories.
 
 The Spacy library was able to generate the most accurate similarity scores for the trigger words and the categories at fast speeds. Hence, we used the Spacy library to generate the similarity scores for the entire dataset.
+
+![SpaCy Sample](images/spacy_word_related.jpg)
 
 ### Labelling the dataset
 
@@ -101,7 +177,7 @@ It has also resulted in a dataset with more accurate labels and additional featu
 ![Category Graph](images/category_outcome.png)
 
 ## The Model (Kenny)
-
+ 
 # Project Overview
 
 ## Built with
