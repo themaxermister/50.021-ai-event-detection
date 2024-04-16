@@ -73,8 +73,10 @@ pip install -U scikit-learn
    - `bert.ipynb`
    - `roberta.ipynb`
 
-### Project Structure
+### Project
 
+- /data: Folder containing the dataset
+- /images: Folder containing images used in the README
 - eda_before.ipynb: Initial data exploration and analysis
 - preprocessing_stage_data.py: Preprocessing the dataset, adds additional features and generates more accurate labels'
 - eda_after.ipynb: Data exploration and analysis on the preprocessed dataset
