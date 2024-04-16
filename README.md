@@ -68,14 +68,19 @@ pip install -U scikit-learn
 
 1. Prepare the dataset by running `src/stage_dataset.py`. You may need to modify the file path in the script to point to your dataset and output with your desired filename
    
-2. With the output dataset, train the model using `src/model.py`. 
+2. With the output dataset, you may train a model using the following notebooks:
+   - `albert.ipynb`
+   - `bert.ipynb`
+   - `roberta.ipynb`
 
 ### Project Structure
 
 - eda_before.ipynb: Initial data exploration and analysis
 - preprocessing_stage_data.py: Preprocessing the dataset, adds additional features and generates more accurate labels'
 - eda_after.ipynb: Data exploration and analysis on the preprocessed dataset
-- model.ipynb: Training the model on the preprocessed dataset
+- albert.ipynb: Model training and evaluation using the ALBERT model
+- bert.ipynb: Model training and evaluation using the BERT model
+- roberta.ipynb: Model training and evaluation using the RoBERTa model
   
 ## Data Exploration
 
