@@ -70,7 +70,7 @@ pip install -U scikit-learn
    
 2. With the output dataset, you may train a model using the following notebooks:
    - `albert.ipynb`
-   - `bert.ipynb`
+   - `ber-tiny.ipynb`
    - `roberta.ipynb`
 
 ### Project
@@ -81,7 +81,7 @@ pip install -U scikit-learn
 - preprocessing_stage_data.py: Preprocessing the dataset, adds additional features and generates more accurate labels'
 - eda_after.ipynb: Data exploration and analysis on the preprocessed dataset
 - albert.ipynb: Model training and evaluation using the ALBERT model
-- bert.ipynb: Model training and evaluation using the BERT model
+- bert-tiny.ipynb: Model training and evaluation using the BERT-tiny model
 - roberta.ipynb: Model training and evaluation using the RoBERTa model
   
 ## Data Exploration
@@ -187,19 +187,19 @@ It has also resulted in a dataset with more accurate labels and additional featu
 ## Model Training
 
 ### Model Selection
-Fine-tuning a pre-trained model via transfer learning is a common approach in NLP tasks. We experimented with three transformer-based models: BERT, AlBERT, and RoBERTa. These models have been pre-trained on large corpora of text data and have been shown to achieve state-of-the-art performance in various NLP tasks.
+Fine-tuning a pre-trained model via transfer learning is a common approach in NLP tasks. We experimented with three transformer-based models: BERT-tiny, AlBERT, and RoBERTa. These models have been pre-trained on large corpora of text data and have been shown to achieve state-of-the-art performance in various NLP tasks.
 
 #### BERT
-BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based model that uses a bidirectional approach to capture the context of words in a sentence. BERT has been pre-trained on a large corpus of text data and can be fine-tuned on specific tasks with additional labeled data. We fine-tuned the BERT model on our dataset to predict the categories of news articles based on their titles and additional features.
+BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based model that uses a bidirectional approach to capture the context of words in a sentence. BERT has been pre-trained on a large corpus of text data and can be fine-tuned on specific tasks with additional labeled data. We fine-tuned the BERT-tiny variant on our dataset to predict the categories of news articles based on their titles and additional features as a baseline model.
 
 #### AlBERT
 ALBERT (A Lite BERT) is a variant of the BERT model that uses a parameter-reduction technique to reduce the number of parameters while maintaining the model's performance. We fine-tuned the ALBERT model on our dataset to see if it could achieve similar performance to BERT with fewer parameters.
 
 #### RoBERTa
-RoBERTa uses a more aggressive BPE algorithm compared to BERT, leading to a larger number of sub-word units and a more fine-grained representation of the language. We fine-tuned the RoBERTa model on our dataset to compare its performance with BERT and AlBERT.
+RoBERTa uses a more aggressive BPE algorithm compared to BERT, leading to a larger number of sub-word units and a more fine-grained representation of the language. We fine-tuned the RoBERTa model on our dataset to compare its performance with BERT-tiny and AlBERT.
 
 ### Model Training
-We fine-tuned the BERT, AlBERT, and RoBERTa models on our preprocessed dataset. We used the Hugging Face Transformers library to load the pre-trained models and fine-tune them on our dataset. We trained all the models with a learning rate of 5e-5, a batch size of 16, a weight decay of 0.01 and dropout probabilities of 0.1 for hidden layer outputs and attention probabilities in the self-attention mechanism. We trained the model for 20 epochs and evaluated them on the validation set. AdamW optimizer with a linear learning rate scheduler was used to optimize the model parameters.
+We fine-tuned the BERT-tiny, AlBERT, and RoBERTa models on our preprocessed dataset. We used the Hugging Face Transformers library to load the pre-trained models and fine-tune them on our dataset. The code also does some pre-processing of the dataset in terms of tokenization and padding/truncating the title to a specific sequence that the BERT variants require. We trained all the models with a learning rate of 5e-5, a batch size of 16, a weight decay of 0.01 and dropout probabilities of 0.1 for hidden layer outputs and attention probabilities in the self-attention mechanism. We trained the model for 20 epochs and evaluated them on the validation set. AdamW optimizer with a linear learning rate scheduler was used to optimize the model parameters.
 
 ### Model Evaluation
 
@@ -211,14 +211,14 @@ The results of the model training and evaluation are as follows:
 
 | Model     | F1 Score | Precision | Recall | Accuracy |
 |-----------|----------|-----------|--------|----------|
-| BERT      | 0.798    | 0.783     | 0.818  | 0.818    |
+| BERT-tiny | 0.798    | 0.783     | 0.818  | 0.818    |
 | AlBERT    | 0.859    | 0.853     | 0.870  | 0.870    |
 | RoBERTa   | 0.879    | 0.881     | 0.880  | 0.880    |
 
-The RoBERTa model achieved the highest F1 score, precision, recall, and accuracy among the three models. The AlBERT model also performed well, with a slightly higher F1 score than BERT. The BERT model achieved a slightly lower F1 score than RoBERTa and AlBERT but still performed well overall.
+The RoBERTa model achieved the highest F1 score, precision, recall, and accuracy among the three models. The AlBERT model also performed well, with a slightly higher F1 score than BERT-tiny. The BERT-tiny model achieved a slightly lower F1 score than RoBERTa and AlBERT but still performed well overall.
 
 ### Conclusion
-In conclusion, the RoBERTa model achieved the best performance on our dataset, with the highest F1 score, precision, recall, and accuracy. The AlBERT model also performed well, with a slightly higher F1 score than BERT. The BERT model achieved a slightly lower F1 score than RoBERTa and AlBERT but still performed well overall. Despite having fewer parameters, ALBERT achieves comparable or even better performance than BERT on this task, thanks to its efficient use of parameters and parameter sharing. 
+In conclusion, the RoBERTa model achieved the best performance on our dataset, with the highest F1 score, precision, recall, and accuracy. The AlBERT model also performed well, with a slightly higher F1 score than BERT-tiny. The BERT-tiny model achieved a slightly lower F1 score than RoBERTa and AlBERT but still performed well overall. Despite having fewer parameters, ALBERT achieves comparable or even better performance than BERT-tiny on this task, thanks to its efficient use of parameters and parameter sharing. 
 
 ## Future Work
 
